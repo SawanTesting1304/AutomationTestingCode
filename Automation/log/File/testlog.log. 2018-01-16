@@ -1,0 +1,56 @@
+2018-01-16 21:11:16 INFO [main] (AssetWorkFlow.java:42)- Logged In sucessfully
+2018-01-16 21:11:18 INFO [main] (AssetWorkFlow.java:44)- Executing Post Close start
+2018-01-16 21:11:41 INFO [main] (Common.java:981)- Search Assect by Smart Search
+2018-01-16 21:12:07 INFO [main] (Common.java:1004)- Asset opened sucessfully
+2018-01-16 21:22:58 INFO [main] (CreateLease.java:45)- Logged In sucessfully
+2018-01-16 21:23:59 INFO [main] (CreateLease.java:104)- Location found
+2018-01-16 21:24:05 INFO [main] (Common.java:1052)- Tract info popup loaded sucessfully
+2018-01-16 21:24:08 INFO [main] (Common.java:1060)- Total Tract County: 1
+2018-01-16 21:24:10 INFO [main] (Common.java:1069)- Total Row Found: 1
+2018-01-16 21:24:16 INFO [main] (Common.java:1081)- Tract Subsection Updated
+2018-01-16 21:24:17 INFO [main] (Common.java:1085)- Tract Created Sucessessfully
+2018-01-16 21:24:17 INFO [main] (Common.java:1089)- Switch to Tract header sucessfully
+2018-01-16 21:24:24 INFO [main] (Common.java:1121)- Tract header filled sucessfully
+2018-01-16 21:24:24 INFO [main] (Common.java:1126)- Tract Created Sucessessfully
+2018-01-16 21:24:44 INFO [main] (CreateLease.java:132)- Search Lease By Smart Search Start
+2018-01-16 21:25:09 INFO [main] (CreateLease.java:168)- Lease Search By Smart Search Completed
+2018-01-16 21:44:10 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2018-01-16 21:45:27 INFO [main] (Common.java:1199)- Location found
+2018-01-16 21:47:28 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2018-01-16 21:48:55 INFO [main] (Common.java:1199)- Location found
+2018-01-16 21:49:01 INFO [main] (Common.java:1059)- Tract info popup loaded sucessfully
+2018-01-16 21:49:05 INFO [main] (Common.java:1067)- Total Tract County: 1
+2018-01-16 21:49:08 INFO [main] (Common.java:1076)- Total Row Found: 1
+2018-01-16 21:49:15 INFO [main] (Common.java:1088)- Tract Subsection Updated
+2018-01-16 21:49:15 INFO [main] (Common.java:1092)- Tract Created Sucessessfully
+2018-01-16 21:49:15 INFO [main] (Common.java:1096)- Switch to Tract header sucessfully
+2018-01-16 21:49:23 INFO [main] (Common.java:1128)- Tract header filled sucessfully
+2018-01-16 21:49:23 INFO [main] (Common.java:1133)- Tract Created Sucessessfully
+2018-01-16 21:49:43 INFO [main] (Common.java:1214)- Search Lease By Smart Search Start
+2018-01-16 21:50:18 INFO [main] (Common.java:1250)- Lease Search By Smart Search Completed
+2018-01-16 22:00:06 INFO [main] (CreateLease.java:47)- Logged In sucessfully
+2018-01-16 22:01:31 INFO [main] (CommonLeaseFunction.java:174)- Location found
+2018-01-16 22:01:37 INFO [main] (CommonLeaseFunction.java:34)- Tract info popup loaded sucessfully
+2018-01-16 22:01:40 INFO [main] (CommonLeaseFunction.java:42)- Total Tract County: 1
+2018-01-16 22:01:42 INFO [main] (CommonLeaseFunction.java:51)- Total Row Found: 1
+2018-01-16 22:01:48 INFO [main] (CommonLeaseFunction.java:63)- Tract Subsection Updated
+2018-01-16 22:01:49 INFO [main] (CommonLeaseFunction.java:67)- Tract Created Sucessessfully
+2018-01-16 22:01:49 INFO [main] (CommonLeaseFunction.java:71)- Switch to Tract header sucessfully
+2018-01-16 22:01:57 INFO [main] (CommonLeaseFunction.java:103)- Tract header filled sucessfully
+2018-01-16 22:01:58 INFO [main] (CommonLeaseFunction.java:108)- Tract Created Sucessessfully
+2018-01-16 22:02:18 INFO [main] (CommonLeaseFunction.java:189)- Search Lease By Smart Search Start
+2018-01-16 22:02:42 INFO [main] (CommonLeaseFunction.java:225)- Lease Search By Smart Search Completed
+2018-01-16 22:09:19 INFO [main] (CreateLease.java:47)- Logged In sucessfully
+2018-01-16 22:10:20 INFO [main] (CommonLeaseFunction.java:174)- Location found
+2018-01-16 22:11:24 INFO [main] (CreateLease.java:47)- Logged In sucessfully
+2018-01-16 22:12:24 INFO [main] (CommonLeaseFunction.java:174)- Location found
+2018-01-16 22:12:30 INFO [main] (CommonLeaseFunction.java:34)- Tract info popup loaded sucessfully
+2018-01-16 22:12:33 INFO [main] (CommonLeaseFunction.java:42)- Total Tract County: 1
+2018-01-16 22:12:35 INFO [main] (CommonLeaseFunction.java:51)- Total Row Found: 1
+2018-01-16 22:12:41 INFO [main] (CommonLeaseFunction.java:63)- Tract Subsection Updated
+2018-01-16 22:12:42 INFO [main] (CommonLeaseFunction.java:67)- Tract Created Sucessessfully
+2018-01-16 22:12:42 INFO [main] (CommonLeaseFunction.java:71)- Switch to Tract header sucessfully
+2018-01-16 22:12:48 INFO [main] (CommonLeaseFunction.java:103)- Tract header filled sucessfully
+2018-01-16 22:12:49 INFO [main] (CommonLeaseFunction.java:108)- Tract Created Sucessessfully
+2018-01-16 22:13:09 INFO [main] (CommonLeaseFunction.java:189)- Search Lease By Smart Search Start
+2018-01-16 22:13:31 INFO [main] (CommonLeaseFunction.java:225)- Lease Search By Smart Search Completed

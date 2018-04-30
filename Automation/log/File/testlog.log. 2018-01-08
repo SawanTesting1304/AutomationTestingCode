@@ -1,0 +1,36 @@
+2018-01-08 14:16:37 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-01-08 14:17:09 INFO [main] (DivisionOrder.java:59)- Division Order List Opened
+2018-01-08 14:17:09 INFO [main] (DivisionOrder.java:61)- Creating Division Order Start
+2018-01-08 14:17:18 INFO [main] (DivisionOrder.java:64)- Header section Start
+2018-01-08 14:17:24 INFO [main] (DivisionOrder.java:78)- Header section completed
+2018-01-08 14:17:24 INFO [main] (DivisionOrder.java:82)- Attaching document
+2018-01-08 14:17:39 INFO [main] (DivisionOrder.java:99)- Document Attached sucessfully
+2018-01-08 14:17:39 INFO [main] (DivisionOrder.java:104)- Search And Select County
+2018-01-08 14:19:18 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-01-08 14:19:42 INFO [main] (DivisionOrder.java:59)- Division Order List Opened
+2018-01-08 14:19:42 INFO [main] (DivisionOrder.java:61)- Creating Division Order Start
+2018-01-08 14:19:50 INFO [main] (DivisionOrder.java:64)- Header section Start
+2018-01-08 14:19:57 INFO [main] (DivisionOrder.java:78)- Header section completed
+2018-01-08 14:19:57 INFO [main] (DivisionOrder.java:82)- Attaching document
+2018-01-08 14:20:11 INFO [main] (DivisionOrder.java:99)- Document Attached sucessfully
+2018-01-08 14:20:11 INFO [main] (DivisionOrder.java:104)- Search And Select County
+2018-01-08 14:21:11 INFO [main] (DivisionOrder.java:130)- Search and Select County section Completed
+2018-01-08 14:21:11 INFO [main] (DivisionOrder.java:135)- No Records available. Please initiate search.
+2018-01-08 14:23:03 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-01-08 14:23:26 INFO [main] (DivisionOrder.java:59)- Division Order List Opened
+2018-01-08 14:23:26 INFO [main] (DivisionOrder.java:61)- Creating Division Order Start
+2018-01-08 14:23:34 INFO [main] (DivisionOrder.java:64)- Header section Start
+2018-01-08 14:23:39 INFO [main] (DivisionOrder.java:78)- Header section completed
+2018-01-08 14:23:39 INFO [main] (DivisionOrder.java:82)- Attaching document
+2018-01-08 14:23:53 INFO [main] (DivisionOrder.java:99)- Document Attached sucessfully
+2018-01-08 14:23:53 INFO [main] (DivisionOrder.java:104)- Search And Select County
+2018-01-08 14:27:37 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-01-08 14:27:59 INFO [main] (DivisionOrder.java:59)- Division Order List Opened
+2018-01-08 14:27:59 INFO [main] (DivisionOrder.java:61)- Creating Division Order Start
+2018-01-08 14:28:07 INFO [main] (DivisionOrder.java:64)- Header section Start
+2018-01-08 14:28:12 INFO [main] (DivisionOrder.java:78)- Header section completed
+2018-01-08 14:28:12 INFO [main] (DivisionOrder.java:82)- Attaching document
+2018-01-08 14:28:25 INFO [main] (DivisionOrder.java:99)- Document Attached sucessfully
+2018-01-08 14:28:25 INFO [main] (DivisionOrder.java:104)- Search And Select County
+2018-01-08 14:29:25 INFO [main] (DivisionOrder.java:130)- Search and Select County section Completed
+2018-01-08 14:29:26 INFO [main] (DivisionOrder.java:135)- No Records available. Please initiate search.

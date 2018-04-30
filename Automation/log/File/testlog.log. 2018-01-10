@@ -1,0 +1,23 @@
+2018-01-10 13:29:46 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-01-10 13:30:15 INFO [main] (DivisionOrder.java:59)- Division Order List Opened
+2018-01-10 13:30:15 INFO [main] (DivisionOrder.java:61)- Creating Division Order Start
+2018-01-10 13:30:23 INFO [main] (DivisionOrder.java:64)- Header section Start
+2018-01-10 13:30:30 INFO [main] (DivisionOrder.java:78)- Header section completed
+2018-01-10 13:30:30 INFO [main] (DivisionOrder.java:82)- Attaching document
+2018-01-10 13:30:46 INFO [main] (DivisionOrder.java:99)- Document Attached sucessfully
+2018-01-10 13:30:46 INFO [main] (DivisionOrder.java:104)- Search And Select County
+2018-01-10 13:31:46 INFO [main] (DivisionOrder.java:130)- Search and Select County section Completed
+2018-01-10 13:31:46 INFO [main] (DivisionOrder.java:135)- No Records available. Please initiate search.
+2018-01-10 14:37:35 INFO [main] (CreateLease.java:45)- Logged In sucessfully
+2018-01-10 14:38:40 INFO [main] (CreateLease.java:104)- Location found
+2018-01-10 14:46:38 INFO [main] (CreateProspect.java:80)- Logged In sucessfully
+2018-01-10 14:47:40 INFO [main] (CreateProspect.java:137)- Location found
+2018-01-10 14:47:46 INFO [main] (CreateProspect.java:226)- Tract info popup loaded sucessfully
+2018-01-10 14:47:49 INFO [main] (CreateProspect.java:234)- Total Tract County: 1
+2018-01-10 14:47:51 INFO [main] (CreateProspect.java:242)- Total Row Found: 1
+2018-01-10 14:48:03 INFO [main] (CreateProspect.java:261)- Tract Subsection Updated
+2018-01-10 14:48:04 INFO [main] (CreateProspect.java:266)- Tract Created Sucessessfully
+2018-01-10 14:48:04 INFO [main] (CreateProspect.java:270)- Switch to Tract header sucessfully
+2018-01-10 14:48:11 INFO [main] (CreateProspect.java:293)- Tract header filled sucessfully
+2018-01-10 14:48:11 INFO [main] (CreateProspect.java:298)- Tract Created Sucessessfully
+2018-01-10 14:48:40 INFO [main] (CreateProspect.java:347)- Prospect Viewed By Menu List

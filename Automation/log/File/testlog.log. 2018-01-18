@@ -1,0 +1,100 @@
+2018-01-18 15:17:15 INFO [main] (PendingOfferFlow.java:47)- Logged In sucessfully
+2018-01-18 15:18:09 INFO [main] (CommonProspectWorkFlow.java:83)- Location found
+2018-01-18 15:18:19 INFO [main] (CommonProspectWorkFlow.java:100)- Tract info popup loaded sucessfully
+2018-01-18 15:18:21 INFO [main] (CommonProspectWorkFlow.java:108)- Total Tract County: 1
+2018-01-18 15:18:23 INFO [main] (CommonProspectWorkFlow.java:116)- Total Row Found: 1
+2018-01-18 15:18:35 INFO [main] (CommonProspectWorkFlow.java:134)- Tract Subsection Updated
+2018-01-18 15:18:36 INFO [main] (CommonProspectWorkFlow.java:139)- Tract Created Sucessessfully
+2018-01-18 15:18:36 INFO [main] (CommonProspectWorkFlow.java:143)- Switch to Tract header sucessfully
+2018-01-18 15:18:47 INFO [main] (CommonProspectWorkFlow.java:166)- Tract header filled sucessfully
+2018-01-18 15:18:48 INFO [main] (CommonProspectWorkFlow.java:171)- Tract Created Sucessessfully
+2018-01-18 15:19:02 INFO [main] (CommonProspectWorkFlow.java:183)- Price
+2018-01-18 15:21:11 INFO [main] (PendingOfferFlow.java:47)- Logged In sucessfully
+2018-01-18 15:22:03 INFO [main] (CommonProspectWorkFlow.java:83)- Location found
+2018-01-18 15:22:13 INFO [main] (CommonProspectWorkFlow.java:100)- Tract info popup loaded sucessfully
+2018-01-18 15:22:15 INFO [main] (CommonProspectWorkFlow.java:108)- Total Tract County: 1
+2018-01-18 15:22:17 INFO [main] (CommonProspectWorkFlow.java:116)- Total Row Found: 1
+2018-01-18 15:22:28 INFO [main] (CommonProspectWorkFlow.java:134)- Tract Subsection Updated
+2018-01-18 15:22:29 INFO [main] (CommonProspectWorkFlow.java:139)- Tract Created Sucessessfully
+2018-01-18 15:22:29 INFO [main] (CommonProspectWorkFlow.java:143)- Switch to Tract header sucessfully
+2018-01-18 15:22:36 INFO [main] (CommonProspectWorkFlow.java:166)- Tract header filled sucessfully
+2018-01-18 15:22:37 INFO [main] (CommonProspectWorkFlow.java:171)- Tract Created Sucessessfully
+2018-01-18 15:22:51 INFO [main] (CommonProspectWorkFlow.java:183)- Price
+2018-01-18 15:23:01 INFO [main] (CommonProspectWorkFlow.java:195)- Price Approval sent to management Sucessfully
+2018-01-18 15:23:04 INFO [main] (CommonProspectWorkFlow.java:206)- ManagenmentPricApproval
+2018-01-18 15:26:11 INFO [main] (PendingOfferFlow.java:47)- Logged In sucessfully
+2018-01-18 15:27:07 INFO [main] (CommonProspectWorkFlow.java:83)- Location found
+2018-01-18 15:27:17 INFO [main] (CommonProspectWorkFlow.java:100)- Tract info popup loaded sucessfully
+2018-01-18 15:27:19 INFO [main] (CommonProspectWorkFlow.java:108)- Total Tract County: 1
+2018-01-18 15:27:21 INFO [main] (CommonProspectWorkFlow.java:116)- Total Row Found: 1
+2018-01-18 15:27:32 INFO [main] (CommonProspectWorkFlow.java:134)- Tract Subsection Updated
+2018-01-18 15:27:33 INFO [main] (CommonProspectWorkFlow.java:139)- Tract Created Sucessessfully
+2018-01-18 15:27:33 INFO [main] (CommonProspectWorkFlow.java:143)- Switch to Tract header sucessfully
+2018-01-18 15:27:40 INFO [main] (CommonProspectWorkFlow.java:166)- Tract header filled sucessfully
+2018-01-18 15:27:40 INFO [main] (CommonProspectWorkFlow.java:171)- Tract Created Sucessessfully
+2018-01-18 15:27:57 INFO [main] (CommonProspectWorkFlow.java:183)- Price
+2018-01-18 15:28:07 INFO [main] (CommonProspectWorkFlow.java:195)- Price Approval sent to management Sucessfully
+2018-01-18 15:28:10 INFO [main] (CommonProspectWorkFlow.java:206)- ManagenmentPricApproval
+2018-01-18 15:30:07 INFO [main] (PendingOfferFlow.java:47)- Logged In sucessfully
+2018-01-18 15:31:00 INFO [main] (CommonProspectWorkFlow.java:83)- Location found
+2018-01-18 15:31:12 INFO [main] (CommonProspectWorkFlow.java:100)- Tract info popup loaded sucessfully
+2018-01-18 15:31:14 INFO [main] (CommonProspectWorkFlow.java:108)- Total Tract County: 1
+2018-01-18 15:31:17 INFO [main] (CommonProspectWorkFlow.java:116)- Total Row Found: 1
+2018-01-18 15:31:28 INFO [main] (CommonProspectWorkFlow.java:134)- Tract Subsection Updated
+2018-01-18 15:31:28 INFO [main] (CommonProspectWorkFlow.java:139)- Tract Created Sucessessfully
+2018-01-18 15:31:28 INFO [main] (CommonProspectWorkFlow.java:143)- Switch to Tract header sucessfully
+2018-01-18 15:31:36 INFO [main] (CommonProspectWorkFlow.java:166)- Tract header filled sucessfully
+2018-01-18 15:31:36 INFO [main] (CommonProspectWorkFlow.java:171)- Tract Created Sucessessfully
+2018-01-18 15:31:50 INFO [main] (CommonProspectWorkFlow.java:183)- Price
+2018-01-18 15:32:00 INFO [main] (CommonProspectWorkFlow.java:195)- Price Approval sent to management Sucessfully
+2018-01-18 15:32:03 INFO [main] (CommonProspectWorkFlow.java:206)- ManagenmentPricApproval
+2018-01-18 15:39:25 INFO [main] (PendingOfferFlow.java:47)- Logged In sucessfully
+2018-01-18 15:40:24 INFO [main] (PendingOfferFlow.java:47)- Logged In sucessfully
+2018-01-18 15:41:19 INFO [main] (CommonProspectWorkFlow.java:83)- Location found
+2018-01-18 15:54:37 INFO [main] (PendingOfferFlow.java:47)- Logged In sucessfully
+2018-01-18 15:55:31 INFO [main] (CommonProspectWorkFlow.java:83)- Location found
+2018-01-18 15:56:49 INFO [main] (PendingOfferFlow.java:47)- Logged In sucessfully
+2018-01-18 15:57:41 INFO [main] (CommonProspectWorkFlow.java:83)- Location found
+2018-01-18 15:57:51 INFO [main] (CommonProspectWorkFlow.java:100)- Tract info popup loaded sucessfully
+2018-01-18 15:57:53 INFO [main] (CommonProspectWorkFlow.java:108)- Total Tract County: 1
+2018-01-18 15:57:55 INFO [main] (CommonProspectWorkFlow.java:116)- Total Row Found: 1
+2018-01-18 15:58:07 INFO [main] (CommonProspectWorkFlow.java:134)- Tract Subsection Updated
+2018-01-18 15:58:08 INFO [main] (CommonProspectWorkFlow.java:139)- Tract Created Sucessessfully
+2018-01-18 15:58:08 INFO [main] (CommonProspectWorkFlow.java:143)- Switch to Tract header sucessfully
+2018-01-18 15:58:15 INFO [main] (CommonProspectWorkFlow.java:166)- Tract header filled sucessfully
+2018-01-18 15:58:15 INFO [main] (CommonProspectWorkFlow.java:171)- Tract Created Sucessessfully
+2018-01-18 15:58:30 INFO [main] (CommonProspectWorkFlow.java:183)- Price
+2018-01-18 15:58:40 INFO [main] (CommonProspectWorkFlow.java:195)- Price Approval sent to management Sucessfully
+2018-01-18 15:58:43 INFO [main] (CommonProspectWorkFlow.java:201)- ManagenmentPricApproval
+2018-01-18 15:58:50 INFO [main] (CommonProspectWorkFlow.java:213)- Managenment Price Approval
+2018-01-18 15:58:58 INFO [main] (CommonProspectWorkFlow.java:223)- LoggedIn User:cfo.rrm
+2018-01-18 15:59:14 INFO [main] (CommonProspectWorkFlow.java:232)- Buyer RRM offer price submitted for approval: Test 8201
+2018-01-18 15:59:14 INFO [main] (CommonProspectWorkFlow.java:233)- Managenment Price Approval
+2018-01-18 15:59:34 INFO [main] (CommonProspectWorkFlow.java:254)- Price Decline by: cfo.rrm
+2018-01-18 15:59:42 INFO [main] (Common.java:982)- Hi, cfo.rrm log Out Sucessfully
+2018-01-18 16:00:14 INFO [main] (CommonProspectWorkFlow.java:299)- Prospect Search By Smart Search Completed
+2018-01-18 16:00:17 INFO [main] (CommonProspectWorkFlow.java:306)- Offer package Generation Start
+2018-01-18 22:29:50 INFO [main] (PendingOfferFlow.java:47)- Logged In sucessfully
+2018-01-18 22:32:52 INFO [main] (PendingOfferFlow.java:47)- Logged In sucessfully
+2018-01-18 22:33:47 INFO [main] (CommonProspectWorkFlow.java:83)- Location found
+2018-01-18 22:33:56 INFO [main] (CommonProspectWorkFlow.java:100)- Tract info popup loaded sucessfully
+2018-01-18 22:33:59 INFO [main] (CommonProspectWorkFlow.java:108)- Total Tract County: 1
+2018-01-18 22:34:01 INFO [main] (CommonProspectWorkFlow.java:116)- Total Row Found: 1
+2018-01-18 22:34:12 INFO [main] (CommonProspectWorkFlow.java:134)- Tract Subsection Updated
+2018-01-18 22:34:13 INFO [main] (CommonProspectWorkFlow.java:139)- Tract Created Sucessessfully
+2018-01-18 22:34:13 INFO [main] (CommonProspectWorkFlow.java:143)- Switch to Tract header sucessfully
+2018-01-18 22:34:24 INFO [main] (CommonProspectWorkFlow.java:166)- Tract header filled sucessfully
+2018-01-18 22:34:24 INFO [main] (CommonProspectWorkFlow.java:171)- Tract Created Sucessessfully
+2018-01-18 22:34:24 INFO [main] (CommonProspectWorkFlow.java:175)- 
+2018-01-18 22:34:40 INFO [main] (CommonProspectWorkFlow.java:188)- 
+2018-01-18 22:34:40 INFO [main] (CommonProspectWorkFlow.java:190)- Price
+2018-01-18 22:34:50 INFO [main] (CommonProspectWorkFlow.java:202)- Price Approval sent to management Sucessfully
+2018-01-18 22:34:53 INFO [main] (CommonProspectWorkFlow.java:208)- ManagenmentPricApproval
+2018-01-18 22:35:03 INFO [main] (CommonProspectWorkFlow.java:220)- Managenment Price Approval
+2018-01-18 22:35:12 INFO [main] (CommonProspectWorkFlow.java:230)- LoggedIn User:cfo.rrm
+2018-01-18 22:35:31 INFO [main] (CommonProspectWorkFlow.java:239)- Buyer RRM offer price submitted for approval: Test 5378
+2018-01-18 22:35:31 INFO [main] (CommonProspectWorkFlow.java:240)- Managenment Price Approval
+2018-01-18 22:35:49 INFO [main] (CommonProspectWorkFlow.java:261)- Price Decline by: cfo.rrm
+2018-01-18 22:35:57 INFO [main] (Common.java:982)- Hi, cfo.rrm log Out Sucessfully
+2018-01-18 22:36:29 INFO [main] (CommonProspectWorkFlow.java:306)- Prospect Search By Smart Search Completed
+2018-01-18 22:36:32 INFO [main] (CommonProspectWorkFlow.java:313)- Offer package Generation Start

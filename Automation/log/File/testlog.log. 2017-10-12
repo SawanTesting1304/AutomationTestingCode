@@ -1,0 +1,377 @@
+2017-10-12 12:39:39 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 12:39:59 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 12:40:09 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 12:40:09 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 12:40:12 INFO [main] (CreateProspect.java:149)- Tract info popup loaded sucessfully
+2017-10-12 13:21:31 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 13:21:50 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 13:22:00 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 13:22:01 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 13:22:04 INFO [main] (CreateProspect.java:149)- Tract info popup loaded sucessfully
+2017-10-12 13:23:13 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 13:23:32 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 13:23:42 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 13:23:43 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 13:23:46 INFO [main] (CreateProspect.java:149)- Tract info popup loaded sucessfully
+2017-10-12 13:25:25 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 13:25:44 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 13:25:54 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 13:25:54 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 13:25:57 INFO [main] (CreateProspect.java:149)- Tract info popup loaded sucessfully
+2017-10-12 13:26:27 INFO [main] (CreateProspect.java:183)- Switch to Tract header sucessfully
+2017-10-12 13:26:32 INFO [main] (CreateProspect.java:200)- Tract header filled sucessfully
+2017-10-12 13:31:41 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 13:31:59 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 13:32:09 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 13:32:10 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 13:32:13 INFO [main] (CreateProspect.java:149)- Tract info popup loaded sucessfully
+2017-10-12 13:32:16 INFO [main] (CreateProspect.java:160)- Total Tract County: 2
+2017-10-12 13:32:16 INFO [main] (CreateProspect.java:167)- Total Row Found: 5
+2017-10-12 13:32:48 INFO [main] (CreateProspect.java:178)- Tract Subsection Updated
+2017-10-12 13:32:48 INFO [main] (CreateProspect.java:167)- Total Row Found: 1
+2017-10-12 13:32:55 INFO [main] (CreateProspect.java:178)- Tract Subsection Updated
+2017-10-12 13:32:55 INFO [main] (CreateProspect.java:181)- Tract Created Sucessessfully
+2017-10-12 13:32:55 INFO [main] (CreateProspect.java:187)- Switch to Tract header sucessfully
+2017-10-12 14:38:54 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 14:39:14 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 14:39:24 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 14:39:24 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 14:39:27 INFO [main] (CreateProspect.java:149)- Tract info popup loaded sucessfully
+2017-10-12 14:39:31 INFO [main] (CreateProspect.java:160)- Total Tract County: 1
+2017-10-12 14:39:31 INFO [main] (CreateProspect.java:167)- Total Row Found: 7
+2017-10-12 14:41:38 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 14:41:53 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 14:42:04 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 14:42:04 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 14:42:07 INFO [main] (CreateProspect.java:149)- Tract info popup loaded sucessfully
+2017-10-12 14:42:54 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 14:43:11 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 14:43:22 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 14:43:22 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 14:43:25 INFO [main] (CreateProspect.java:149)- Tract info popup loaded sucessfully
+2017-10-12 14:43:28 INFO [main] (CreateProspect.java:160)- Total Tract County: 2
+2017-10-12 14:43:28 INFO [main] (CreateProspect.java:167)- Total Row Found: 5
+2017-10-12 14:44:48 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 14:45:07 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 14:45:17 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 14:45:17 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 14:45:20 INFO [main] (CreateProspect.java:149)- Tract info popup loaded sucessfully
+2017-10-12 14:45:25 INFO [main] (CreateProspect.java:160)- Total Tract County: 3
+2017-10-12 14:45:25 INFO [main] (CreateProspect.java:167)- Total Row Found: 3
+2017-10-12 14:48:04 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 14:48:22 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 14:48:32 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 14:48:32 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 14:48:35 INFO [main] (CreateProspect.java:149)- Tract info popup loaded sucessfully
+2017-10-12 14:49:11 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 14:49:29 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 14:49:39 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 14:49:39 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 14:49:42 INFO [main] (CreateProspect.java:149)- Tract info popup loaded sucessfully
+2017-10-12 14:49:46 INFO [main] (CreateProspect.java:160)- Total Tract County: 2
+2017-10-12 14:49:46 INFO [main] (CreateProspect.java:167)- Total Row Found: 7
+2017-10-12 14:50:31 INFO [main] (CreateProspect.java:178)- Tract Subsection Updated
+2017-10-12 14:50:31 INFO [main] (CreateProspect.java:167)- Total Row Found: 1
+2017-10-12 14:50:37 INFO [main] (CreateProspect.java:178)- Tract Subsection Updated
+2017-10-12 14:50:37 INFO [main] (CreateProspect.java:181)- Tract Created Sucessessfully
+2017-10-12 14:50:37 INFO [main] (CreateProspect.java:187)- Switch to Tract header sucessfully
+2017-10-12 14:50:43 INFO [main] (CreateProspect.java:204)- Tract header filled sucessfully
+2017-10-12 15:04:57 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 15:05:15 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 15:05:25 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 15:05:25 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 15:05:28 INFO [main] (CreateProspect.java:159)- Tract info popup loaded sucessfully
+2017-10-12 15:05:32 INFO [main] (CreateProspect.java:170)- Total Tract County: 1
+2017-10-12 15:05:32 INFO [main] (CreateProspect.java:177)- Total Row Found: 2
+2017-10-12 15:05:45 INFO [main] (CreateProspect.java:188)- Tract Subsection Updated
+2017-10-12 15:05:45 INFO [main] (CreateProspect.java:191)- Tract Created Sucessessfully
+2017-10-12 15:05:45 INFO [main] (CreateProspect.java:197)- Switch to Tract header sucessfully
+2017-10-12 15:05:50 INFO [main] (CreateProspect.java:214)- Tract header filled sucessfully
+2017-10-12 15:09:23 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 15:09:42 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 15:09:52 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 15:09:52 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 15:09:55 INFO [main] (CreateProspect.java:159)- Tract info popup loaded sucessfully
+2017-10-12 15:09:58 INFO [main] (CreateProspect.java:170)- Total Tract County: 1
+2017-10-12 15:09:58 INFO [main] (CreateProspect.java:177)- Total Row Found: 2
+2017-10-12 15:10:12 INFO [main] (CreateProspect.java:188)- Tract Subsection Updated
+2017-10-12 15:10:12 INFO [main] (CreateProspect.java:191)- Tract Created Sucessessfully
+2017-10-12 15:10:12 INFO [main] (CreateProspect.java:197)- Switch to Tract header sucessfully
+2017-10-12 15:10:19 INFO [main] (CreateProspect.java:214)- Tract header filled sucessfully
+2017-10-12 15:10:20 INFO [main] (CreateProspect.java:219)- Prospect Created sucessfully
+2017-10-12 15:28:19 INFO [main] (CreateProspect.java:123)- Logged In sucessfully
+2017-10-12 15:28:38 INFO [main] (CreateProspect.java:131)- Map Zoom In sucessfully
+2017-10-12 15:28:48 INFO [main] (CreateProspect.java:137)- Draw polygon selected
+2017-10-12 15:28:48 INFO [main] (CreateProspect.java:143)- Polygon Drawn sucessfully
+2017-10-12 15:31:44 INFO [main] (CreateProspect.java:86)- Logged In sucessfully
+2017-10-12 15:33:28 INFO [main] (CreateProspect.java:86)- Logged In sucessfully
+2017-10-12 15:34:50 INFO [main] (CreateProspect.java:86)- Logged In sucessfully
+2017-10-12 15:36:24 INFO [main] (CreateProspect.java:86)- Logged In sucessfully
+2017-10-12 15:37:21 INFO [main] (CreateProspect.java:86)- Logged In sucessfully
+2017-10-12 15:38:20 INFO [main] (CreateProspect.java:86)- Logged In sucessfully
+2017-10-12 15:47:57 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 15:48:03 INFO [main] (CreateProspect.java:115)- Location found sucessfully
+2017-10-12 15:49:33 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 15:51:08 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 15:51:33 INFO [main] (CreateProspect.java:115)- Location found
+2017-10-12 15:52:24 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 15:52:57 INFO [main] (CreateProspect.java:115)- Location found
+2017-10-12 15:53:55 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 15:54:22 INFO [main] (CreateProspect.java:117)- Location found
+2017-10-12 15:57:15 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 15:57:40 INFO [main] (CreateProspect.java:117)- Location found
+2017-10-12 16:05:21 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 16:05:47 INFO [main] (CreateProspect.java:117)- Location found
+2017-10-12 16:06:54 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 16:07:19 INFO [main] (CreateProspect.java:116)- Location found
+2017-10-12 16:07:25 INFO [main] (CreateProspect.java:174)- Tract info popup loaded sucessfully
+2017-10-12 16:07:25 INFO [main] (CreateProspect.java:178)- Total Tract County: 1
+2017-10-12 16:07:26 INFO [main] (CreateProspect.java:185)- Total Row Found: 2
+2017-10-12 16:07:39 INFO [main] (CreateProspect.java:196)- Tract Subsection Updated
+2017-10-12 16:07:39 INFO [main] (CreateProspect.java:199)- Tract Created Sucessessfully
+2017-10-12 16:07:39 INFO [main] (CreateProspect.java:205)- Switch to Tract header sucessfully
+2017-10-12 16:10:22 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 16:10:47 INFO [main] (CreateProspect.java:116)- Location found
+2017-10-12 16:13:15 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 16:13:40 INFO [main] (CreateProspect.java:116)- Location found
+2017-10-12 16:14:32 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 16:14:57 INFO [main] (CreateProspect.java:116)- Location found
+2017-10-12 16:15:03 INFO [main] (CreateProspect.java:174)- Tract info popup loaded sucessfully
+2017-10-12 16:15:03 INFO [main] (CreateProspect.java:178)- Total Tract County: 1
+2017-10-12 16:15:03 INFO [main] (CreateProspect.java:185)- Total Row Found: 1
+2017-10-12 16:15:10 INFO [main] (CreateProspect.java:196)- Tract Subsection Updated
+2017-10-12 16:15:10 INFO [main] (CreateProspect.java:199)- Tract Created Sucessessfully
+2017-10-12 16:15:10 INFO [main] (CreateProspect.java:205)- Switch to Tract header sucessfully
+2017-10-12 16:15:16 INFO [main] (CreateProspect.java:223)- Tract header filled sucessfully
+2017-10-12 16:15:16 INFO [main] (CreateProspect.java:228)- Prospect Created sucessfully
+2017-10-12 16:16:48 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 16:18:54 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 16:19:19 INFO [main] (CreateProspect.java:116)- Location found
+2017-10-12 16:20:56 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 16:21:21 INFO [main] (CreateProspect.java:116)- Location found
+2017-10-12 16:22:45 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 16:23:11 INFO [main] (CreateProspect.java:116)- Location found
+2017-10-12 16:23:18 INFO [main] (CreateProspect.java:174)- Tract info popup loaded sucessfully
+2017-10-12 16:23:18 INFO [main] (CreateProspect.java:178)- Total Tract County: 1
+2017-10-12 16:23:18 INFO [main] (CreateProspect.java:185)- Total Row Found: 2
+2017-10-12 16:23:32 INFO [main] (CreateProspect.java:196)- Tract Subsection Updated
+2017-10-12 16:23:32 INFO [main] (CreateProspect.java:199)- Tract Created Sucessessfully
+2017-10-12 16:23:32 INFO [main] (CreateProspect.java:205)- Switch to Tract header sucessfully
+2017-10-12 16:23:40 INFO [main] (CreateProspect.java:223)- Tract header filled sucessfully
+2017-10-12 16:23:40 INFO [main] (CreateProspect.java:228)- Prospect Created sucessfully
+2017-10-12 16:56:03 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 16:56:27 INFO [main] (CreateProspect.java:116)- Location found
+2017-10-12 17:11:53 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 17:12:20 INFO [main] (CreateProspect.java:116)- Location found
+2017-10-12 17:13:41 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 17:14:06 INFO [main] (CreateProspect.java:116)- Location found
+2017-10-12 17:14:13 INFO [main] (CreateProspect.java:174)- Tract info popup loaded sucessfully
+2017-10-12 17:14:13 INFO [main] (CreateProspect.java:178)- Total Tract County: 1
+2017-10-12 17:14:13 INFO [main] (CreateProspect.java:185)- Total Row Found: 2
+2017-10-12 17:14:26 INFO [main] (CreateProspect.java:196)- Tract Subsection Updated
+2017-10-12 17:14:26 INFO [main] (CreateProspect.java:199)- Tract Created Sucessessfully
+2017-10-12 17:14:26 INFO [main] (CreateProspect.java:205)- Switch to Tract header sucessfully
+2017-10-12 17:14:32 INFO [main] (CreateProspect.java:223)- Tract header filled sucessfully
+2017-10-12 17:14:33 INFO [main] (CreateProspect.java:228)- Prospect Created sucessfully
+2017-10-12 17:16:31 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 17:16:56 INFO [main] (CreateProspect.java:116)- Location found
+2017-10-12 17:26:57 INFO [main] (CreateProspect.java:133)- Logged In sucessfully
+2017-10-12 17:27:15 INFO [main] (CreateProspect.java:141)- Map Zoom In sucessfully
+2017-10-12 17:27:25 INFO [main] (CreateProspect.java:147)- Draw polygon selected
+2017-10-12 17:27:26 INFO [main] (CreateProspect.java:153)- Polygon Drawn sucessfully
+2017-10-12 17:27:32 INFO [main] (CreateProspect.java:174)- Tract info popup loaded sucessfully
+2017-10-12 17:27:32 INFO [main] (CreateProspect.java:178)- Total Tract County: 1
+2017-10-12 17:27:32 INFO [main] (CreateProspect.java:185)- Total Row Found: 2
+2017-10-12 17:27:45 INFO [main] (CreateProspect.java:196)- Tract Subsection Updated
+2017-10-12 17:27:45 INFO [main] (CreateProspect.java:199)- Tract Created Sucessessfully
+2017-10-12 17:27:45 INFO [main] (CreateProspect.java:205)- Switch to Tract header sucessfully
+2017-10-12 17:27:51 INFO [main] (CreateProspect.java:223)- Tract header filled sucessfully
+2017-10-12 17:27:51 INFO [main] (CreateProspect.java:228)- Prospect Created sucessfully
+2017-10-12 17:31:08 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 17:31:36 INFO [main] (CreateProspect.java:120)- Location found
+2017-10-12 17:33:02 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 17:33:29 INFO [main] (CreateProspect.java:120)- Location found
+2017-10-12 17:34:56 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 17:35:24 INFO [main] (CreateProspect.java:120)- Location found
+2017-10-12 17:36:55 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 17:37:23 INFO [main] (CreateProspect.java:119)- Location found
+2017-10-12 17:37:30 INFO [main] (CreateProspect.java:177)- Tract info popup loaded sucessfully
+2017-10-12 17:37:32 INFO [main] (CreateProspect.java:181)- Total Tract County: 1
+2017-10-12 17:37:33 INFO [main] (CreateProspect.java:188)- Total Row Found: 1
+2017-10-12 17:37:39 INFO [main] (CreateProspect.java:199)- Tract Subsection Updated
+2017-10-12 17:37:39 INFO [main] (CreateProspect.java:202)- Tract Created Sucessessfully
+2017-10-12 17:37:39 INFO [main] (CreateProspect.java:208)- Switch to Tract header sucessfully
+2017-10-12 17:37:45 INFO [main] (CreateProspect.java:226)- Tract header filled sucessfully
+2017-10-12 17:37:46 INFO [main] (CreateProspect.java:231)- Prospect Created sucessfully
+2017-10-12 18:15:54 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:16:21 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 18:16:27 INFO [main] (CreateProspect.java:177)- Tract info popup loaded sucessfully
+2017-10-12 18:16:27 INFO [main] (CreateProspect.java:181)- Total Tract County: 1
+2017-10-12 18:16:27 INFO [main] (CreateProspect.java:188)- Total Row Found: 1
+2017-10-12 18:16:34 INFO [main] (CreateProspect.java:199)- Tract Subsection Updated
+2017-10-12 18:16:34 INFO [main] (CreateProspect.java:202)- Tract Created Sucessessfully
+2017-10-12 18:16:34 INFO [main] (CreateProspect.java:208)- Switch to Tract header sucessfully
+2017-10-12 18:16:40 INFO [main] (CreateProspect.java:226)- Tract header filled sucessfully
+2017-10-12 18:16:40 INFO [main] (CreateProspect.java:231)- Prospect Created sucessfully
+2017-10-12 18:18:11 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:18:38 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 18:19:23 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:20:39 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:21:14 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 18:21:20 INFO [main] (CreateProspect.java:177)- Tract info popup loaded sucessfully
+2017-10-12 18:21:20 INFO [main] (CreateProspect.java:181)- Total Tract County: 1
+2017-10-12 18:21:20 INFO [main] (CreateProspect.java:188)- Total Row Found: 1
+2017-10-12 18:21:27 INFO [main] (CreateProspect.java:199)- Tract Subsection Updated
+2017-10-12 18:21:27 INFO [main] (CreateProspect.java:202)- Tract Created Sucessessfully
+2017-10-12 18:21:27 INFO [main] (CreateProspect.java:208)- Switch to Tract header sucessfully
+2017-10-12 18:21:34 INFO [main] (CreateProspect.java:226)- Tract header filled sucessfully
+2017-10-12 18:21:34 INFO [main] (CreateProspect.java:231)- Prospect Created sucessfully
+2017-10-12 18:22:50 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:23:19 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 18:23:26 INFO [main] (CreateProspect.java:177)- Tract info popup loaded sucessfully
+2017-10-12 18:23:26 INFO [main] (CreateProspect.java:181)- Total Tract County: 1
+2017-10-12 18:23:26 INFO [main] (CreateProspect.java:188)- Total Row Found: 2
+2017-10-12 18:23:39 INFO [main] (CreateProspect.java:199)- Tract Subsection Updated
+2017-10-12 18:23:39 INFO [main] (CreateProspect.java:202)- Tract Created Sucessessfully
+2017-10-12 18:23:39 INFO [main] (CreateProspect.java:208)- Switch to Tract header sucessfully
+2017-10-12 18:23:45 INFO [main] (CreateProspect.java:226)- Tract header filled sucessfully
+2017-10-12 18:23:46 INFO [main] (CreateProspect.java:231)- Prospect Created sucessfully
+2017-10-12 18:26:30 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:26:57 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 18:27:03 INFO [main] (CreateProspect.java:177)- Tract info popup loaded sucessfully
+2017-10-12 18:27:03 INFO [main] (CreateProspect.java:181)- Total Tract County: 1
+2017-10-12 18:27:03 INFO [main] (CreateProspect.java:188)- Total Row Found: 1
+2017-10-12 18:27:10 INFO [main] (CreateProspect.java:199)- Tract Subsection Updated
+2017-10-12 18:27:10 INFO [main] (CreateProspect.java:202)- Tract Created Sucessessfully
+2017-10-12 18:27:10 INFO [main] (CreateProspect.java:208)- Switch to Tract header sucessfully
+2017-10-12 18:27:16 INFO [main] (CreateProspect.java:226)- Tract header filled sucessfully
+2017-10-12 18:27:16 INFO [main] (CreateProspect.java:231)- Prospect Created sucessfully
+2017-10-12 18:27:23 INFO [main] (CreateProspect.java:242)- Prospect Viewed By Menu List
+2017-10-12 18:28:18 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:28:45 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 18:28:51 INFO [main] (CreateProspect.java:177)- Tract info popup loaded sucessfully
+2017-10-12 18:28:51 INFO [main] (CreateProspect.java:181)- Total Tract County: 1
+2017-10-12 18:28:51 INFO [main] (CreateProspect.java:188)- Total Row Found: 1
+2017-10-12 18:28:58 INFO [main] (CreateProspect.java:199)- Tract Subsection Updated
+2017-10-12 18:28:58 INFO [main] (CreateProspect.java:202)- Tract Created Sucessessfully
+2017-10-12 18:28:58 INFO [main] (CreateProspect.java:208)- Switch to Tract header sucessfully
+2017-10-12 18:29:04 INFO [main] (CreateProspect.java:226)- Tract header filled sucessfully
+2017-10-12 18:29:04 INFO [main] (CreateProspect.java:231)- Prospect Created sucessfully
+2017-10-12 18:29:11 INFO [main] (CreateProspect.java:242)- Prospect Viewed By Menu List
+2017-10-12 18:29:23 INFO [main] (CreateProspect.java:252)- Prospect Viewed By Notification
+2017-10-12 18:29:36 INFO [main] (CreateProspect.java:264)- Prospect Viewed By Smart Search
+2017-10-12 18:31:02 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:31:29 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 18:31:36 INFO [main] (CreateProspect.java:177)- Tract info popup loaded sucessfully
+2017-10-12 18:31:36 INFO [main] (CreateProspect.java:181)- Total Tract County: 1
+2017-10-12 18:31:36 INFO [main] (CreateProspect.java:188)- Total Row Found: 1
+2017-10-12 18:31:42 INFO [main] (CreateProspect.java:199)- Tract Subsection Updated
+2017-10-12 18:31:42 INFO [main] (CreateProspect.java:202)- Tract Created Sucessessfully
+2017-10-12 18:31:42 INFO [main] (CreateProspect.java:208)- Switch to Tract header sucessfully
+2017-10-12 18:31:48 INFO [main] (CreateProspect.java:226)- Tract header filled sucessfully
+2017-10-12 18:31:48 INFO [main] (CreateProspect.java:231)- Prospect Created sucessfully
+2017-10-12 18:31:56 INFO [main] (CreateProspect.java:242)- Prospect Viewed By Menu List
+2017-10-12 18:33:04 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:33:32 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 18:33:38 INFO [main] (CreateProspect.java:177)- Tract info popup loaded sucessfully
+2017-10-12 18:33:38 INFO [main] (CreateProspect.java:181)- Total Tract County: 1
+2017-10-12 18:33:39 INFO [main] (CreateProspect.java:188)- Total Row Found: 1
+2017-10-12 18:33:45 INFO [main] (CreateProspect.java:199)- Tract Subsection Updated
+2017-10-12 18:33:45 INFO [main] (CreateProspect.java:202)- Tract Created Sucessessfully
+2017-10-12 18:33:45 INFO [main] (CreateProspect.java:208)- Switch to Tract header sucessfully
+2017-10-12 18:33:51 INFO [main] (CreateProspect.java:226)- Tract header filled sucessfully
+2017-10-12 18:33:51 INFO [main] (CreateProspect.java:231)- Prospect Created sucessfully
+2017-10-12 18:33:59 INFO [main] (CreateProspect.java:242)- Prospect Viewed By Menu List
+2017-10-12 18:36:10 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:38:24 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:38:52 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 18:38:58 INFO [main] (CreateProspect.java:177)- Tract info popup loaded sucessfully
+2017-10-12 18:38:58 INFO [main] (CreateProspect.java:181)- Total Tract County: 1
+2017-10-12 18:38:58 INFO [main] (CreateProspect.java:188)- Total Row Found: 2
+2017-10-12 18:39:11 INFO [main] (CreateProspect.java:199)- Tract Subsection Updated
+2017-10-12 18:39:11 INFO [main] (CreateProspect.java:202)- Tract Created Sucessessfully
+2017-10-12 18:39:11 INFO [main] (CreateProspect.java:208)- Switch to Tract header sucessfully
+2017-10-12 18:39:17 INFO [main] (CreateProspect.java:226)- Tract header filled sucessfully
+2017-10-12 18:39:17 INFO [main] (CreateProspect.java:231)- Prospect Created sucessfully
+2017-10-12 18:39:25 INFO [main] (CreateProspect.java:242)- Prospect Viewed By Menu List
+2017-10-12 18:39:38 INFO [main] (CreateProspect.java:252)- Prospect Viewed By Notification
+2017-10-12 18:39:58 INFO [main] (CreateProspect.java:265)- Prospect Viewed By Smart Search
+2017-10-12 18:41:30 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 18:41:57 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 18:42:03 INFO [main] (CreateProspect.java:177)- Tract info popup loaded sucessfully
+2017-10-12 18:42:04 INFO [main] (CreateProspect.java:181)- Total Tract County: 1
+2017-10-12 18:42:04 INFO [main] (CreateProspect.java:188)- Total Row Found: 1
+2017-10-12 18:42:10 INFO [main] (CreateProspect.java:199)- Tract Subsection Updated
+2017-10-12 18:42:10 INFO [main] (CreateProspect.java:202)- Tract Created Sucessessfully
+2017-10-12 18:42:10 INFO [main] (CreateProspect.java:208)- Switch to Tract header sucessfully
+2017-10-12 18:42:16 INFO [main] (CreateProspect.java:226)- Tract header filled sucessfully
+2017-10-12 18:42:16 INFO [main] (CreateProspect.java:231)- Prospect Created sucessfully
+2017-10-12 18:42:24 INFO [main] (CreateProspect.java:242)- Prospect Viewed By Menu List
+2017-10-12 18:42:37 INFO [main] (CreateProspect.java:252)- Prospect Viewed By Notification
+2017-10-12 18:42:57 INFO [main] (CreateProspect.java:270)- Prospect Viewed By Smart Search
+2017-10-12 19:00:45 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 19:01:14 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 19:01:20 INFO [main] (CreateProspect.java:179)- Tract info popup loaded sucessfully
+2017-10-12 19:01:21 INFO [main] (CreateProspect.java:183)- Total Tract County: 1
+2017-10-12 19:01:21 INFO [main] (CreateProspect.java:190)- Total Row Found: 1
+2017-10-12 19:01:28 INFO [main] (CreateProspect.java:201)- Tract Subsection Updated
+2017-10-12 19:01:28 INFO [main] (CreateProspect.java:204)- Tract Created Sucessessfully
+2017-10-12 19:01:28 INFO [main] (CreateProspect.java:210)- Switch to Tract header sucessfully
+2017-10-12 19:01:34 INFO [main] (CreateProspect.java:228)- Tract header filled sucessfully
+2017-10-12 19:01:34 INFO [main] (CreateProspect.java:233)- Prospect Created sucessfully
+2017-10-12 19:01:41 INFO [main] (CreateProspect.java:244)- Prospect Viewed By Menu List
+2017-10-12 19:01:55 INFO [main] (CreateProspect.java:254)- Prospect Viewed By Notification
+2017-10-12 19:02:09 INFO [main] (CreateProspect.java:272)- Prospect Viewed By Smart Search
+2017-10-12 19:03:32 INFO [main] (CreateProspect.java:87)- Logged In sucessfully
+2017-10-12 19:04:06 INFO [main] (CreateProspect.java:118)- Location found
+2017-10-12 19:04:12 INFO [main] (CreateProspect.java:179)- Tract info popup loaded sucessfully
+2017-10-12 19:04:13 INFO [main] (CreateProspect.java:183)- Total Tract County: 1
+2017-10-12 19:04:13 INFO [main] (CreateProspect.java:190)- Total Row Found: 1
+2017-10-12 19:04:19 INFO [main] (CreateProspect.java:201)- Tract Subsection Updated
+2017-10-12 19:04:19 INFO [main] (CreateProspect.java:204)- Tract Created Sucessessfully
+2017-10-12 19:04:19 INFO [main] (CreateProspect.java:210)- Switch to Tract header sucessfully
+2017-10-12 19:04:25 INFO [main] (CreateProspect.java:228)- Tract header filled sucessfully
+2017-10-12 19:04:25 INFO [main] (CreateProspect.java:233)- Prospect Created sucessfully
+2017-10-12 19:04:34 INFO [main] (CreateProspect.java:244)- Prospect Viewed By Menu List
+2017-10-12 19:04:47 INFO [main] (CreateProspect.java:254)- Prospect Viewed By Notification
+2017-10-12 19:05:01 INFO [main] (CreateProspect.java:272)- Prospect Viewed By Smart Search
+2017-10-12 19:05:14 INFO [main] (CreateProspect.java:290)- Prospect Deleted Sucessfully
+2017-10-12 19:39:28 INFO [main] (CreateProspect.java:49)- Logged In sucessfully
+2017-10-12 19:40:53 INFO [main] (CreateProspect.java:49)- Logged In sucessfully
+2017-10-12 19:41:08 INFO [main] (CreateProspect.java:253)- Prospect Viewed By Menu List
+2017-10-12 19:41:21 INFO [main] (CreateProspect.java:263)- Prospect Viewed By Notification
+2017-10-12 19:45:49 INFO [main] (CreateProspect.java:49)- Logged In sucessfully
+2017-10-12 19:46:04 INFO [main] (CreateProspect.java:312)- Prospect Viewed By Menu List
+2017-10-12 19:46:13 INFO [main] (CreateProspect.java:324)- Date Selected Sucessfully
+2017-10-12 19:46:57 INFO [main] (CreateProspect.java:49)- Logged In sucessfully
+2017-10-12 19:47:13 INFO [main] (CreateProspect.java:312)- Prospect Viewed By Menu List
+2017-10-12 19:47:23 INFO [main] (CreateProspect.java:324)- Date Selected Sucessfully
+2017-10-12 19:58:06 INFO [main] (CreateProspect.java:49)- Logged In sucessfully
+2017-10-12 19:58:22 INFO [main] (CreateProspect.java:312)- Prospect Viewed By Menu List
+2017-10-12 19:58:33 INFO [main] (CreateProspect.java:324)- Date Selected Sucessfully
+2017-10-12 19:58:39 INFO [main] (CreateProspect.java:336)- Payment Added Sucessfully
+2017-10-12 19:59:25 INFO [main] (CreateProspect.java:49)- Logged In sucessfully
+2017-10-12 19:59:40 INFO [main] (CreateProspect.java:312)- Prospect Viewed By Menu List
+2017-10-12 19:59:51 INFO [main] (CreateProspect.java:324)- Date Selected Sucessfully
+2017-10-12 19:59:57 INFO [main] (CreateProspect.java:336)- Payment Added Sucessfully
+2017-10-12 20:19:57 INFO [main] (CreateProspect.java:49)- Logged In sucessfully
+2017-10-12 20:20:09 INFO [main] (CreateProspect.java:57)- Prospect Viewed By Menu List
+2017-10-12 20:21:26 INFO [main] (CreateProspect.java:49)- Logged In sucessfully
+2017-10-12 20:21:38 INFO [main] (CreateProspect.java:57)- Prospect Viewed By Menu List
+2017-10-12 20:21:52 INFO [main] (CreateProspect.java:363)- New Company Added Sucessfully
+2017-10-12 20:55:33 INFO [main] (CreateProspect.java:65)- Logged In sucessfully
+2017-10-12 20:58:07 INFO [main] (CreateProspect.java:65)- Logged In sucessfully
+2017-10-12 21:06:59 INFO [main] (CreateProspect.java:104)- Logged In sucessfully
+2017-10-12 21:07:27 INFO [main] (CreateProspect.java:135)- Location found
+2017-10-12 21:07:34 INFO [main] (CreateProspect.java:196)- Tract info popup loaded sucessfully
+2017-10-12 21:07:34 INFO [main] (CreateProspect.java:200)- Total Tract County: 1
+2017-10-12 21:07:34 INFO [main] (CreateProspect.java:207)- Total Row Found: 2
+2017-10-12 21:07:47 INFO [main] (CreateProspect.java:218)- Tract Subsection Updated
+2017-10-12 21:07:47 INFO [main] (CreateProspect.java:221)- Tract Created Sucessessfully
+2017-10-12 21:07:47 INFO [main] (CreateProspect.java:227)- Switch to Tract header sucessfully
+2017-10-12 21:07:54 INFO [main] (CreateProspect.java:245)- Tract header filled sucessfully
+2017-10-12 21:07:54 INFO [main] (CreateProspect.java:250)- Prospect Created sucessfully
+2017-10-12 21:08:02 INFO [main] (CreateProspect.java:261)- Prospect Viewed By Menu List
+2017-10-12 21:08:15 INFO [main] (CreateProspect.java:271)- Prospect Viewed By Notification
+2017-10-12 21:08:29 INFO [main] (CreateProspect.java:289)- Prospect Viewed By Smart Search
+2017-10-12 21:08:42 INFO [main] (CreateProspect.java:308)- Prospect Deleted Sucessfully

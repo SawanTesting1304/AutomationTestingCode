@@ -1,0 +1,459 @@
+2018-02-01 12:48:57 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 12:50:08 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 12:50:25 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 12:50:25 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 13:05:50 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 13:07:05 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 13:07:24 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 13:07:24 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 13:15:05 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 13:16:27 INFO [main] (CommonProductionUnit.java:95)- Location found
+2018-02-01 13:16:44 INFO [main] (CommonProductionUnit.java:283)- 
+2018-02-01 13:16:44 INFO [main] (CommonProductionUnit.java:294)- Production Unit Well selection Start
+2018-02-01 13:20:47 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 13:21:58 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 13:22:16 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 13:22:16 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 13:22:42 INFO [main] (CommonProductionUnit.java:301)- Production Unit Selected sucessfully 
+2018-02-01 13:22:42 INFO [main] (CommonProductionUnit.java:302)- Production Unit Create pop up Start
+2018-02-01 13:22:42 INFO [main] (CommonProductionUnit.java:305)- Tract info popup loaded sucessfully
+2018-02-01 13:22:45 INFO [main] (CommonProductionUnit.java:312)- Total Tract County: 0
+2018-02-01 13:22:45 INFO [main] (CommonProductionUnit.java:338)- Tract Created Sucessessfully
+2018-02-01 14:23:32 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 14:24:52 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 14:25:09 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 14:25:09 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 14:25:36 INFO [main] (CommonProductionUnit.java:301)- Production Unit Selected sucessfully 
+2018-02-01 14:25:36 INFO [main] (CommonProductionUnit.java:302)- Production Unit Create pop up Start
+2018-02-01 14:25:36 INFO [main] (CommonProductionUnit.java:305)- Tract info popup loaded sucessfully
+2018-02-01 14:25:38 INFO [main] (CommonProductionUnit.java:312)- Total Tract County: 1
+2018-02-01 14:35:49 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 14:37:04 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 14:37:22 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 14:37:22 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 14:37:49 INFO [main] (CommonProductionUnit.java:301)- Production Unit Selected sucessfully 
+2018-02-01 14:37:49 INFO [main] (CommonProductionUnit.java:302)- Production Unit Create pop up Start
+2018-02-01 14:37:49 INFO [main] (CommonProductionUnit.java:305)- Tract info popup loaded sucessfully
+2018-02-01 14:37:51 INFO [main] (CommonProductionUnit.java:312)- Total Tract County: 1
+2018-02-01 14:37:53 INFO [main] (CommonProductionUnit.java:321)- Total Row Found: 1
+2018-02-01 15:27:16 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 15:28:27 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 15:28:44 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 15:28:44 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 15:29:11 INFO [main] (CommonProductionUnit.java:301)- Production Unit Selected sucessfully 
+2018-02-01 15:29:11 INFO [main] (CommonProductionUnit.java:302)- Production Unit Create pop up Start
+2018-02-01 15:29:11 INFO [main] (CommonProductionUnit.java:305)- Tract info popup loaded sucessfully
+2018-02-01 15:29:13 INFO [main] (CommonProductionUnit.java:312)- Total Tract County: 1
+2018-02-01 15:29:15 INFO [main] (CommonProductionUnit.java:321)- Total Row Found: 1
+2018-02-01 15:29:21 INFO [main] (CommonProductionUnit.java:334)- Tract Subsection Updated
+2018-02-01 15:29:21 INFO [main] (CommonProductionUnit.java:338)- Tract Created Sucessessfully
+2018-02-01 15:49:30 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 15:50:47 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 15:52:06 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 15:53:15 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 15:53:32 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 15:53:32 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 15:53:58 INFO [main] (CommonProductionUnit.java:301)- Production Unit Selected sucessfully 
+2018-02-01 15:53:58 INFO [main] (CommonProductionUnit.java:302)- Production Unit Create pop up Start
+2018-02-01 15:53:58 INFO [main] (CommonProductionUnit.java:305)- Tract info popup loaded sucessfully
+2018-02-01 15:54:00 INFO [main] (CommonProductionUnit.java:312)- Total Tract County: 1
+2018-02-01 15:54:02 INFO [main] (CommonProductionUnit.java:321)- Total Row Found: 1
+2018-02-01 15:54:09 INFO [main] (CommonProductionUnit.java:334)- Tract Subsection Updated
+2018-02-01 15:54:09 INFO [main] (CommonProductionUnit.java:338)- Tract Created Sucessessfully
+2018-02-01 15:54:21 INFO [main] (CommonProductionUnit.java:354)- Production unit Created Sucessessfully
+2018-02-01 16:00:22 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 16:01:36 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 16:01:54 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 16:01:54 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 16:02:06 INFO [main] (CommonProductionUnit.java:300)- Production Unit Selected sucessfully 
+2018-02-01 16:02:06 INFO [main] (CommonProductionUnit.java:301)- Production Unit Create pop up Start
+2018-02-01 16:02:06 INFO [main] (CommonProductionUnit.java:304)- Tract info popup loaded sucessfully
+2018-02-01 16:02:08 INFO [main] (CommonProductionUnit.java:311)- Total Tract County: 1
+2018-02-01 16:02:10 INFO [main] (CommonProductionUnit.java:320)- Total Row Found: 1
+2018-02-01 16:02:17 INFO [main] (CommonProductionUnit.java:333)- Tract Subsection Updated
+2018-02-01 16:02:17 INFO [main] (CommonProductionUnit.java:337)- Tract Created Sucessessfully
+2018-02-01 16:07:14 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 16:08:31 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 16:08:47 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 16:08:47 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 16:08:59 INFO [main] (CommonProductionUnit.java:300)- Production Unit Selected sucessfully 
+2018-02-01 16:08:59 INFO [main] (CommonProductionUnit.java:301)- Production Unit Create pop up Start
+2018-02-01 16:08:59 INFO [main] (CommonProductionUnit.java:304)- Tract info popup loaded sucessfully
+2018-02-01 16:09:01 INFO [main] (CommonProductionUnit.java:311)- Total Tract County: 1
+2018-02-01 16:09:03 INFO [main] (CommonProductionUnit.java:320)- Total Row Found: 1
+2018-02-01 16:09:10 INFO [main] (CommonProductionUnit.java:333)- Tract Subsection Updated
+2018-02-01 16:09:10 INFO [main] (CommonProductionUnit.java:337)- Tract Created Sucessessfully
+2018-02-01 16:15:43 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 16:16:52 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 16:17:08 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 16:17:08 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 16:17:20 INFO [main] (CommonProductionUnit.java:300)- Production Unit Selected sucessfully 
+2018-02-01 16:17:20 INFO [main] (CommonProductionUnit.java:301)- Production Unit Create pop up Start
+2018-02-01 16:17:20 INFO [main] (CommonProductionUnit.java:304)- Tract info popup loaded sucessfully
+2018-02-01 16:17:22 INFO [main] (CommonProductionUnit.java:311)- Total Tract County: 1
+2018-02-01 16:17:24 INFO [main] (CommonProductionUnit.java:320)- Total Row Found: 1
+2018-02-01 16:17:31 INFO [main] (CommonProductionUnit.java:333)- Tract Subsection Updated
+2018-02-01 16:17:31 INFO [main] (CommonProductionUnit.java:337)- Tract Created Sucessessfully
+2018-02-01 16:20:47 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 16:21:57 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 16:22:13 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 16:22:13 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 16:22:25 INFO [main] (CommonProductionUnit.java:300)- Production Unit Selected sucessfully 
+2018-02-01 16:22:25 INFO [main] (CommonProductionUnit.java:301)- Production Unit Create pop up Start
+2018-02-01 16:22:25 INFO [main] (CommonProductionUnit.java:304)- Tract info popup loaded sucessfully
+2018-02-01 16:22:27 INFO [main] (CommonProductionUnit.java:311)- Total Tract County: 1
+2018-02-01 16:22:29 INFO [main] (CommonProductionUnit.java:320)- Total Row Found: 1
+2018-02-01 16:22:35 INFO [main] (CommonProductionUnit.java:333)- Tract Subsection Updated
+2018-02-01 16:22:35 INFO [main] (CommonProductionUnit.java:337)- Tract Created Sucessessfully
+2018-02-01 16:30:08 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 16:31:19 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 16:31:35 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 16:31:36 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 16:31:47 INFO [main] (CommonProductionUnit.java:300)- Production Unit Selected sucessfully 
+2018-02-01 16:31:47 INFO [main] (CommonProductionUnit.java:301)- Production Unit Create pop up Start
+2018-02-01 16:31:47 INFO [main] (CommonProductionUnit.java:304)- Tract info popup loaded sucessfully
+2018-02-01 16:31:49 INFO [main] (CommonProductionUnit.java:311)- Total Tract County: 1
+2018-02-01 16:31:51 INFO [main] (CommonProductionUnit.java:320)- Total Row Found: 1
+2018-02-01 16:31:58 INFO [main] (CommonProductionUnit.java:333)- Tract Subsection Updated
+2018-02-01 16:31:58 INFO [main] (CommonProductionUnit.java:337)- Tract Created Sucessessfully
+2018-02-01 16:59:54 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 17:01:03 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 17:01:20 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 17:01:20 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 17:01:32 INFO [main] (CommonProductionUnit.java:300)- Production Unit Selected sucessfully 
+2018-02-01 17:01:32 INFO [main] (CommonProductionUnit.java:301)- Production Unit Create pop up Start
+2018-02-01 17:01:32 INFO [main] (CommonProductionUnit.java:304)- Tract info popup loaded sucessfully
+2018-02-01 17:01:34 INFO [main] (CommonProductionUnit.java:311)- Total Tract County: 1
+2018-02-01 17:01:36 INFO [main] (CommonProductionUnit.java:320)- Total Row Found: 1
+2018-02-01 17:01:43 INFO [main] (CommonProductionUnit.java:333)- Tract Subsection Updated
+2018-02-01 17:01:43 INFO [main] (CommonProductionUnit.java:337)- Tract Created Sucessessfully
+2018-02-01 17:21:27 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 17:22:43 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 17:23:00 INFO [main] (CommonProductionUnit.java:281)- 
+2018-02-01 17:23:00 INFO [main] (CommonProductionUnit.java:292)- Production Unit Well selection Start
+2018-02-01 17:23:11 INFO [main] (CommonProductionUnit.java:300)- Production Unit Selected sucessfully 
+2018-02-01 17:23:11 INFO [main] (CommonProductionUnit.java:301)- Production Unit Create pop up Start
+2018-02-01 17:23:11 INFO [main] (CommonProductionUnit.java:304)- Tract info popup loaded sucessfully
+2018-02-01 17:23:13 INFO [main] (CommonProductionUnit.java:311)- Total Tract County: 1
+2018-02-01 17:23:16 INFO [main] (CommonProductionUnit.java:320)- Total Row Found: 1
+2018-02-01 17:23:22 INFO [main] (CommonProductionUnit.java:333)- Tract Subsection Updated
+2018-02-01 17:23:22 INFO [main] (CommonProductionUnit.java:337)- Tract Created Sucessessfully
+2018-02-01 17:23:48 INFO [main] (CommonProductionUnit.java:358)- Production unit Created Sucessessfully
+2018-02-01 17:23:48 INFO [main] (CommonProductionUnit.java:361)- Production unit Created Sucessessfully
+2018-02-01 17:27:04 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 17:28:00 INFO [main] (CommonProductionUnit.java:93)- Location found
+2018-02-01 17:28:12 INFO [main] (CommonProspectFunctions.java:102)- Tract info popup loaded sucessfully
+2018-02-01 17:28:16 INFO [main] (CommonProspectFunctions.java:110)- Total Tract County: 1
+2018-02-01 17:28:18 INFO [main] (CommonProspectFunctions.java:118)- Total Row Found: 1
+2018-02-01 17:36:47 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 17:42:56 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 17:43:54 INFO [main] (CommonProductionUnit.java:90)- Location found
+2018-02-01 17:47:14 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 17:48:07 INFO [main] (CommonProductionUnit.java:89)- Location found
+2018-02-01 17:48:14 INFO [main] (CommonProspectFunctions.java:102)- Tract info popup loaded sucessfully
+2018-02-01 17:48:17 INFO [main] (CommonProspectFunctions.java:110)- Total Tract County: 1
+2018-02-01 17:48:19 INFO [main] (CommonProspectFunctions.java:118)- Total Row Found: 1
+2018-02-01 17:48:33 INFO [main] (CommonProspectFunctions.java:138)- Tract Subsection Updated
+2018-02-01 17:48:34 INFO [main] (CommonProspectFunctions.java:143)- Tract Created Sucessessfully
+2018-02-01 17:48:34 INFO [main] (CommonProspectFunctions.java:147)- Switch to Tract header sucessfully
+2018-02-01 17:48:45 INFO [main] (CommonProspectFunctions.java:170)- Tract header filled sucessfully
+2018-02-01 17:48:45 INFO [main] (CommonProspectFunctions.java:175)- Tract Created Sucessessfully
+2018-02-01 17:49:54 INFO [main] (CommonProductionUnit.java:89)- Location found
+2018-02-01 17:50:01 INFO [main] (CommonProductionUnit.java:109)- Tract info popup loaded sucessfully
+2018-02-01 17:50:03 INFO [main] (CommonProductionUnit.java:119)- Total Tract County: 1
+2018-02-01 17:50:05 INFO [main] (CommonProductionUnit.java:128)- Total Row Found: 1
+2018-02-01 17:50:12 INFO [main] (CommonProductionUnit.java:142)- Tract Subsection Updated
+2018-02-01 17:50:12 INFO [main] (CommonProductionUnit.java:146)- Tract Created Sucessessfully
+2018-02-01 17:50:12 INFO [main] (CommonProductionUnit.java:150)- Switch to Tract header sucessfully
+2018-02-01 17:50:19 INFO [main] (CommonProductionUnit.java:183)- Tract header filled sucessfully
+2018-02-01 17:50:19 INFO [main] (CommonProductionUnit.java:188)- Tract Created Sucessessfully
+2018-02-01 17:50:34 INFO [main] (CommonProductionUnit.java:205)- Association Start
+2018-02-01 17:50:37 INFO [main] (CommonProductionUnit.java:220)- Prospects are checked
+2018-02-01 17:50:38 INFO [main] (CommonProductionUnit.java:224)- All prospects are checked
+2018-02-01 17:50:42 INFO [main] (CommonProductionUnit.java:241)- All Asset are checked
+2018-02-01 17:50:48 INFO [main] (CommonProductionUnit.java:252)- Association Completed
+2018-02-01 17:51:52 INFO [main] (CommonProductionUnit.java:89)- Location found
+2018-02-01 17:52:09 INFO [main] (CommonProductionUnit.java:277)- 
+2018-02-01 17:52:09 INFO [main] (CommonProductionUnit.java:288)- Production Unit Well selection Start
+2018-02-01 17:52:20 INFO [main] (CommonProductionUnit.java:296)- Production Unit Selected sucessfully 
+2018-02-01 17:52:20 INFO [main] (CommonProductionUnit.java:297)- Production Unit Create pop up Start
+2018-02-01 17:52:20 INFO [main] (CommonProductionUnit.java:300)- Tract info popup loaded sucessfully
+2018-02-01 17:52:22 INFO [main] (CommonProductionUnit.java:307)- Total Tract County: 1
+2018-02-01 18:03:19 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 18:04:06 INFO [main] (CommonProductionUnit.java:89)- Location found
+2018-02-01 18:04:14 INFO [main] (CommonProspectFunctions.java:102)- Tract info popup loaded sucessfully
+2018-02-01 18:04:17 INFO [main] (CommonProspectFunctions.java:110)- Total Tract County: 1
+2018-02-01 18:04:19 INFO [main] (CommonProspectFunctions.java:118)- Total Row Found: 1
+2018-02-01 18:04:32 INFO [main] (CommonProspectFunctions.java:138)- Tract Subsection Updated
+2018-02-01 18:04:33 INFO [main] (CommonProspectFunctions.java:143)- Tract Created Sucessessfully
+2018-02-01 18:04:33 INFO [main] (CommonProspectFunctions.java:147)- Switch to Tract header sucessfully
+2018-02-01 18:04:40 INFO [main] (CommonProspectFunctions.java:170)- Tract header filled sucessfully
+2018-02-01 18:04:40 INFO [main] (CommonProspectFunctions.java:175)- Tract Created Sucessessfully
+2018-02-01 18:05:31 INFO [main] (CommonProductionUnit.java:89)- Location found
+2018-02-01 18:05:37 INFO [main] (CommonProductionUnit.java:109)- Tract info popup loaded sucessfully
+2018-02-01 18:05:40 INFO [main] (CommonProductionUnit.java:119)- Total Tract County: 1
+2018-02-01 18:05:42 INFO [main] (CommonProductionUnit.java:128)- Total Row Found: 1
+2018-02-01 18:05:48 INFO [main] (CommonProductionUnit.java:142)- Tract Subsection Updated
+2018-02-01 18:05:48 INFO [main] (CommonProductionUnit.java:146)- Tract Created Sucessessfully
+2018-02-01 18:05:48 INFO [main] (CommonProductionUnit.java:150)- Switch to Tract header sucessfully
+2018-02-01 18:05:55 INFO [main] (CommonProductionUnit.java:183)- Tract header filled sucessfully
+2018-02-01 18:05:55 INFO [main] (CommonProductionUnit.java:188)- Tract Created Sucessessfully
+2018-02-01 18:06:12 INFO [main] (CommonProductionUnit.java:205)- Association Start
+2018-02-01 18:06:16 INFO [main] (CommonProductionUnit.java:220)- Prospects are checked
+2018-02-01 18:06:16 INFO [main] (CommonProductionUnit.java:220)- Prospects are checked
+2018-02-01 18:06:17 INFO [main] (CommonProductionUnit.java:224)- All prospects are checked
+2018-02-01 18:06:20 INFO [main] (CommonProductionUnit.java:241)- All Asset are checked
+2018-02-01 18:06:27 INFO [main] (CommonProductionUnit.java:252)- Association Completed
+2018-02-01 18:07:35 INFO [main] (CommonProductionUnit.java:89)- Location found
+2018-02-01 18:07:52 INFO [main] (CommonProductionUnit.java:277)- 
+2018-02-01 18:07:52 INFO [main] (CommonProductionUnit.java:291)- Production Unit Well selection Start
+2018-02-01 18:08:09 INFO [main] (CommonProductionUnit.java:305)- Production Unit already created!
+2018-02-01 18:08:09 INFO [main] (CommonProductionUnit.java:312)- Production Unit Selected sucessfully 
+2018-02-01 18:08:09 INFO [main] (CommonProductionUnit.java:313)- Production Unit Create pop up Start
+2018-02-01 18:08:09 INFO [main] (CommonProductionUnit.java:316)- Tract info popup loaded sucessfully
+2018-02-01 18:08:11 INFO [main] (CommonProductionUnit.java:323)- Total Tract County: 2
+2018-02-01 18:12:26 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 18:13:12 INFO [main] (CommonProductionUnit.java:89)- Location found
+2018-02-01 18:15:21 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 18:16:03 INFO [main] (CommonProductionUnit.java:89)- Location found
+2018-02-01 18:18:12 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 18:18:59 INFO [main] (CommonProductionUnit.java:95)- Location found
+2018-02-01 18:19:06 INFO [main] (CommonProspectFunctions.java:102)- Tract info popup loaded sucessfully
+2018-02-01 18:19:09 INFO [main] (CommonProspectFunctions.java:110)- Total Tract County: 1
+2018-02-01 18:19:11 INFO [main] (CommonProspectFunctions.java:118)- Total Row Found: 1
+2018-02-01 18:19:23 INFO [main] (CommonProspectFunctions.java:138)- Tract Subsection Updated
+2018-02-01 18:19:24 INFO [main] (CommonProspectFunctions.java:143)- Tract Created Sucessessfully
+2018-02-01 18:19:24 INFO [main] (CommonProspectFunctions.java:147)- Switch to Tract header sucessfully
+2018-02-01 18:19:31 INFO [main] (CommonProspectFunctions.java:170)- Tract header filled sucessfully
+2018-02-01 18:19:31 INFO [main] (CommonProspectFunctions.java:175)- Tract Created Sucessessfully
+2018-02-01 18:20:32 INFO [main] (CommonProductionUnit.java:95)- Location found
+2018-02-01 18:20:39 INFO [main] (CommonProductionUnit.java:115)- Tract info popup loaded sucessfully
+2018-02-01 18:20:42 INFO [main] (CommonProductionUnit.java:125)- Total Tract County: 1
+2018-02-01 18:20:44 INFO [main] (CommonProductionUnit.java:134)- Total Row Found: 1
+2018-02-01 18:20:51 INFO [main] (CommonProductionUnit.java:148)- Tract Subsection Updated
+2018-02-01 18:20:51 INFO [main] (CommonProductionUnit.java:152)- Tract Created Sucessessfully
+2018-02-01 18:20:51 INFO [main] (CommonProductionUnit.java:156)- Switch to Tract header sucessfully
+2018-02-01 18:20:58 INFO [main] (CommonProductionUnit.java:189)- Tract header filled sucessfully
+2018-02-01 18:20:58 INFO [main] (CommonProductionUnit.java:194)- Tract Created Sucessessfully
+2018-02-01 18:21:12 INFO [main] (CommonProductionUnit.java:211)- Association Start
+2018-02-01 18:21:16 INFO [main] (CommonProductionUnit.java:226)- Prospects are checked
+2018-02-01 18:21:17 INFO [main] (CommonProductionUnit.java:230)- All prospects are checked
+2018-02-01 18:21:20 INFO [main] (CommonProductionUnit.java:247)- All Asset are checked
+2018-02-01 18:21:26 INFO [main] (CommonProductionUnit.java:258)- Association Completed
+2018-02-01 18:22:29 INFO [main] (CommonProductionUnit.java:95)- Location found
+2018-02-01 18:22:46 INFO [main] (CommonProductionUnit.java:283)- 
+2018-02-01 18:22:56 INFO [main] (CommonProductionUnit.java:297)- Production Unit Well selection Start
+2018-02-01 18:27:31 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 18:28:21 INFO [main] (CommonProductionUnit.java:95)- Location found
+2018-02-01 18:28:28 INFO [main] (CommonProspectFunctions.java:102)- Tract info popup loaded sucessfully
+2018-02-01 18:28:30 INFO [main] (CommonProspectFunctions.java:110)- Total Tract County: 1
+2018-02-01 18:28:32 INFO [main] (CommonProspectFunctions.java:118)- Total Row Found: 1
+2018-02-01 18:28:45 INFO [main] (CommonProspectFunctions.java:138)- Tract Subsection Updated
+2018-02-01 18:28:45 INFO [main] (CommonProspectFunctions.java:143)- Tract Created Sucessessfully
+2018-02-01 18:28:45 INFO [main] (CommonProspectFunctions.java:147)- Switch to Tract header sucessfully
+2018-02-01 18:28:52 INFO [main] (CommonProspectFunctions.java:170)- Tract header filled sucessfully
+2018-02-01 18:28:52 INFO [main] (CommonProspectFunctions.java:175)- Tract Created Sucessessfully
+2018-02-01 18:29:51 INFO [main] (CommonProductionUnit.java:95)- Location found
+2018-02-01 18:29:58 INFO [main] (CommonProductionUnit.java:115)- Tract info popup loaded sucessfully
+2018-02-01 18:30:00 INFO [main] (CommonProductionUnit.java:125)- Total Tract County: 1
+2018-02-01 18:30:02 INFO [main] (CommonProductionUnit.java:134)- Total Row Found: 1
+2018-02-01 18:30:09 INFO [main] (CommonProductionUnit.java:148)- Tract Subsection Updated
+2018-02-01 18:30:09 INFO [main] (CommonProductionUnit.java:152)- Tract Created Sucessessfully
+2018-02-01 18:30:09 INFO [main] (CommonProductionUnit.java:156)- Switch to Tract header sucessfully
+2018-02-01 18:30:16 INFO [main] (CommonProductionUnit.java:189)- Tract header filled sucessfully
+2018-02-01 18:30:16 INFO [main] (CommonProductionUnit.java:194)- Tract Created Sucessessfully
+2018-02-01 18:30:30 INFO [main] (CommonProductionUnit.java:211)- Association Start
+2018-02-01 18:30:34 INFO [main] (CommonProductionUnit.java:226)- Prospects are checked
+2018-02-01 18:30:34 INFO [main] (CommonProductionUnit.java:230)- All prospects are checked
+2018-02-01 18:30:38 INFO [main] (CommonProductionUnit.java:247)- All Asset are checked
+2018-02-01 18:30:44 INFO [main] (CommonProductionUnit.java:258)- Association Completed
+2018-02-01 18:33:33 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 18:34:20 INFO [main] (CommonProductionUnit.java:95)- Location found
+2018-02-01 18:34:27 INFO [main] (CommonProspectFunctions.java:102)- Tract info popup loaded sucessfully
+2018-02-01 18:34:29 INFO [main] (CommonProspectFunctions.java:110)- Total Tract County: 1
+2018-02-01 18:34:31 INFO [main] (CommonProspectFunctions.java:118)- Total Row Found: 1
+2018-02-01 18:34:44 INFO [main] (CommonProspectFunctions.java:138)- Tract Subsection Updated
+2018-02-01 18:34:45 INFO [main] (CommonProspectFunctions.java:143)- Tract Created Sucessessfully
+2018-02-01 18:34:45 INFO [main] (CommonProspectFunctions.java:147)- Switch to Tract header sucessfully
+2018-02-01 18:34:52 INFO [main] (CommonProspectFunctions.java:170)- Tract header filled sucessfully
+2018-02-01 18:34:52 INFO [main] (CommonProspectFunctions.java:175)- Tract Created Sucessessfully
+2018-02-01 18:35:45 INFO [main] (CommonProductionUnit.java:95)- Location found
+2018-02-01 18:35:51 INFO [main] (CommonProductionUnit.java:115)- Tract info popup loaded sucessfully
+2018-02-01 18:35:54 INFO [main] (CommonProductionUnit.java:125)- Total Tract County: 1
+2018-02-01 18:35:56 INFO [main] (CommonProductionUnit.java:134)- Total Row Found: 1
+2018-02-01 18:36:02 INFO [main] (CommonProductionUnit.java:148)- Tract Subsection Updated
+2018-02-01 18:36:03 INFO [main] (CommonProductionUnit.java:152)- Tract Created Sucessessfully
+2018-02-01 18:36:03 INFO [main] (CommonProductionUnit.java:156)- Switch to Tract header sucessfully
+2018-02-01 18:36:09 INFO [main] (CommonProductionUnit.java:189)- Tract header filled sucessfully
+2018-02-01 18:36:10 INFO [main] (CommonProductionUnit.java:194)- Tract Created Sucessessfully
+2018-02-01 18:36:24 INFO [main] (CommonProductionUnit.java:211)- Association Start
+2018-02-01 18:36:27 INFO [main] (CommonProductionUnit.java:226)- Prospects are checked
+2018-02-01 18:36:28 INFO [main] (CommonProductionUnit.java:226)- Prospects are checked
+2018-02-01 18:36:29 INFO [main] (CommonProductionUnit.java:230)- All prospects are checked
+2018-02-01 18:36:32 INFO [main] (CommonProductionUnit.java:247)- All Asset are checked
+2018-02-01 18:36:38 INFO [main] (CommonProductionUnit.java:258)- Association Completed
+2018-02-01 18:37:38 INFO [main] (CommonProductionUnit.java:95)- Location found
+2018-02-01 18:37:55 INFO [main] (CommonProductionUnit.java:283)- 
+2018-02-01 18:37:55 INFO [main] (CommonProductionUnit.java:301)- Production Unit Well selection Start
+2018-02-01 18:44:54 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-02-01 18:45:55 INFO [main] (CommonProductionUnit.java:96)- Location found
+2018-02-01 18:46:02 INFO [main] (CommonProspectFunctions.java:102)- Tract info popup loaded sucessfully
+2018-02-01 18:46:05 INFO [main] (CommonProspectFunctions.java:110)- Total Tract County: 1
+2018-02-01 18:46:07 INFO [main] (CommonProspectFunctions.java:118)- Total Row Found: 1
+2018-02-01 18:46:19 INFO [main] (CommonProspectFunctions.java:138)- Tract Subsection Updated
+2018-02-01 18:46:20 INFO [main] (CommonProspectFunctions.java:143)- Tract Created Sucessessfully
+2018-02-01 18:46:20 INFO [main] (CommonProspectFunctions.java:147)- Switch to Tract header sucessfully
+2018-02-01 18:46:27 INFO [main] (CommonProspectFunctions.java:170)- Tract header filled sucessfully
+2018-02-01 18:46:27 INFO [main] (CommonProspectFunctions.java:175)- Tract Created Sucessessfully
+2018-02-01 18:47:21 INFO [main] (CommonProductionUnit.java:96)- Location found
+2018-02-01 18:47:28 INFO [main] (CommonProductionUnit.java:116)- Tract info popup loaded sucessfully
+2018-02-01 18:47:31 INFO [main] (CommonProductionUnit.java:126)- Total Tract County: 1
+2018-02-01 18:47:33 INFO [main] (CommonProductionUnit.java:135)- Total Row Found: 1
+2018-02-01 18:47:39 INFO [main] (CommonProductionUnit.java:149)- Tract Subsection Updated
+2018-02-01 18:47:40 INFO [main] (CommonProductionUnit.java:153)- Tract Created Sucessessfully
+2018-02-01 18:47:40 INFO [main] (CommonProductionUnit.java:157)- Switch to Tract header sucessfully
+2018-02-01 18:47:46 INFO [main] (CommonProductionUnit.java:190)- Tract header filled sucessfully
+2018-02-01 18:47:47 INFO [main] (CommonProductionUnit.java:195)- Tract Created Sucessessfully
+2018-02-01 18:48:05 INFO [main] (CommonProductionUnit.java:212)- Association Start
+2018-02-01 18:48:09 INFO [main] (CommonProductionUnit.java:227)- Prospects are checked
+2018-02-01 18:48:10 INFO [main] (CommonProductionUnit.java:227)- Prospects are checked
+2018-02-01 18:48:10 INFO [main] (CommonProductionUnit.java:231)- All prospects are checked
+2018-02-01 18:48:14 INFO [main] (CommonProductionUnit.java:248)- All Asset are checked
+2018-02-01 18:48:20 INFO [main] (CommonProductionUnit.java:259)- Association Completed
+2018-02-01 18:49:28 INFO [main] (CommonProductionUnit.java:96)- Location found
+2018-02-01 18:49:44 INFO [main] (CommonProductionUnit.java:284)- 
+2018-02-01 18:49:44 INFO [main] (CommonProductionUnit.java:302)- Production Unit Well selection Start
+2018-02-01 18:50:01 INFO [main] (CommonProductionUnit.java:321)- 
+2018-02-01 18:50:01 INFO [main] (CommonProductionUnit.java:335)- Tract info popup loaded sucessfully
+2018-02-01 18:50:03 INFO [main] (CommonProductionUnit.java:342)- Total Tract County: 1
+2018-02-01 18:50:05 INFO [main] (CommonProductionUnit.java:351)- Total Row Found: 1
+2018-02-01 18:50:12 INFO [main] (CommonProductionUnit.java:364)- Tract Subsection Updated
+2018-02-01 18:50:12 INFO [main] (CommonProductionUnit.java:368)- Tract Created Sucessessfully
+2018-02-01 18:50:37 INFO [main] (CommonProductionUnit.java:389)- Production unit Created Sucessessfully
+2018-02-01 18:50:37 INFO [main] (CommonProductionUnit.java:392)- Production unit Created Sucessessfully
+2018-02-01 19:51:40 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 19:51:56 INFO [main] (CommonDivisionOrder.java:32)- Division Order List Opened
+2018-02-01 20:22:49 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 20:23:04 INFO [main] (CommonDivisionOrder.java:36)- Creating Division Order Start
+2018-02-01 20:23:09 INFO [main] (CommonDivisionOrder.java:39)- Header section Start
+2018-02-01 20:23:14 INFO [main] (CommonDivisionOrder.java:53)- Header section completed
+2018-02-01 20:23:14 INFO [main] (CommonDivisionOrder.java:57)- Attaching document
+2018-02-01 20:24:45 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 20:25:00 INFO [main] (CommonDivisionOrder.java:36)- Creating Division Order Start
+2018-02-01 20:25:05 INFO [main] (CommonDivisionOrder.java:39)- Header section Start
+2018-02-01 20:25:10 INFO [main] (CommonDivisionOrder.java:53)- Header section completed
+2018-02-01 20:25:10 INFO [main] (CommonDivisionOrder.java:79)- Search And Select County
+2018-02-01 20:27:16 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 20:27:31 INFO [main] (CommonDivisionOrder.java:36)- Creating Division Order Start
+2018-02-01 20:27:36 INFO [main] (CommonDivisionOrder.java:39)- Header section Start
+2018-02-01 20:27:41 INFO [main] (CommonDivisionOrder.java:53)- Header section completed
+2018-02-01 20:27:41 INFO [main] (CommonDivisionOrder.java:79)- Search And Select County
+2018-02-01 20:29:58 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 20:30:13 INFO [main] (CommonDivisionOrder.java:36)- Creating Division Order Start
+2018-02-01 20:30:18 INFO [main] (CommonDivisionOrder.java:39)- Header section Start
+2018-02-01 20:30:23 INFO [main] (CommonDivisionOrder.java:53)- Header section completed
+2018-02-01 20:30:23 INFO [main] (CommonDivisionOrder.java:79)- Search And Select County
+2018-02-01 20:32:23 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 20:32:38 INFO [main] (CommonDivisionOrder.java:37)- Creating Division Order Start
+2018-02-01 20:32:43 INFO [main] (CommonDivisionOrder.java:40)- Header section Start
+2018-02-01 20:32:48 INFO [main] (CommonDivisionOrder.java:54)- Header section completed
+2018-02-01 20:32:48 INFO [main] (CommonDivisionOrder.java:80)- Search And Select County
+2018-02-01 20:33:11 INFO [main] (CommonDivisionOrder.java:109)- Search and Select County section Completed
+2018-02-01 20:35:55 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 20:36:14 INFO [main] (CommonDivisionOrder.java:37)- Creating Division Order Start
+2018-02-01 20:36:19 INFO [main] (CommonDivisionOrder.java:40)- Header section Start
+2018-02-01 20:36:24 INFO [main] (CommonDivisionOrder.java:54)- Header section completed
+2018-02-01 20:36:24 INFO [main] (CommonDivisionOrder.java:80)- Search And Select County
+2018-02-01 20:36:49 INFO [main] (CommonDivisionOrder.java:109)- Search and Select County section Completed
+2018-02-01 20:42:05 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 20:42:21 INFO [main] (CommonDivisionOrder.java:37)- Creating Division Order Start
+2018-02-01 20:42:26 INFO [main] (CommonDivisionOrder.java:40)- Header section Start
+2018-02-01 20:42:31 INFO [main] (CommonDivisionOrder.java:54)- Header section completed
+2018-02-01 20:42:31 INFO [main] (CommonDivisionOrder.java:80)- Search And Select County
+2018-02-01 20:42:54 INFO [main] (CommonDivisionOrder.java:109)- Search and Select County section Completed
+2018-02-01 20:46:29 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 20:46:45 INFO [main] (CommonDivisionOrder.java:37)- Creating Division Order Start
+2018-02-01 20:46:50 INFO [main] (CommonDivisionOrder.java:40)- Header section Start
+2018-02-01 20:46:55 INFO [main] (CommonDivisionOrder.java:54)- Header section completed
+2018-02-01 20:46:55 INFO [main] (CommonDivisionOrder.java:80)- Search And Select County
+2018-02-01 20:47:19 INFO [main] (CommonDivisionOrder.java:109)- Search and Select County section Completed
+2018-02-01 20:57:34 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 20:57:49 INFO [main] (CommonDivisionOrder.java:37)- Creating Division Order Start
+2018-02-01 20:57:54 INFO [main] (CommonDivisionOrder.java:40)- Header section Start
+2018-02-01 20:57:59 INFO [main] (CommonDivisionOrder.java:54)- Header section completed
+2018-02-01 20:57:59 INFO [main] (CommonDivisionOrder.java:80)- Search And Select County
+2018-02-01 20:58:21 INFO [main] (CommonDivisionOrder.java:109)- Search and Select County section Completed
+2018-02-01 20:58:21 INFO [main] (CommonDivisionOrder.java:138)- Division Order created sucessfully
+2018-02-01 20:58:22 INFO [main] (CommonDivisionOrder.java:148)- Tract is Checked
+2018-02-01 20:58:23 INFO [main] (CommonDivisionOrder.java:148)- Tract is Checked
+2018-02-01 20:58:23 INFO [main] (CommonDivisionOrder.java:152)- All Tract are checked
+2018-02-01 20:58:23 INFO [main] (CommonDivisionOrder.java:179)- Division Order created sucessfully
+2018-02-01 21:08:12 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 21:08:27 INFO [main] (CommonDivisionOrder.java:38)- Creating Division Order Start
+2018-02-01 21:08:32 INFO [main] (CommonDivisionOrder.java:41)- Header section Start
+2018-02-01 21:08:37 INFO [main] (CommonDivisionOrder.java:55)- Header section completed
+2018-02-01 21:08:37 INFO [main] (CommonDivisionOrder.java:81)- Search And Select County
+2018-02-01 21:08:59 INFO [main] (CommonDivisionOrder.java:110)- Search and Select County section Completed
+2018-02-01 21:08:59 INFO [main] (CommonDivisionOrder.java:140)- Division Order created sucessfully
+2018-02-01 21:09:00 INFO [main] (CommonDivisionOrder.java:150)- Tract is Checked
+2018-02-01 21:09:01 INFO [main] (CommonDivisionOrder.java:150)- Tract is Checked
+2018-02-01 21:09:02 INFO [main] (CommonDivisionOrder.java:154)- All Tract are checked
+2018-02-01 21:11:50 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 21:12:06 INFO [main] (CommonDivisionOrder.java:38)- Creating Division Order Start
+2018-02-01 21:12:11 INFO [main] (CommonDivisionOrder.java:41)- Header section Start
+2018-02-01 21:12:16 INFO [main] (CommonDivisionOrder.java:55)- Header section completed
+2018-02-01 21:12:16 INFO [main] (CommonDivisionOrder.java:81)- Search And Select County
+2018-02-01 21:12:40 INFO [main] (CommonDivisionOrder.java:110)- Search and Select County section Completed
+2018-02-01 21:12:40 INFO [main] (CommonDivisionOrder.java:140)- Division Order created sucessfully
+2018-02-01 21:12:41 INFO [main] (CommonDivisionOrder.java:151)- Tract is Checked
+2018-02-01 21:12:41 INFO [main] (CommonDivisionOrder.java:155)- All Tract are checked
+2018-02-01 21:18:13 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 21:18:28 INFO [main] (CommonDivisionOrder.java:38)- Creating Division Order Start
+2018-02-01 21:18:33 INFO [main] (CommonDivisionOrder.java:41)- Header section Start
+2018-02-01 21:18:38 INFO [main] (CommonDivisionOrder.java:55)- Header section completed
+2018-02-01 21:18:38 INFO [main] (CommonDivisionOrder.java:81)- Search And Select County
+2018-02-01 21:19:02 INFO [main] (CommonDivisionOrder.java:110)- Search and Select County section Completed
+2018-02-01 21:19:02 INFO [main] (CommonDivisionOrder.java:140)- Division Order created sucessfully
+2018-02-01 21:19:03 INFO [main] (CommonDivisionOrder.java:151)- Tract is Checked
+2018-02-01 21:19:03 INFO [main] (CommonDivisionOrder.java:155)- All Tract are checked
+2018-02-01 21:19:09 INFO [main] (CommonDivisionOrder.java:185)- Division Order created sucessfully
+2018-02-01 21:22:12 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 21:22:27 INFO [main] (CommonDivisionOrder.java:38)- Creating Division Order Start
+2018-02-01 21:22:33 INFO [main] (CommonDivisionOrder.java:41)- Header section Start
+2018-02-01 21:22:37 INFO [main] (CommonDivisionOrder.java:55)- Header section completed
+2018-02-01 21:22:37 INFO [main] (CommonDivisionOrder.java:81)- Search And Select County
+2018-02-01 21:23:01 INFO [main] (CommonDivisionOrder.java:110)- Search and Select County section Completed
+2018-02-01 21:23:01 INFO [main] (CommonDivisionOrder.java:140)- Division Order created sucessfully
+2018-02-01 21:23:02 INFO [main] (CommonDivisionOrder.java:151)- Tract is Checked
+2018-02-01 21:23:02 INFO [main] (CommonDivisionOrder.java:155)- All Tract are checked
+2018-02-01 21:23:08 INFO [main] (CommonDivisionOrder.java:185)- Division Order created sucessfully
+2018-02-01 21:28:02 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 21:28:18 INFO [main] (CommonDivisionOrder.java:38)- Creating Division Order Start
+2018-02-01 21:28:23 INFO [main] (CommonDivisionOrder.java:41)- Header section Start
+2018-02-01 21:28:27 INFO [main] (CommonDivisionOrder.java:55)- Header section completed
+2018-02-01 21:28:27 INFO [main] (CommonDivisionOrder.java:81)- Search And Select County
+2018-02-01 21:28:51 INFO [main] (CommonDivisionOrder.java:110)- Search and Select County section Completed
+2018-02-01 21:28:51 INFO [main] (CommonDivisionOrder.java:140)- Division Order created sucessfully
+2018-02-01 21:28:52 INFO [main] (CommonDivisionOrder.java:151)- Tract is Checked
+2018-02-01 21:28:52 INFO [main] (CommonDivisionOrder.java:155)- All Tract are checked
+2018-02-01 21:28:58 INFO [main] (CommonDivisionOrder.java:185)- Division Order created sucessfully
+2018-02-01 21:35:55 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 21:36:15 INFO [main] (CommonDivisionOrder.java:38)- Creating Division Order Start
+2018-02-01 21:36:20 INFO [main] (CommonDivisionOrder.java:41)- Header section Start
+2018-02-01 21:36:25 INFO [main] (CommonDivisionOrder.java:56)- Header section completed
+2018-02-01 21:36:25 INFO [main] (CommonDivisionOrder.java:63)- Search And Select County
+2018-02-01 21:36:48 INFO [main] (CommonDivisionOrder.java:92)- Search and Select County section Completed
+2018-02-01 21:36:48 INFO [main] (CommonDivisionOrder.java:122)- Division Order created sucessfully
+2018-02-01 21:36:49 INFO [main] (CommonDivisionOrder.java:133)- Tract is Checked
+2018-02-01 21:36:50 INFO [main] (CommonDivisionOrder.java:137)- All Tract are checked
+2018-02-01 21:36:55 INFO [main] (CommonDivisionOrder.java:167)- Division Order created sucessfully
+2018-02-01 21:39:52 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-02-01 21:40:08 INFO [main] (CommonDivisionOrder.java:38)- Creating Division Order Start
+2018-02-01 21:40:13 INFO [main] (CommonDivisionOrder.java:41)- Header section Start
+2018-02-01 21:40:17 INFO [main] (CommonDivisionOrder.java:57)- Header section completed
+2018-02-01 21:40:17 INFO [main] (CommonDivisionOrder.java:64)- Search And Select County
+2018-02-01 21:40:40 INFO [main] (CommonDivisionOrder.java:93)- Search and Select County section Completed
+2018-02-01 21:40:40 INFO [main] (CommonDivisionOrder.java:123)- Division Order created sucessfully
+2018-02-01 21:40:41 INFO [main] (CommonDivisionOrder.java:134)- Tract is Checked
+2018-02-01 21:40:42 INFO [main] (CommonDivisionOrder.java:138)- All Tract are checked
+2018-02-01 21:40:47 INFO [main] (CommonDivisionOrder.java:168)- Division Order created sucessfully

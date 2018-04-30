@@ -1,0 +1,2331 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 15:47:18 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 15:58:06 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 16:03:28 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 16:18:07 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 17:05:56 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 17:09:09 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>70558</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:90</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>80264</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:110</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>83176</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:118</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>92514</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:126</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>106120</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:145</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>111751</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:150</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>111752</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:154</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>120086</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:177</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>120349</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:182</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 17:12:55 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>54925</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:90</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>64716</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:110</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>67576</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:118</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>69638</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:126</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>82715</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:145</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>83356</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:150</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>83357</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:154</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>91489</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:177</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>91773</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:182</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>154384</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:234</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>161348</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:246</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>162176</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:253</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>162258</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:260</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>169142</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:272</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>169621</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:276</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>169622</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:280</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>178277</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:312</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>178489</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:317</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>181489</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:323</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>188467</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:342</td>
+<td title="Message">Total Tract County: 0</td>
+</tr>
+
+<tr>
+<td>188794</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:349</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 17:18:48 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>74358</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:90</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>84115</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:112</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>87173</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:120</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>89231</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:128</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>105163</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:147</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>105723</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:152</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>105723</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:156</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>116255</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:179</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>116527</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:184</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>175081</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:236</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>181888</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:248</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>182547</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:255</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>182620</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:262</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>189267</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:274</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>189726</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:278</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>189727</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:282</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>198583</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:314</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>198801</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:319</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>201802</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:325</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>209283</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:345</td>
+<td title="Message">Total Tract County: 0</td>
+</tr>
+
+<tr>
+<td>209660</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:352</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+
+<tr>
+<td>212660</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:361</td>
+<td title="Message">Association Start</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 17:56:51 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>17536</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:325</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>25114</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:345</td>
+<td title="Message">Total Tract County: 90</td>
+</tr>
+
+<tr>
+<td>71329</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:352</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+
+<tr>
+<td>86334</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:362</td>
+<td title="Message">Association Start</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 18:01:08 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>13523</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:326</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 18:02:53 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>13550</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:326</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>21166</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:346</td>
+<td title="Message">Total Tract County: 90</td>
+</tr>
+
+<tr>
+<td>70665</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:354</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+
+<tr>
+<td>85669</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:364</td>
+<td title="Message">Association Start</td>
+</tr>
+
+<tr>
+<td>90754</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:379</td>
+<td title="Message">All prospects are checked</td>
+</tr>
+
+<tr>
+<td>98231</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:407</td>
+<td title="Message">Association Completed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 18:17:10 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>13688</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:326</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 18:19:18 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>13576</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:326</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 18:22:54 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>13691</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:326</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>23519</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:346</td>
+<td title="Message">Total Tract County: 90</td>
+</tr>
+
+<tr>
+<td>25355</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:355</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+
+<tr>
+<td>40361</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:365</td>
+<td title="Message">Association Start</td>
+</tr>
+
+<tr>
+<td>43847</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:380</td>
+<td title="Message">All prospects are checked</td>
+</tr>
+
+<tr>
+<td>51389</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:408</td>
+<td title="Message">Association Completed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 18:30:18 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:45</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>14071</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:327</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>23902</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:347</td>
+<td title="Message">Total Tract County: 90</td>
+</tr>
+
+<tr>
+<td>25744</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:356</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+
+<tr>
+<td>40744</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:366</td>
+<td title="Message">Association Start</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 18:33:57 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:45</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>20835</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:327</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>31462</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:347</td>
+<td title="Message">Total Tract County: 90</td>
+</tr>
+
+<tr>
+<td>33368</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:356</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+
+<tr>
+<td>48379</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:366</td>
+<td title="Message">Association Start</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 18:36:56 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:45</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>15651</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:327</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>27768</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:347</td>
+<td title="Message">Total Tract County: 90</td>
+</tr>
+
+<tr>
+<td>29628</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:356</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+
+<tr>
+<td>44631</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:366</td>
+<td title="Message">Association Start</td>
+</tr>
+
+<tr>
+<td>49638</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:384</td>
+<td title="Message">All prospects are checked</td>
+</tr>
+
+<tr>
+<td>53461</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:397</td>
+<td title="Message">Asset are checked</td>
+</tr>
+
+<tr>
+<td>53987</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:401</td>
+<td title="Message">All Asset are checked</td>
+</tr>
+
+<tr>
+<td>60411</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:412</td>
+<td title="Message">Association Completed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 18:40:17 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:45</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>63796</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:91</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>73776</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:113</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>77130</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:121</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>79204</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:129</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>93530</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:148</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>94212</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:153</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>94212</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:157</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>102666</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:180</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>102928</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:185</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>162264</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:237</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>169224</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:249</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>169750</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:256</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>169939</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:263</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>177050</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:275</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>177470</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:279</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>177471</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:283</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>187598</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:316</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>187861</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:321</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>190862</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:327</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>205230</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:347</td>
+<td title="Message">Total Tract County: 0</td>
+</tr>
+
+<tr>
+<td>206569</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:356</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+
+<tr>
+<td>221569</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:366</td>
+<td title="Message">Association Start</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 18:46:05 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:45</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 18:47:40 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:45</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>55567</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:91</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>65346</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:113</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>68455</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:121</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>70546</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:129</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>86702</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:148</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>87368</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:153</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>87369</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:157</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>95629</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:180</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>95910</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:185</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>165222</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:237</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>172017</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:249</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>172609</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:256</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>172746</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:263</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>181036</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:275</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>181774</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:279</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>181776</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:283</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>191658</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:316</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>191870</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:321</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>194870</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:327</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>231388</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:349</td>
+<td title="Message">Total Tract County: 90</td>
+</tr>
+
+<tr>
+<td>233257</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:358</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+
+<tr>
+<td>248258</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:368</td>
+<td title="Message">Association Start</td>
+</tr>
+
+<tr>
+<td>251957</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:387</td>
+<td title="Message">All prospects are checked</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 19:48:03 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:45</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>58497</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:91</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>68259</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:113</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>70980</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:121</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>73048</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:129</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>86970</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:148</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>87606</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:153</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>87607</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:157</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>95658</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:180</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>95913</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:185</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>156677</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:237</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>163518</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:249</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>164077</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:256</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>164161</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:263</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 19:56:34 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:45</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>55164</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:91</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>64984</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:113</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>67633</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:121</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>69690</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:129</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>83436</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:148</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>84073</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:153</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>84073</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:157</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>96776</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:180</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>97051</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:185</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>172446</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:237</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>179489</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:249</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>180011</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:256</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>180087</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:263</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>186885</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:275</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>187414</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:279</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>187415</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:283</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>196160</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:316</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>196367</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:321</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>199368</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:327</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>210973</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:349</td>
+<td title="Message">Total Tract County: 90</td>
+</tr>
+
+<tr>
+<td>212764</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:358</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+
+<tr>
+<td>227769</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:368</td>
+<td title="Message">Association Start</td>
+</tr>
+
+<tr>
+<td>232653</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:383</td>
+<td title="Message">Prospects are checked</td>
+</tr>
+
+<tr>
+<td>233181</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:387</td>
+<td title="Message">All prospects are checked</td>
+</tr>
+
+<tr>
+<td>237062</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:400</td>
+<td title="Message">Asset are checked</td>
+</tr>
+
+<tr>
+<td>237594</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:404</td>
+<td title="Message">All Asset are checked</td>
+</tr>
+
+<tr>
+<td>260274</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Associaltion.java:415</td>
+<td title="Message">Association Completed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Nov 17 21:42:23 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Login.java:66</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Nov 27 16:02:42 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>

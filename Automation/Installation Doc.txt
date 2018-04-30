@@ -1,0 +1,24 @@
+1. Install java version 1.8
+2. Install Eclipse.
+3. Select location for Workbench.
+4. Copy the Script folder to workbench.
+5. Import Maven project, below are the steps to Import existing maven project.
+	5.1: Click on file menu
+	5.2: Select Import option.
+	5.3: Open Maven folder form opened pop up.
+	5.4: Select "Existing Maven Project"
+	5.5: Select the root directory by using browse option.
+	5.6: Click on Finish.
+6. Now Open Folder Project and select "src/test/java" folder.
+7. Open package "RRMMS.Test".
+8. Here are the list of all automation script.
+9. Open any java file and Run the selected script.
+10 Steps to Run the java files:
+	10.1: Click on Play button to start the execution of test scripts.
+	Or 
+	10.1: Right click on test script.
+	10.2: Select "Run As" file. 
+	10.3: Click on "1 TestNg Test"	
+11. Once the script executed successfully or not, Execution Report will save at "Execution Report" folder. with file name 'ExtendReport.HTML".
+
+	

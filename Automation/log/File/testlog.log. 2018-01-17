@@ -1,0 +1,74 @@
+2018-01-17 14:40:29 INFO [main] (CreateProspect.java:82)- Logged In sucessfully
+2018-01-17 14:41:37 INFO [main] (CommonProspectFunctions.java:84)- Location found
+2018-01-17 14:42:27 INFO [main] (CreateProspect.java:82)- Logged In sucessfully
+2018-01-17 14:43:25 INFO [main] (CommonProspectFunctions.java:84)- Location found
+2018-01-17 14:46:09 INFO [main] (CreateProspect.java:82)- Logged In sucessfully
+2018-01-17 14:47:10 INFO [main] (CommonProspectFunctions.java:84)- Location found
+2018-01-17 14:47:16 INFO [main] (CommonProspectFunctions.java:100)- Tract info popup loaded sucessfully
+2018-01-17 14:47:19 INFO [main] (CommonProspectFunctions.java:108)- Total Tract County: 1
+2018-01-17 14:47:21 INFO [main] (CommonProspectFunctions.java:116)- Total Row Found: 1
+2018-01-17 14:47:34 INFO [main] (CommonProspectFunctions.java:135)- Tract Subsection Updated
+2018-01-17 14:47:34 INFO [main] (CommonProspectFunctions.java:140)- Tract Created Sucessessfully
+2018-01-17 14:47:34 INFO [main] (CommonProspectFunctions.java:144)- Switch to Tract header sucessfully
+2018-01-17 14:47:43 INFO [main] (CommonProspectFunctions.java:167)- Tract header filled sucessfully
+2018-01-17 14:47:43 INFO [main] (CommonProspectFunctions.java:172)- Tract Created Sucessessfully
+2018-01-17 14:48:12 INFO [main] (CommonProspectFunctions.java:220)- Prospect Viewed By Menu List
+2018-01-17 14:48:29 INFO [main] (CommonProspectFunctions.java:294)- Date Selected Sucessfully
+2018-01-17 14:50:29 INFO [main] (CreateProspect.java:82)- Logged In sucessfully
+2018-01-17 14:51:26 INFO [main] (CommonProspectFunctions.java:84)- Location found
+2018-01-17 14:53:07 INFO [main] (CreateProspect.java:82)- Logged In sucessfully
+2018-01-17 14:54:05 INFO [main] (CommonProspectFunctions.java:84)- Location found
+2018-01-17 14:54:11 INFO [main] (CommonProspectFunctions.java:100)- Tract info popup loaded sucessfully
+2018-01-17 14:54:13 INFO [main] (CommonProspectFunctions.java:108)- Total Tract County: 1
+2018-01-17 14:54:16 INFO [main] (CommonProspectFunctions.java:116)- Total Row Found: 1
+2018-01-17 14:54:29 INFO [main] (CommonProspectFunctions.java:135)- Tract Subsection Updated
+2018-01-17 14:54:29 INFO [main] (CommonProspectFunctions.java:140)- Tract Created Sucessessfully
+2018-01-17 14:54:29 INFO [main] (CommonProspectFunctions.java:144)- Switch to Tract header sucessfully
+2018-01-17 14:54:36 INFO [main] (CommonProspectFunctions.java:167)- Tract header filled sucessfully
+2018-01-17 14:54:37 INFO [main] (CommonProspectFunctions.java:172)- Tract Created Sucessessfully
+2018-01-17 14:55:05 INFO [main] (CommonProspectFunctions.java:220)- Prospect Viewed By Menu List
+2018-01-17 15:01:55 INFO [main] (CommonLeaseFunction.java:189)- Search Lease By Smart Search Start
+2018-01-17 15:02:01 INFO [main] (CreateLease.java:47)- Logged In sucessfully
+2018-01-17 16:37:40 INFO [main] (Associaltion.java:46)- Logged In sucessfully
+2018-01-17 16:38:34 INFO [main] (CommonAssociation.java:76)- Location found
+2018-01-17 16:38:41 INFO [main] (CommonAssociation.java:92)- Tract info popup loaded sucessfully
+2018-01-17 16:38:43 INFO [main] (CommonAssociation.java:100)- Total Tract County: 1
+2018-01-17 16:38:45 INFO [main] (CommonAssociation.java:108)- Total Row Found: 1
+2018-01-17 16:39:00 INFO [main] (CommonAssociation.java:127)- Tract Subsection Updated
+2018-01-17 16:39:01 INFO [main] (CommonAssociation.java:132)- Tract Created Sucessessfully
+2018-01-17 16:39:01 INFO [main] (CommonAssociation.java:136)- Switch to Tract header sucessfully
+2018-01-17 16:39:08 INFO [main] (CommonAssociation.java:159)- Tract header filled sucessfully
+2018-01-17 16:39:09 INFO [main] (CommonAssociation.java:164)- Tract Created Sucessessfully
+2018-01-17 16:40:17 INFO [main] (CommonAssociation.java:218)- Location found
+2018-01-17 16:40:24 INFO [main] (CommonAssociation.java:230)- Tract info popup loaded sucessfully
+2018-01-17 16:40:27 INFO [main] (CommonAssociation.java:240)- Total Tract County: 1
+2018-01-17 16:40:29 INFO [main] (CommonAssociation.java:249)- Total Row Found: 1
+2018-01-17 16:40:36 INFO [main] (CommonAssociation.java:263)- Tract Subsection Updated
+2018-01-17 16:40:36 INFO [main] (CommonAssociation.java:267)- Tract Created Sucessessfully
+2018-01-17 16:40:36 INFO [main] (CommonAssociation.java:271)- Switch to Tract header sucessfully
+2018-01-17 16:40:44 INFO [main] (CommonAssociation.java:304)- Tract header filled sucessfully
+2018-01-17 16:40:44 INFO [main] (CommonAssociation.java:309)- Tract Created Sucessessfully
+2018-01-17 16:41:05 INFO [main] (CommonAssociation.java:361)- Association Start
+2018-01-17 16:41:09 INFO [main] (CommonAssociation.java:376)- Prospects are checked
+2018-01-17 16:41:10 INFO [main] (CommonAssociation.java:376)- Prospects are checked
+2018-01-17 16:41:10 INFO [main] (CommonAssociation.java:380)- All prospects are checked
+2018-01-17 16:41:14 INFO [main] (CommonAssociation.java:397)- All Asset are checked
+2018-01-17 16:41:20 INFO [main] (CommonAssociation.java:408)- Association Completed
+2018-01-17 17:12:39 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-01-17 17:12:57 INFO [main] (CommonDivisionOrder.java:32)- Division Order List Opened
+2018-01-17 17:12:57 INFO [main] (CommonDivisionOrder.java:34)- Creating Division Order Start
+2018-01-17 17:13:02 INFO [main] (CommonDivisionOrder.java:37)- Header section Start
+2018-01-17 17:14:24 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-01-17 17:14:41 INFO [main] (CommonDivisionOrder.java:32)- Division Order List Opened
+2018-01-17 17:14:41 INFO [main] (CommonDivisionOrder.java:34)- Creating Division Order Start
+2018-01-17 17:14:46 INFO [main] (CommonDivisionOrder.java:37)- Header section Start
+2018-01-17 17:22:14 INFO [main] (DivisionOrder.java:48)- Logged In sucessfully
+2018-01-17 17:22:40 INFO [main] (CommonDivisionOrder.java:32)- Division Order List Opened
+2018-01-17 17:22:40 INFO [main] (CommonDivisionOrder.java:34)- Creating Division Order Start
+2018-01-17 17:22:45 INFO [main] (CommonDivisionOrder.java:37)- Header section Start
+2018-01-17 17:22:51 INFO [main] (CommonDivisionOrder.java:51)- Header section completed
+2018-01-17 17:22:51 INFO [main] (CommonDivisionOrder.java:55)- Attaching document
+2018-01-17 17:23:02 INFO [main] (CommonDivisionOrder.java:72)- Document Attached sucessfully
+2018-01-17 17:23:02 INFO [main] (CommonDivisionOrder.java:77)- Search And Select County
+2018-01-17 17:23:42 INFO [main] (CommonDivisionOrder.java:103)- Search and Select County section Completed
+2018-01-17 17:23:42 INFO [main] (CommonDivisionOrder.java:108)- No Records available. Please initiate search.

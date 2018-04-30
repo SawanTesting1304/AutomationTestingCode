@@ -1,0 +1,903 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Jan 29 17:31:05 IST 2018<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>WorkFlow.java:50</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>55186</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:86</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>61713</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:102</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>64231</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:110</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>66292</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:118</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>79037</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:137</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>79646</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:142</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>79647</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:146</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>86544</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:169</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>86702</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:174</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>89704</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:312</td>
+<td title="Message">Offer package Generation Start</td>
+</tr>
+
+<tr>
+<td>108092</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:343</td>
+<td title="Message">Date Selected Sucessfully</td>
+</tr>
+
+<tr>
+<td>117639</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:367</td>
+<td title="Message">Efective Date Selected Sucessfully</td>
+</tr>
+
+<tr>
+<td>122463</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:376</td>
+<td title="Message">Offer package Generated Sucessfully</td>
+</tr>
+
+<tr>
+<td>122463</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:481</td>
+<td title="Message">Upload Seller Documnet start</td>
+</tr>
+
+<tr>
+<td>145860</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:504</td>
+<td title="Message">Seller Document Attached Sucessfully</td>
+</tr>
+
+<tr>
+<td>153507</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:532</td>
+<td title="Message">Dual Diligence Date added Sucessfully</td>
+</tr>
+
+<tr>
+<td>161400</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Common.java:982</td>
+<td title="Message">Hi, buyerrrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>161401</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:540</td>
+<td title="Message">LoginLandAndTitleUser</td>
+</tr>
+
+<tr>
+<td>173894</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:552</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Jan 29 17:35:28 IST 2018<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>WorkFlow.java:50</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>57719</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:86</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>64209</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:102</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>66687</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:110</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>68844</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:118</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>81973</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:137</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>82686</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:142</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>82687</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:146</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>89473</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:169</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>89627</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:174</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>95272</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:312</td>
+<td title="Message">Offer package Generation Start</td>
+</tr>
+
+<tr>
+<td>114238</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:343</td>
+<td title="Message">Date Selected Sucessfully</td>
+</tr>
+
+<tr>
+<td>123817</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:367</td>
+<td title="Message">Efective Date Selected Sucessfully</td>
+</tr>
+
+<tr>
+<td>128612</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:376</td>
+<td title="Message">Offer package Generated Sucessfully</td>
+</tr>
+
+<tr>
+<td>128613</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:481</td>
+<td title="Message">Upload Seller Documnet start</td>
+</tr>
+
+<tr>
+<td>156194</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:504</td>
+<td title="Message">Seller Document Attached Sucessfully</td>
+</tr>
+
+<tr>
+<td>165472</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:532</td>
+<td title="Message">Dual Diligence Date added Sucessfully</td>
+</tr>
+
+<tr>
+<td>173355</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Common.java:982</td>
+<td title="Message">Hi, buyerrrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>173356</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:540</td>
+<td title="Message">LoginLandAndTitleUser</td>
+</tr>
+
+<tr>
+<td>186064</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:552</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>201678</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:564</td>
+<td title="Message">Test 4326 is due on 01/29/2018</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Jan 29 17:44:02 IST 2018<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>WorkFlow.java:50</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>72272</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:86</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>78785</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:102</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>81658</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:110</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>83943</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:118</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>96678</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:137</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>97697</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:142</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>97697</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:146</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>104805</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:169</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>104989</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:174</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>112564</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:312</td>
+<td title="Message">Offer package Generation Start</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Jan 29 17:48:29 IST 2018<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>WorkFlow.java:50</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>54959</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:86</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>61478</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:102</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>63922</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:110</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>65964</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:118</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>78517</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:137</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>79190</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:142</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>79190</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:146</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>85871</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:169</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>86015</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectFunctions.java:174</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>89047</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:312</td>
+<td title="Message">Offer package Generation Start</td>
+</tr>
+
+<tr>
+<td>109544</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:343</td>
+<td title="Message">Date Selected Sucessfully</td>
+</tr>
+
+<tr>
+<td>119115</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:367</td>
+<td title="Message">Efective Date Selected Sucessfully</td>
+</tr>
+
+<tr>
+<td>123898</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:376</td>
+<td title="Message">Offer package Generated Sucessfully</td>
+</tr>
+
+<tr>
+<td>123898</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:481</td>
+<td title="Message">Upload Seller Documnet start</td>
+</tr>
+
+<tr>
+<td>148686</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:504</td>
+<td title="Message">Seller Document Attached Sucessfully</td>
+</tr>
+
+<tr>
+<td>156310</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:532</td>
+<td title="Message">Dual Diligence Date added Sucessfully</td>
+</tr>
+
+<tr>
+<td>164215</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Common.java:982</td>
+<td title="Message">Hi, buyerrrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>164215</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:540</td>
+<td title="Message">LoginLandAndTitleUser</td>
+</tr>
+
+<tr>
+<td>176661</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:552</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>194449</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:564</td>
+<td title="Message">Test 4413 is due on 01/29/2018</td>
+</tr>
+
+<tr>
+<td>209904</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:638</td>
+<td title="Message">Ownership report Document Attached Sucessfully</td>
+</tr>
+
+<tr>
+<td>209909</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:650</td>
+<td title="Message">ClearToPay</td>
+</tr>
+
+<tr>
+<td>225161</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:661</td>
+<td title="Message">Payment send to management for Approval</td>
+</tr>
+
+<tr>
+<td>245737</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:712</td>
+<td title="Message">LoggedIn User:acqmgr.rrm</td>
+</tr>
+
+<tr>
+<td>269083</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:725</td>
+<td title="Message">Approval Request on : Test 4413</td>
+</tr>
+
+<tr>
+<td>281465</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:745</td>
+<td title="Message">Price Approved by: acqmgr.rrm</td>
+</tr>
+
+<tr>
+<td>289690</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Common.java:982</td>
+<td title="Message">Hi, acqmgr.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>295031</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:712</td>
+<td title="Message">LoggedIn User:coo.rrm</td>
+</tr>
+
+<tr>
+<td>318345</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:725</td>
+<td title="Message">Approval Request on : Test 4413</td>
+</tr>
+
+<tr>
+<td>330760</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:745</td>
+<td title="Message">Price Approved by: coo.rrm</td>
+</tr>
+
+<tr>
+<td>338957</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>Common.java:982</td>
+<td title="Message">Hi, coo.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>344348</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:712</td>
+<td title="Message">LoggedIn User:cfo.rrm</td>
+</tr>
+
+<tr>
+<td>367676</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:725</td>
+<td title="Message">Approval Request on : Test 4413</td>
+</tr>
+
+<tr>
+<td>380426</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CommonProspectWorkFlow.java:745</td>
+<td title="Message">Price Approved by: cfo.rrm</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Wed Jan 31 17:50:55 IST 2018<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test2(failed)">
+    <classes>
+      <class name="RRMMS.Test.CreateProspect">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="ProspectSmartSearch"/>
+          <include name="afterMethod"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- RRMMS.Test.CreateProspect -->
+      <class name="RRMMS.Test.CreateLease">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- RRMMS.Test.CreateLease -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

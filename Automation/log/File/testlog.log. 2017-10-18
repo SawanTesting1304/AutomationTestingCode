@@ -1,0 +1,531 @@
+2017-10-18 09:58:35 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 09:59:14 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 09:59:24 INFO [main] (WorkFlow.java:134)- Tract info popup loaded sucessfully
+2017-10-18 09:59:24 INFO [main] (WorkFlow.java:141)- Total Tract County: 0
+2017-10-18 09:59:24 INFO [main] (WorkFlow.java:170)- Tract Created Sucessessfully
+2017-10-18 09:59:24 INFO [main] (WorkFlow.java:176)- Switch to Tract header sucessfully
+2017-10-18 09:59:32 INFO [main] (WorkFlow.java:198)- Tract header filled sucessfully
+2017-10-18 09:59:33 INFO [main] (WorkFlow.java:203)- Prospect Created sucessfully
+2017-10-18 10:00:12 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:00:52 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 10:01:01 INFO [main] (WorkFlow.java:134)- Tract info popup loaded sucessfully
+2017-10-18 10:01:02 INFO [main] (WorkFlow.java:141)- Total Tract County: 0
+2017-10-18 10:01:02 INFO [main] (WorkFlow.java:170)- Tract Created Sucessessfully
+2017-10-18 10:01:02 INFO [main] (WorkFlow.java:176)- Switch to Tract header sucessfully
+2017-10-18 10:01:10 INFO [main] (WorkFlow.java:198)- Tract header filled sucessfully
+2017-10-18 10:01:11 INFO [main] (WorkFlow.java:203)- Prospect Created sucessfully
+2017-10-18 10:02:35 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:03:14 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 10:03:24 INFO [main] (WorkFlow.java:134)- Tract info popup loaded sucessfully
+2017-10-18 10:03:24 INFO [main] (WorkFlow.java:141)- Total Tract County: 1
+2017-10-18 10:03:24 INFO [main] (WorkFlow.java:148)- Total Row Found: 1
+2017-10-18 10:03:37 INFO [main] (WorkFlow.java:165)- Tract Subsection Updated
+2017-10-18 10:03:38 INFO [main] (WorkFlow.java:170)- Tract Created Sucessessfully
+2017-10-18 10:03:38 INFO [main] (WorkFlow.java:176)- Switch to Tract header sucessfully
+2017-10-18 10:03:45 INFO [main] (WorkFlow.java:198)- Tract header filled sucessfully
+2017-10-18 10:03:46 INFO [main] (WorkFlow.java:203)- Prospect Created sucessfully
+2017-10-18 10:04:05 INFO [main] (WorkFlow.java:103)- Prospect Viewed By Menu List
+2017-10-18 10:04:18 INFO [main] (WorkFlow.java:329)- Price
+2017-10-18 10:07:50 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:08:30 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 10:08:40 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 10:08:40 INFO [main] (WorkFlow.java:142)- Total Tract County: 1
+2017-10-18 10:08:40 INFO [main] (WorkFlow.java:149)- Total Row Found: 2
+2017-10-18 10:08:43 INFO [main] (WorkFlow.java:208)- Total Tract County: 1
+2017-10-18 10:08:43 INFO [main] (WorkFlow.java:215)- Total Row Found: 2
+2017-10-18 10:09:09 INFO [main] (WorkFlow.java:232)- Tract Subsection Updated
+2017-10-18 10:09:09 INFO [main] (WorkFlow.java:237)- Tract Created Sucessessfully
+2017-10-18 10:09:09 INFO [main] (WorkFlow.java:243)- Switch to Tract header sucessfully
+2017-10-18 10:10:55 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:11:34 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 10:11:44 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 10:11:45 INFO [main] (WorkFlow.java:142)- Total Tract County: 1
+2017-10-18 10:11:45 INFO [main] (WorkFlow.java:149)- Total Row Found: 2
+2017-10-18 10:12:07 INFO [main] (WorkFlow.java:167)- Tract Subsection Updated
+2017-10-18 10:12:07 INFO [main] (WorkFlow.java:172)- Tract Created Sucessessfully
+2017-10-18 10:12:07 INFO [main] (WorkFlow.java:178)- Switch to Tract header sucessfully
+2017-10-18 10:12:15 INFO [main] (WorkFlow.java:200)- Tract header filled sucessfully
+2017-10-18 10:12:15 INFO [main] (WorkFlow.java:273)- Prospect Created sucessfully
+2017-10-18 10:12:35 INFO [main] (WorkFlow.java:103)- Prospect Viewed By Menu List
+2017-10-18 10:12:48 INFO [main] (WorkFlow.java:399)- Price
+2017-10-18 10:17:57 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:18:36 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 10:19:19 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:19:57 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 10:20:07 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 10:20:09 INFO [main] (WorkFlow.java:142)- Total Tract County: 2
+2017-10-18 10:20:09 INFO [main] (WorkFlow.java:149)- Total Row Found: 2
+2017-10-18 10:20:35 INFO [main] (WorkFlow.java:212)- Total Tract County: 1
+2017-10-18 10:20:35 INFO [main] (WorkFlow.java:219)- Total Row Found: 2
+2017-10-18 10:23:12 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:23:51 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 10:24:01 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 10:24:02 INFO [main] (WorkFlow.java:142)- Total Tract County: 2
+2017-10-18 10:24:02 INFO [main] (WorkFlow.java:149)- Total Row Found: 2
+2017-10-18 10:24:24 INFO [main] (WorkFlow.java:170)- Tract Subsection Updated
+2017-10-18 10:24:25 INFO [main] (WorkFlow.java:212)- Total Tract County: 1
+2017-10-18 10:24:25 INFO [main] (WorkFlow.java:219)- Total Row Found: 2
+2017-10-18 10:24:46 INFO [main] (WorkFlow.java:239)- Tract Subsection Updated
+2017-10-18 10:24:46 INFO [main] (WorkFlow.java:244)- Tract Created Sucessessfully
+2017-10-18 10:24:46 INFO [main] (WorkFlow.java:250)- Switch to Tract header sucessfully
+2017-10-18 10:26:51 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:27:30 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 10:27:41 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 10:27:42 INFO [main] (WorkFlow.java:142)- Total Tract County: 1
+2017-10-18 10:27:42 INFO [main] (WorkFlow.java:149)- Total Row Found: 2
+2017-10-18 10:27:47 INFO [main] (WorkFlow.java:215)- Total Tract County: 1
+2017-10-18 10:27:47 INFO [main] (WorkFlow.java:222)- Total Row Found: 2
+2017-10-18 10:31:01 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:33:39 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:34:18 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 10:34:27 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 10:34:28 INFO [main] (WorkFlow.java:142)- Total Tract County: 1
+2017-10-18 10:34:29 INFO [main] (WorkFlow.java:149)- Total Row Found: 2
+2017-10-18 10:34:55 INFO [main] (WorkFlow.java:173)- Tract Subsection Updated
+2017-10-18 10:34:55 INFO [main] (WorkFlow.java:178)- Tract Created Sucessessfully
+2017-10-18 10:34:55 INFO [main] (WorkFlow.java:184)- Switch to Tract header sucessfully
+2017-10-18 10:35:03 INFO [main] (WorkFlow.java:206)- Tract header filled sucessfully
+2017-10-18 10:35:04 INFO [main] (WorkFlow.java:284)- Prospect Created sucessfully
+2017-10-18 10:35:23 INFO [main] (WorkFlow.java:103)- Prospect Viewed By Menu List
+2017-10-18 10:35:36 INFO [main] (WorkFlow.java:410)- Price
+2017-10-18 10:35:43 INFO [main] (WorkFlow.java:420)- Price Approval sent to management Sucessfully
+2017-10-18 10:35:46 INFO [main] (WorkFlow.java:428)- ManagenmentPricApproval
+2017-10-18 10:35:48 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 10:36:31 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 10:37:57 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:39:17 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 10:39:36 INFO [main] (WorkFlow.java:326)- Date Selected Sucessfully
+2017-10-18 10:39:43 INFO [main] (WorkFlow.java:335)- Efective Date Selected Sucessfully
+2017-10-18 10:42:03 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 10:54:26 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 10:57:14 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 10:57:51 INFO [main] (WorkFlow.java:653)- Seller Document Attached Sucessfully
+2017-10-18 11:01:40 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 11:05:36 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 11:06:08 INFO [main] (WorkFlow.java:653)- Seller Document Attached Sucessfully
+2017-10-18 11:06:48 INFO [main] (WorkFlow.java:402)- Test 9771 is due on 10/19/2017
+2017-10-18 11:11:20 INFO [main] (WorkFlow.java:484)- LoginLandAndTitleUser
+2017-10-18 11:12:12 INFO [main] (WorkFlow.java:499)- Test 9771 is due on 10/19/2017
+2017-10-18 11:15:04 INFO [main] (WorkFlow.java:484)- LoginLandAndTitleUser
+2017-10-18 11:15:38 INFO [main] (WorkFlow.java:499)- Test 200 is due on 0
+2017-10-18 11:16:33 INFO [main] (WorkFlow.java:484)- LoginLandAndTitleUser
+2017-10-18 11:17:09 INFO [main] (WorkFlow.java:499)- Test 9443 is due on 10/18/2017
+2017-10-18 11:18:59 INFO [main] (WorkFlow.java:484)- LoginLandAndTitleUser
+2017-10-18 11:20:12 INFO [main] (WorkFlow.java:484)- LoginLandAndTitleUser
+2017-10-18 11:20:46 INFO [main] (WorkFlow.java:499)- RockRiver Team generated a offer package: Test 9443
+2017-10-18 11:21:13 INFO [main] (WorkFlow.java:531)- Ownership report Document Attached Sucessfully
+2017-10-18 11:22:41 INFO [main] (WorkFlow.java:484)- LoginLandAndTitleUser
+2017-10-18 11:23:15 INFO [main] (WorkFlow.java:499)- RockRiver Team generated a offer package: Test 9313
+2017-10-18 11:23:42 INFO [main] (WorkFlow.java:531)- Ownership report Document Attached Sucessfully
+2017-10-18 11:25:20 INFO [main] (WorkFlow.java:484)- LoginLandAndTitleUser
+2017-10-18 11:25:55 INFO [main] (WorkFlow.java:499)- Richard generated a offer package: DDL
+2017-10-18 11:26:21 INFO [main] (WorkFlow.java:531)- Ownership report Document Attached Sucessfully
+2017-10-18 11:27:36 INFO [main] (WorkFlow.java:484)- LoginLandAndTitleUser
+2017-10-18 11:29:06 INFO [main] (WorkFlow.java:484)- LoginLandAndTitleUser
+2017-10-18 11:29:48 INFO [main] (WorkFlow.java:499)- Test 579 is due on 10/26/2017
+2017-10-18 11:30:14 INFO [main] (WorkFlow.java:531)- Ownership report Document Attached Sucessfully
+2017-10-18 11:32:49 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 11:33:28 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 11:33:37 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 11:33:38 INFO [main] (WorkFlow.java:142)- Total Tract County: 2
+2017-10-18 11:33:39 INFO [main] (WorkFlow.java:149)- Total Row Found: 2
+2017-10-18 11:34:05 INFO [main] (WorkFlow.java:173)- Tract Subsection Updated
+2017-10-18 11:34:05 INFO [main] (WorkFlow.java:215)- Total Tract County: 1
+2017-10-18 11:34:05 INFO [main] (WorkFlow.java:222)- Total Row Found: 2
+2017-10-18 11:34:31 INFO [main] (WorkFlow.java:246)- Tract Subsection Updated
+2017-10-18 11:34:31 INFO [main] (WorkFlow.java:251)- Tract Created Sucessessfully
+2017-10-18 11:34:31 INFO [main] (WorkFlow.java:257)- Switch to Tract header sucessfully
+2017-10-18 11:34:40 INFO [main] (WorkFlow.java:279)- Tract header filled sucessfully
+2017-10-18 11:34:40 INFO [main] (WorkFlow.java:284)- Prospect Created sucessfully
+2017-10-18 11:35:00 INFO [main] (WorkFlow.java:103)- Prospect Viewed By Menu List
+2017-10-18 11:35:13 INFO [main] (WorkFlow.java:410)- Price
+2017-10-18 11:35:18 INFO [main] (WorkFlow.java:420)- Price Approval sent to management Sucessfully
+2017-10-18 11:35:21 INFO [main] (WorkFlow.java:428)- ManagenmentPricApproval
+2017-10-18 11:35:23 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 11:35:48 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 11:36:03 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 8094
+2017-10-18 11:36:08 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 11:36:28 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 11:36:43 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 8094
+2017-10-18 11:36:48 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 11:37:10 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 11:37:25 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 8094
+2017-10-18 11:37:38 INFO [main] (WorkFlow.java:468)- Clear to Pay Approved by management
+2017-10-18 11:38:20 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 11:38:39 INFO [main] (WorkFlow.java:326)- Date Selected Sucessfully
+2017-10-18 11:38:47 INFO [main] (WorkFlow.java:335)- Efective Date Selected Sucessfully
+2017-10-18 11:45:41 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 11:46:21 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 11:46:31 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 11:46:32 INFO [main] (WorkFlow.java:142)- Total Tract County: 1
+2017-10-18 11:46:32 INFO [main] (WorkFlow.java:149)- Total Row Found: 2
+2017-10-18 11:46:58 INFO [main] (WorkFlow.java:173)- Tract Subsection Updated
+2017-10-18 11:46:58 INFO [main] (WorkFlow.java:178)- Tract Created Sucessessfully
+2017-10-18 11:46:58 INFO [main] (WorkFlow.java:184)- Switch to Tract header sucessfully
+2017-10-18 11:47:06 INFO [main] (WorkFlow.java:206)- Tract header filled sucessfully
+2017-10-18 11:47:06 INFO [main] (WorkFlow.java:284)- Prospect Created sucessfully
+2017-10-18 11:47:26 INFO [main] (WorkFlow.java:103)- Prospect Viewed By Menu List
+2017-10-18 11:47:39 INFO [main] (WorkFlow.java:410)- Price
+2017-10-18 11:47:44 INFO [main] (WorkFlow.java:420)- Price Approval sent to management Sucessfully
+2017-10-18 11:47:47 INFO [main] (WorkFlow.java:428)- ManagenmentPricApproval
+2017-10-18 11:47:50 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 11:48:12 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 11:48:32 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 3580
+2017-10-18 11:48:37 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 11:48:57 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 11:49:17 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 3580
+2017-10-18 11:49:22 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 11:49:43 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 11:50:03 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 3580
+2017-10-18 11:50:16 INFO [main] (WorkFlow.java:468)- Clear to Pay Approved by management
+2017-10-18 11:50:56 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 11:51:14 INFO [main] (WorkFlow.java:326)- Date Selected Sucessfully
+2017-10-18 11:51:21 INFO [main] (WorkFlow.java:335)- Efective Date Selected Sucessfully
+2017-10-18 11:52:09 INFO [main] (WorkFlow.java:372)- RockRiver Team generated a offer package: Test 3580
+2017-10-18 11:52:49 INFO [main] (WorkFlow.java:372)- RockRiver Team generated a offer package: Test 3580
+2017-10-18 11:53:28 INFO [main] (WorkFlow.java:372)- RockRiver Team generated a offer package: Test 3580
+2017-10-18 11:54:08 INFO [main] (WorkFlow.java:372)- RockRiver Team generated a offer package: Test 3580
+2017-10-18 11:54:55 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 11:56:46 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 11:57:26 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 11:57:36 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 11:57:37 INFO [main] (WorkFlow.java:142)- Total Tract County: 1
+2017-10-18 11:57:37 INFO [main] (WorkFlow.java:149)- Total Row Found: 1
+2017-10-18 11:57:50 INFO [main] (WorkFlow.java:173)- Tract Subsection Updated
+2017-10-18 11:57:51 INFO [main] (WorkFlow.java:178)- Tract Created Sucessessfully
+2017-10-18 11:57:51 INFO [main] (WorkFlow.java:184)- Switch to Tract header sucessfully
+2017-10-18 11:57:59 INFO [main] (WorkFlow.java:206)- Tract header filled sucessfully
+2017-10-18 11:57:59 INFO [main] (WorkFlow.java:284)- Prospect Created sucessfully
+2017-10-18 11:58:18 INFO [main] (WorkFlow.java:103)- Prospect Viewed By Menu List
+2017-10-18 11:58:31 INFO [main] (WorkFlow.java:410)- Price
+2017-10-18 11:58:37 INFO [main] (WorkFlow.java:420)- Price Approval sent to management Sucessfully
+2017-10-18 11:58:40 INFO [main] (WorkFlow.java:428)- ManagenmentPricApproval
+2017-10-18 11:58:42 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 11:59:02 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 11:59:22 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 9062
+2017-10-18 11:59:27 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 11:59:53 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 12:00:14 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 9062
+2017-10-18 12:00:18 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 12:00:47 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 12:01:07 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 9062
+2017-10-18 12:01:20 INFO [main] (WorkFlow.java:468)- Clear to Pay Approved by management
+2017-10-18 12:02:01 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 12:02:19 INFO [main] (WorkFlow.java:326)- Date Selected Sucessfully
+2017-10-18 12:02:27 INFO [main] (WorkFlow.java:335)- Efective Date Selected Sucessfully
+2017-10-18 12:03:18 INFO [main] (WorkFlow.java:372)- RockRiver Team generated a offer package: Test 9062
+2017-10-18 12:04:00 INFO [main] (WorkFlow.java:372)- RockRiver Team generated a offer package: Test 9062
+2017-10-18 12:04:57 INFO [main] (WorkFlow.java:372)- RockRiver Team generated a offer package: Test 9062
+2017-10-18 12:05:41 INFO [main] (WorkFlow.java:372)- Richard generated a offer package: Smart Data
+2017-10-18 12:06:27 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 12:10:18 INFO [main] (WorkFlow.java:402)- Test 9062 is due on 10/19/2017
+2017-10-18 12:10:55 INFO [main] (WorkFlow.java:402)- Test 9062 is due on 10/19/2017
+2017-10-18 12:10:59 INFO [main] (WorkFlow.java:484)- LoginLandAndTitleUser
+2017-10-18 12:11:47 INFO [main] (WorkFlow.java:499)- Test 9062 is due on 10/19/2017
+2017-10-18 12:12:13 INFO [main] (WorkFlow.java:531)- Ownership report Document Attached Sucessfully
+2017-10-18 12:12:40 INFO [main] (WorkFlow.java:547)- ClearToPay
+2017-10-18 12:20:22 INFO [main] (WorkFlow.java:402)- Richard generated a offer package: Smart Data
+2017-10-18 12:21:00 INFO [main] (WorkFlow.java:402)- Test 9062 is due on 10/19/2017
+2017-10-18 12:21:03 INFO [main] (WorkFlow.java:484)- LoginLandAndTitleUser
+2017-10-18 12:21:47 INFO [main] (WorkFlow.java:499)- Richard generated a offer package: Smart Data
+2017-10-18 12:22:14 INFO [main] (WorkFlow.java:531)- Ownership report Document Attached Sucessfully
+2017-10-18 12:22:40 INFO [main] (WorkFlow.java:547)- ClearToPay
+2017-10-18 12:22:48 INFO [main] (WorkFlow.java:554)- Payment send to management for Approval
+2017-10-18 12:23:27 INFO [main] (WorkFlow.java:591)- Richard generated a offer package: Smart Data
+2017-10-18 12:23:35 INFO [main] (WorkFlow.java:610)- Clear to Pay Approved by management
+2017-10-18 12:24:25 INFO [main] (WorkFlow.java:591)- Richard generated a offer package: Smart Data
+2017-10-18 12:24:33 INFO [main] (WorkFlow.java:610)- Clear to Pay Approved by management
+2017-10-18 12:41:45 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 12:42:25 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 12:46:43 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 12:47:22 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 12:49:34 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 12:50:11 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 12:50:20 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 12:50:21 INFO [main] (WorkFlow.java:142)- Total Tract County: 1
+2017-10-18 12:50:21 INFO [main] (WorkFlow.java:149)- Total Row Found: 1
+2017-10-18 12:50:34 INFO [main] (WorkFlow.java:173)- Tract Subsection Updated
+2017-10-18 12:50:35 INFO [main] (WorkFlow.java:178)- Tract Created Sucessessfully
+2017-10-18 12:50:35 INFO [main] (WorkFlow.java:184)- Switch to Tract header sucessfully
+2017-10-18 12:50:43 INFO [main] (WorkFlow.java:206)- Tract header filled sucessfully
+2017-10-18 12:50:43 INFO [main] (WorkFlow.java:284)- Prospect Created sucessfully
+2017-10-18 12:51:02 INFO [main] (WorkFlow.java:103)- Prospect Viewed By Menu List
+2017-10-18 12:51:15 INFO [main] (WorkFlow.java:410)- Price
+2017-10-18 12:51:21 INFO [main] (WorkFlow.java:420)- Price Approval sent to management Sucessfully
+2017-10-18 12:51:24 INFO [main] (WorkFlow.java:428)- ManagenmentPricApproval
+2017-10-18 12:51:26 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 12:51:57 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 12:52:17 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 9307
+2017-10-18 12:52:22 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 12:52:48 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 12:53:08 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 9307
+2017-10-18 12:53:13 INFO [main] (WorkFlow.java:433)- ManagenmentPricApproval
+2017-10-18 12:53:41 INFO [main] (WorkFlow.java:440)- Login Sucessfully
+2017-10-18 12:54:02 INFO [main] (WorkFlow.java:447)- RockRiver Team offer price submitted for approval: Test 9307
+2017-10-18 12:54:14 INFO [main] (WorkFlow.java:468)- Clear to Pay Approved by management
+2017-10-18 12:55:07 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 12:55:25 INFO [main] (WorkFlow.java:326)- Date Selected Sucessfully
+2017-10-18 12:55:32 INFO [main] (WorkFlow.java:335)- Efective Date Selected Sucessfully
+2017-10-18 12:56:38 INFO [main] (WorkFlow.java:372)- RockRiver Team generated a offer package: Test 9307
+2017-10-18 12:57:30 INFO [main] (WorkFlow.java:372)- RockRiver Team generated a offer package: Test 9307
+2017-10-18 12:58:13 INFO [main] (WorkFlow.java:372)- RockRiver Team generated a offer package: Test 9307
+2017-10-18 12:58:55 INFO [main] (WorkFlow.java:372)- RockRiver Team generated a offer package: Test 9307
+2017-10-18 12:59:42 INFO [main] (WorkFlow.java:301)- Prospect Viewed By Menu List
+2017-10-18 13:08:39 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 13:09:16 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 13:11:23 INFO [main] (WorkFlow.java:262)- Prospect Viewed By Menu List
+2017-10-18 13:12:21 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 13:12:57 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 13:13:07 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 13:13:08 INFO [main] (WorkFlow.java:142)- Total Tract County: 1
+2017-10-18 13:13:08 INFO [main] (WorkFlow.java:149)- Total Row Found: 2
+2017-10-18 13:13:33 INFO [main] (WorkFlow.java:173)- Tract Subsection Updated
+2017-10-18 13:13:34 INFO [main] (WorkFlow.java:178)- Tract Created Sucessessfully
+2017-10-18 13:13:34 INFO [main] (WorkFlow.java:184)- Switch to Tract header sucessfully
+2017-10-18 13:13:42 INFO [main] (WorkFlow.java:206)- Tract header filled sucessfully
+2017-10-18 13:13:42 INFO [main] (WorkFlow.java:212)- Tract Created Sucessessfully
+2017-10-18 13:13:42 INFO [main] (WorkFlow.java:218)- Switch to Tract header sucessfully
+2017-10-18 13:16:35 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 13:16:48 INFO [main] (WorkFlow.java:103)- Prospect Viewed By Menu List
+2017-10-18 13:18:08 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 13:18:20 INFO [main] (WorkFlow.java:103)- Prospect Viewed By Menu List
+2017-10-18 13:18:44 INFO [main] (WorkFlow.java:629)- Seller Document Attached Sucessfully
+2017-10-18 13:19:09 INFO [main] (WorkFlow.java:356)- LoggedIn User:William
+2017-10-18 13:19:27 INFO [main] (WorkFlow.java:365)- Test 8451 is due on 10/18/2017
+2017-10-18 13:19:55 INFO [main] (WorkFlow.java:356)- LoggedIn User:John
+2017-10-18 13:20:13 INFO [main] (WorkFlow.java:365)- Test 8451 is due on 10/18/2017
+2017-10-18 13:20:16 INFO [main] (WorkFlow.java:447)- LoginLandAndTitleUser
+2017-10-18 13:20:42 INFO [main] (WorkFlow.java:456)- LoggedIn User:William
+2017-10-18 13:20:59 INFO [main] (WorkFlow.java:463)- Test 8451 is due on 10/18/2017
+2017-10-18 13:21:26 INFO [main] (WorkFlow.java:495)- Ownership report Document Attached Sucessfully
+2017-10-18 13:21:53 INFO [main] (WorkFlow.java:511)- ClearToPay
+2017-10-18 13:22:01 INFO [main] (WorkFlow.java:518)- Payment send to management for Approval
+2017-10-18 13:22:38 INFO [main] (WorkFlow.java:550)- LoggedIn User:Chris
+2017-10-18 13:22:55 INFO [main] (WorkFlow.java:557)- RockRiver Team generated a offer package: Test 9307
+2017-10-18 13:25:49 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 13:26:26 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 13:26:36 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 13:26:37 INFO [main] (WorkFlow.java:142)- Total Tract County: 1
+2017-10-18 13:26:37 INFO [main] (WorkFlow.java:149)- Total Row Found: 1
+2017-10-18 13:26:50 INFO [main] (WorkFlow.java:173)- Tract Subsection Updated
+2017-10-18 13:26:51 INFO [main] (WorkFlow.java:178)- Tract Created Sucessessfully
+2017-10-18 13:26:51 INFO [main] (WorkFlow.java:184)- Switch to Tract header sucessfully
+2017-10-18 13:26:59 INFO [main] (WorkFlow.java:206)- Tract header filled sucessfully
+2017-10-18 13:26:59 INFO [main] (WorkFlow.java:212)- Tract Created Sucessessfully
+2017-10-18 13:26:59 INFO [main] (WorkFlow.java:218)- Switch to Tract header sucessfully
+2017-10-18 13:29:53 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 13:30:29 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 13:30:39 INFO [main] (WorkFlow.java:135)- Tract info popup loaded sucessfully
+2017-10-18 13:30:40 INFO [main] (WorkFlow.java:142)- Total Tract County: 1
+2017-10-18 13:30:40 INFO [main] (WorkFlow.java:149)- Total Row Found: 1
+2017-10-18 13:30:53 INFO [main] (WorkFlow.java:173)- Tract Subsection Updated
+2017-10-18 13:30:53 INFO [main] (WorkFlow.java:178)- Tract Created Sucessessfully
+2017-10-18 13:30:53 INFO [main] (WorkFlow.java:184)- Switch to Tract header sucessfully
+2017-10-18 13:31:02 INFO [main] (WorkFlow.java:206)- Tract header filled sucessfully
+2017-10-18 13:31:02 INFO [main] (WorkFlow.java:212)- Tract Created Sucessessfully
+2017-10-18 13:31:02 INFO [main] (WorkFlow.java:218)- Switch to Tract header sucessfully
+2017-10-18 13:34:00 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 13:34:36 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 13:34:46 INFO [main] (WorkFlow.java:134)- Tract info popup loaded sucessfully
+2017-10-18 13:34:47 INFO [main] (WorkFlow.java:141)- Total Tract County: 1
+2017-10-18 13:34:47 INFO [main] (WorkFlow.java:148)- Total Row Found: 1
+2017-10-18 13:35:01 INFO [main] (WorkFlow.java:172)- Tract Subsection Updated
+2017-10-18 13:35:01 INFO [main] (WorkFlow.java:177)- Tract Created Sucessessfully
+2017-10-18 13:35:01 INFO [main] (WorkFlow.java:183)- Switch to Tract header sucessfully
+2017-10-18 13:35:10 INFO [main] (WorkFlow.java:205)- Tract header filled sucessfully
+2017-10-18 13:35:10 INFO [main] (WorkFlow.java:211)- Tract Created Sucessessfully
+2017-10-18 13:35:22 INFO [main] (WorkFlow.java:102)- Prospect Viewed By Menu List
+2017-10-18 13:35:35 INFO [main] (WorkFlow.java:340)- Price
+2017-10-18 13:35:41 INFO [main] (WorkFlow.java:350)- Price Approval sent to management Sucessfully
+2017-10-18 13:35:44 INFO [main] (WorkFlow.java:358)- ManagenmentPricApproval
+2017-10-18 13:35:46 INFO [main] (WorkFlow.java:363)- ManagenmentPricApproval
+2017-10-18 13:36:07 INFO [main] (WorkFlow.java:370)- LoggedIn User:Kyle
+2017-10-18 13:36:28 INFO [main] (WorkFlow.java:377)- RockRiver Team offer price submitted for approval: Test 6590
+2017-10-18 13:36:32 INFO [main] (WorkFlow.java:363)- ManagenmentPricApproval
+2017-10-18 13:36:50 INFO [main] (WorkFlow.java:370)- LoggedIn User:Chris
+2017-10-18 13:37:11 INFO [main] (WorkFlow.java:377)- RockRiver Team offer price submitted for approval: Test 6590
+2017-10-18 13:37:16 INFO [main] (WorkFlow.java:363)- ManagenmentPricApproval
+2017-10-18 13:37:37 INFO [main] (WorkFlow.java:370)- LoggedIn User:Sam
+2017-10-18 13:37:57 INFO [main] (WorkFlow.java:377)- RockRiver Team offer price submitted for approval: Test 6590
+2017-10-18 13:38:11 INFO [main] (WorkFlow.java:398)- Clear to Pay Approved by management
+2017-10-18 13:38:51 INFO [main] (WorkFlow.java:229)- Prospect Viewed By Menu List
+2017-10-18 13:39:09 INFO [main] (WorkFlow.java:254)- Date Selected Sucessfully
+2017-10-18 13:39:16 INFO [main] (WorkFlow.java:263)- Efective Date Selected Sucessfully
+2017-10-18 13:39:48 INFO [main] (WorkFlow.java:292)- LoggedIn User:William
+2017-10-18 13:40:05 INFO [main] (WorkFlow.java:301)- RockRiver Team generated a offer package: Test 6590
+2017-10-18 13:40:26 INFO [main] (WorkFlow.java:292)- LoggedIn User:Kyle
+2017-10-18 13:40:43 INFO [main] (WorkFlow.java:301)- RockRiver Team generated a offer package: Test 6590
+2017-10-18 13:41:07 INFO [main] (WorkFlow.java:292)- LoggedIn User:Chris
+2017-10-18 13:41:24 INFO [main] (WorkFlow.java:301)- RockRiver Team generated a offer package: Test 6590
+2017-10-18 13:41:45 INFO [main] (WorkFlow.java:292)- LoggedIn User:Sam
+2017-10-18 13:42:03 INFO [main] (WorkFlow.java:301)- RockRiver Team generated a offer package: Test 6590
+2017-10-18 13:43:21 INFO [main] (WorkFlow.java:229)- Prospect Viewed By Menu List
+2017-10-18 13:43:46 INFO [main] (WorkFlow.java:596)- Seller Document Attached Sucessfully
+2017-10-18 13:44:15 INFO [main] (WorkFlow.java:323)- LoggedIn User:William
+2017-10-18 13:44:33 INFO [main] (WorkFlow.java:332)- Test 6590 is due on 10/18/2017
+2017-10-18 13:44:56 INFO [main] (WorkFlow.java:323)- LoggedIn User:John
+2017-10-18 13:45:13 INFO [main] (WorkFlow.java:332)- Test 6590 is due on 10/18/2017
+2017-10-18 13:45:16 INFO [main] (WorkFlow.java:414)- LoginLandAndTitleUser
+2017-10-18 13:45:40 INFO [main] (WorkFlow.java:423)- LoggedIn User:William
+2017-10-18 13:45:57 INFO [main] (WorkFlow.java:430)- Test 6590 is due on 10/18/2017
+2017-10-18 13:46:24 INFO [main] (WorkFlow.java:462)- Ownership report Document Attached Sucessfully
+2017-10-18 13:46:50 INFO [main] (WorkFlow.java:478)- ClearToPay
+2017-10-18 13:46:57 INFO [main] (WorkFlow.java:485)- Payment send to management for Approval
+2017-10-18 13:47:31 INFO [main] (WorkFlow.java:517)- LoggedIn User:Chris
+2017-10-18 13:47:49 INFO [main] (WorkFlow.java:524)- RockRiver Team generated a offer package: Test 6590
+2017-10-18 13:47:58 INFO [main] (WorkFlow.java:543)- Clear to Pay Approved by management
+2017-10-18 13:49:09 INFO [main] (WorkFlow.java:517)- LoggedIn User:Sam
+2017-10-18 13:49:27 INFO [main] (WorkFlow.java:524)- RockRiver Team generated a offer package: Test 6590
+2017-10-18 13:49:36 INFO [main] (WorkFlow.java:543)- Clear to Pay Approved by management
+2017-10-18 13:52:51 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 13:53:58 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 14:12:35 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 14:13:11 INFO [main] (WorkFlow.java:87)- Location found
+2017-10-18 14:13:20 INFO [main] (WorkFlow.java:134)- Tract info popup loaded sucessfully
+2017-10-18 14:13:21 INFO [main] (WorkFlow.java:141)- Total Tract County: 1
+2017-10-18 14:13:21 INFO [main] (WorkFlow.java:148)- Total Row Found: 1
+2017-10-18 14:13:38 INFO [main] (WorkFlow.java:172)- Tract Subsection Updated
+2017-10-18 14:13:38 INFO [main] (WorkFlow.java:177)- Tract Created Sucessessfully
+2017-10-18 14:13:38 INFO [main] (WorkFlow.java:183)- Switch to Tract header sucessfully
+2017-10-18 14:13:46 INFO [main] (WorkFlow.java:205)- Tract header filled sucessfully
+2017-10-18 14:13:46 INFO [main] (WorkFlow.java:211)- Tract Created Sucessessfully
+2017-10-18 14:13:59 INFO [main] (WorkFlow.java:102)- Prospect Viewed By Menu List
+2017-10-18 14:14:12 INFO [main] (WorkFlow.java:340)- Price
+2017-10-18 14:14:17 INFO [main] (WorkFlow.java:350)- Price Approval sent to management Sucessfully
+2017-10-18 14:14:20 INFO [main] (WorkFlow.java:358)- ManagenmentPricApproval
+2017-10-18 14:14:22 INFO [main] (WorkFlow.java:363)- ManagenmentPricApproval
+2017-10-18 14:14:49 INFO [main] (WorkFlow.java:370)- LoggedIn User:Kyle
+2017-10-18 14:15:09 INFO [main] (WorkFlow.java:377)- RockRiver Team offer price submitted for approval: Test 8001
+2017-10-18 14:15:13 INFO [main] (WorkFlow.java:363)- ManagenmentPricApproval
+2017-10-18 14:15:35 INFO [main] (WorkFlow.java:370)- LoggedIn User:Chris
+2017-10-18 14:15:55 INFO [main] (WorkFlow.java:377)- RockRiver Team offer price submitted for approval: Test 8001
+2017-10-18 14:15:57 INFO [main] (WorkFlow.java:363)- ManagenmentPricApproval
+2017-10-18 14:16:20 INFO [main] (WorkFlow.java:370)- LoggedIn User:Sam
+2017-10-18 14:16:40 INFO [main] (WorkFlow.java:377)- RockRiver Team offer price submitted for approval: Test 8001
+2017-10-18 14:16:52 INFO [main] (WorkFlow.java:398)- Clear to Pay Approved by management
+2017-10-18 14:17:35 INFO [main] (WorkFlow.java:229)- Prospect Viewed By Menu List
+2017-10-18 14:17:53 INFO [main] (WorkFlow.java:254)- Date Selected Sucessfully
+2017-10-18 14:18:01 INFO [main] (WorkFlow.java:263)- Efective Date Selected Sucessfully
+2017-10-18 14:18:34 INFO [main] (WorkFlow.java:292)- LoggedIn User:William
+2017-10-18 14:18:51 INFO [main] (WorkFlow.java:301)- RockRiver Team generated a offer package: Test 8001
+2017-10-18 14:19:14 INFO [main] (WorkFlow.java:292)- LoggedIn User:Kyle
+2017-10-18 14:19:31 INFO [main] (WorkFlow.java:301)- RockRiver Team generated a offer package: Test 8001
+2017-10-18 14:19:54 INFO [main] (WorkFlow.java:292)- LoggedIn User:Chris
+2017-10-18 14:20:12 INFO [main] (WorkFlow.java:301)- RockRiver Team generated a offer package: Test 8001
+2017-10-18 14:20:33 INFO [main] (WorkFlow.java:292)- LoggedIn User:Sam
+2017-10-18 14:20:50 INFO [main] (WorkFlow.java:301)- RockRiver Team generated a offer package: Test 8001
+2017-10-18 14:21:33 INFO [main] (WorkFlow.java:229)- Prospect Viewed By Menu List
+2017-10-18 14:21:57 INFO [main] (WorkFlow.java:596)- Seller Document Attached Sucessfully
+2017-10-18 14:22:33 INFO [main] (WorkFlow.java:323)- LoggedIn User:William
+2017-10-18 14:22:50 INFO [main] (WorkFlow.java:332)- Test 8001 is due on 10/18/2017
+2017-10-18 14:23:07 INFO [main] (WorkFlow.java:323)- LoggedIn User:John
+2017-10-18 14:23:25 INFO [main] (WorkFlow.java:332)- Test 8001 is due on 10/18/2017
+2017-10-18 14:23:28 INFO [main] (WorkFlow.java:414)- LoginLandAndTitleUser
+2017-10-18 14:23:58 INFO [main] (WorkFlow.java:423)- LoggedIn User:William
+2017-10-18 14:24:15 INFO [main] (WorkFlow.java:430)- Test 8001 is due on 10/18/2017
+2017-10-18 14:24:41 INFO [main] (WorkFlow.java:462)- Ownership report Document Attached Sucessfully
+2017-10-18 14:25:08 INFO [main] (WorkFlow.java:478)- ClearToPay
+2017-10-18 14:25:15 INFO [main] (WorkFlow.java:485)- Payment send to management for Approval
+2017-10-18 14:25:42 INFO [main] (WorkFlow.java:517)- LoggedIn User:Chris
+2017-10-18 14:26:00 INFO [main] (WorkFlow.java:524)- RockRiver Team generated a offer package: Test 8001
+2017-10-18 14:26:10 INFO [main] (WorkFlow.java:543)- Clear to Pay Approved by management
+2017-10-18 14:26:46 INFO [main] (WorkFlow.java:517)- LoggedIn User:Sam
+2017-10-18 14:27:04 INFO [main] (WorkFlow.java:524)- RockRiver Team generated a offer package: Test 8001
+2017-10-18 14:27:14 INFO [main] (WorkFlow.java:543)- Clear to Pay Approved by management
+2017-10-18 15:39:57 INFO [main] (WorkFlow.java:50)- Logged In sucessfully
+2017-10-18 15:40:35 INFO [main] (WorkFlow.java:89)- Location found
+2017-10-18 15:40:44 INFO [main] (WorkFlow.java:138)- Tract info popup loaded sucessfully
+2017-10-18 15:40:45 INFO [main] (WorkFlow.java:145)- Total Tract County: 1
+2017-10-18 15:40:45 INFO [main] (WorkFlow.java:152)- Total Row Found: 1
+2017-10-18 15:40:58 INFO [main] (WorkFlow.java:169)- Tract Subsection Updated
+2017-10-18 15:40:59 INFO [main] (WorkFlow.java:174)- Tract Created Sucessessfully
+2017-10-18 15:40:59 INFO [main] (WorkFlow.java:180)- Switch to Tract header sucessfully
+2017-10-18 15:41:07 INFO [main] (WorkFlow.java:202)- Tract header filled sucessfully
+2017-10-18 15:41:08 INFO [main] (WorkFlow.java:208)- Tract Created Sucessessfully
+2017-10-18 15:41:21 INFO [main] (WorkFlow.java:105)- Prospect Viewed By Menu List
+2017-10-18 15:41:34 INFO [main] (WorkFlow.java:346)- Price
+2017-10-18 15:41:40 INFO [main] (WorkFlow.java:357)- Price Approval sent to management Sucessfully
+2017-10-18 15:41:43 INFO [main] (WorkFlow.java:365)- ManagenmentPricApproval
+2017-10-18 15:41:45 INFO [main] (WorkFlow.java:370)- Managenment Price Approval
+2017-10-18 15:42:05 INFO [main] (WorkFlow.java:377)- LoggedIn User:Kyle
+2017-10-18 15:42:25 INFO [main] (WorkFlow.java:385)- RockRiver Team offer price submitted for approval: Test 2577
+2017-10-18 15:42:25 INFO [main] (WorkFlow.java:386)- Managenment Price Approval
+2017-10-18 15:42:30 INFO [main] (WorkFlow.java:370)- Managenment Price Approval
+2017-10-18 15:42:50 INFO [main] (WorkFlow.java:377)- LoggedIn User:Chris
+2017-10-18 15:43:10 INFO [main] (WorkFlow.java:385)- RockRiver Team offer price submitted for approval: Test 2577
+2017-10-18 15:43:10 INFO [main] (WorkFlow.java:386)- Managenment Price Approval
+2017-10-18 15:43:15 INFO [main] (WorkFlow.java:370)- Managenment Price Approval
+2017-10-18 15:43:34 INFO [main] (WorkFlow.java:377)- LoggedIn User:Sam
+2017-10-18 15:43:54 INFO [main] (WorkFlow.java:385)- RockRiver Team offer price submitted for approval: Test 2577
+2017-10-18 15:43:54 INFO [main] (WorkFlow.java:386)- Managenment Price Approval
+2017-10-18 15:44:07 INFO [main] (WorkFlow.java:408)- Price Decline by: Sam
+2017-10-18 15:44:46 INFO [main] (WorkFlow.java:226)- Prospect Viewed By Menu List
+2017-10-18 15:44:50 INFO [main] (WorkFlow.java:233)- Offer package Generation Start
+2017-10-18 15:45:05 INFO [main] (WorkFlow.java:252)- Date Selected Sucessfully
+2017-10-18 15:45:13 INFO [main] (WorkFlow.java:261)- Efective Date Selected Sucessfully
+2017-10-18 15:45:18 INFO [main] (WorkFlow.java:270)- Offer package Generated Sucessfully
+2017-10-18 15:45:23 INFO [main] (WorkFlow.java:286)- Offer package Notification Start
+2017-10-18 15:45:49 INFO [main] (WorkFlow.java:293)- LoggedIn User:William
+2017-10-18 15:46:06 INFO [main] (WorkFlow.java:303)- RockRiver Team generated a offer package: Test 2577
+2017-10-18 15:46:08 INFO [main] (WorkFlow.java:306)- Offer package Notification Viewed Sucessfully
+2017-10-18 15:46:11 INFO [main] (WorkFlow.java:286)- Offer package Notification Start
+2017-10-18 15:46:28 INFO [main] (WorkFlow.java:293)- LoggedIn User:Kyle
+2017-10-18 15:46:46 INFO [main] (WorkFlow.java:303)- RockRiver Team generated a offer package: Test 2577
+2017-10-18 15:46:48 INFO [main] (WorkFlow.java:306)- Offer package Notification Viewed Sucessfully
+2017-10-18 15:46:52 INFO [main] (WorkFlow.java:286)- Offer package Notification Start
+2017-10-18 15:47:08 INFO [main] (WorkFlow.java:293)- LoggedIn User:Chris
+2017-10-18 15:47:26 INFO [main] (WorkFlow.java:303)- RockRiver Team generated a offer package: Test 2577
+2017-10-18 15:47:28 INFO [main] (WorkFlow.java:306)- Offer package Notification Viewed Sucessfully
+2017-10-18 15:47:31 INFO [main] (WorkFlow.java:286)- Offer package Notification Start
+2017-10-18 15:47:51 INFO [main] (WorkFlow.java:293)- LoggedIn User:Sam
+2017-10-18 15:48:08 INFO [main] (WorkFlow.java:303)- RockRiver Team generated a offer package: Test 2577
+2017-10-18 15:48:10 INFO [main] (WorkFlow.java:306)- Offer package Notification Viewed Sucessfully
+2017-10-18 15:48:57 INFO [main] (WorkFlow.java:226)- Prospect Viewed By Menu List
+2017-10-18 15:48:57 INFO [main] (WorkFlow.java:575)- Upload Seller Documnet start
+2017-10-18 15:49:23 INFO [main] (WorkFlow.java:622)- Seller Document Attached Sucessfully
+2017-10-18 15:49:28 INFO [main] (WorkFlow.java:320)- Seller Upload Document Notification Start
+2017-10-18 15:49:53 INFO [main] (WorkFlow.java:327)- LoggedIn User:William
+2017-10-18 15:53:02 INFO [main] (WorkFlow.java:424)- LoginLandAndTitleUser
+2017-10-18 15:53:29 INFO [main] (WorkFlow.java:433)- LoggedIn User:William
+2017-10-18 15:53:47 INFO [main] (WorkFlow.java:441)- Test 2577 is due on 10/18/2017
+2017-10-18 15:55:07 INFO [main] (WorkFlow.java:424)- LoginLandAndTitleUser
+2017-10-18 15:55:50 INFO [main] (WorkFlow.java:433)- LoggedIn User:William
+2017-10-18 15:56:08 INFO [main] (WorkFlow.java:441)- RockRiver Team generated a offer package: Test 2577
+2017-10-18 15:56:25 INFO [main] (WorkFlow.java:452)- Order Title Generated Sucessfully
+2017-10-18 15:56:50 INFO [main] (WorkFlow.java:481)- Ownership report Document Attached Sucessfully
+2017-10-18 15:57:17 INFO [main] (WorkFlow.java:497)- ClearToPay
+2017-10-18 15:57:24 INFO [main] (WorkFlow.java:505)- Payment send to management for Approval
+2017-10-18 15:57:47 INFO [main] (WorkFlow.java:539)- LoggedIn User:Sam
+2017-10-18 15:58:04 INFO [main] (WorkFlow.java:546)- RockRiver Team generated a offer package: Test 2577
+2017-10-18 15:58:14 INFO [main] (WorkFlow.java:565)- Price Decline by: Sam
+2017-10-18 15:58:31 INFO [main] (WorkFlow.java:539)- LoggedIn User:Chris
+2017-10-18 15:58:49 INFO [main] (WorkFlow.java:546)- Approval Request on : Test 2577
+2017-10-18 15:58:59 INFO [main] (WorkFlow.java:565)- Price Decline by: Chris
+2017-10-18 16:00:39 INFO [main] (CreateProspect.java:73)- Logged In sucessfully
+2017-10-18 16:01:14 INFO [main] (CreateProspect.java:109)- Location found
+2017-10-18 16:01:28 INFO [main] (CreateProspect.java:198)- Tract info popup loaded sucessfully
+2017-10-18 16:01:29 INFO [main] (CreateProspect.java:203)- Total Tract County: 1
+2017-10-18 16:01:29 INFO [main] (CreateProspect.java:210)- Total Row Found: 1
+2017-10-18 16:01:42 INFO [main] (CreateProspect.java:227)- Tract Subsection Updated
+2017-10-18 16:01:42 INFO [main] (CreateProspect.java:231)- Tract Created Sucessessfully
+2017-10-18 16:01:42 INFO [main] (CreateProspect.java:237)- Switch to Tract header sucessfully
+2017-10-18 16:01:51 INFO [main] (CreateProspect.java:257)- Tract header filled sucessfully
+2017-10-18 16:01:51 INFO [main] (CreateProspect.java:262)- Prospect Created sucessfully
+2017-10-18 16:02:03 INFO [main] (CreateProspect.java:277)- Prospect Viewed By Menu List
+2017-10-18 16:02:20 INFO [main] (CreateProspect.java:297)- Prospect Viewed By Smart Search
+2017-10-18 16:02:35 INFO [main] (CreateProspect.java:308)- Prospect Viewed By Notification
+2017-10-18 16:02:51 INFO [main] (CreateProspect.java:370)- Date Selected Sucessfully
+2017-10-18 16:02:58 INFO [main] (CreateProspect.java:383)- Payment Added Sucessfully
+2017-10-18 16:03:18 INFO [main] (CreateProspect.java:413)- New Company Added Sucessfully
+2017-10-18 16:03:37 INFO [main] (CreateProspect.java:519)- Location found
+2017-10-18 16:04:43 INFO [main] (CreateProspect.java:468)- Tract Result updated Sucessfully
+2017-10-18 16:05:03 INFO [main] (CreateProspect.java:478)- Tract Deleted Sucessfully
+2017-10-18 16:05:39 INFO [main] (CreateProspect.java:564)- Tract info popup loaded sucessfully
+2017-10-18 16:05:39 INFO [main] (CreateProspect.java:568)- Total Tract County: 1
+2017-10-18 16:05:39 INFO [main] (CreateProspect.java:576)- Total Row Found: 1
+2017-10-18 16:05:47 INFO [main] (CreateProspect.java:588)- Tract Subsection Updated
+2017-10-18 16:05:47 INFO [main] (CreateProspect.java:591)- Tract Updated Sucessessfully
+2017-10-18 16:05:47 INFO [main] (CreateProspect.java:597)- Switch to Tract header sucessfully
+2017-10-18 16:05:54 INFO [main] (CreateProspect.java:619)- Tract header filled sucessfully
+2017-10-18 16:05:54 INFO [main] (CreateProspect.java:624)- Prospect Updated sucessfully
+2017-10-18 16:06:17 INFO [main] (CreateProspect.java:335)- Prospect Deleted Sucessfully

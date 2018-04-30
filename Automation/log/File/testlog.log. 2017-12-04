@@ -1,0 +1,378 @@
+2017-12-04 12:11:02 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-12-04 12:12:17 INFO [main] (PendingOfferFlow.java:95)- Location found
+2017-12-04 12:12:27 INFO [main] (PendingOfferFlow.java:142)- Tract info popup loaded sucessfully
+2017-12-04 12:12:30 INFO [main] (PendingOfferFlow.java:150)- Total Tract County: 1
+2017-12-04 12:12:32 INFO [main] (PendingOfferFlow.java:158)- Total Row Found: 1
+2017-12-04 12:12:42 INFO [main] (PendingOfferFlow.java:176)- Tract Subsection Updated
+2017-12-04 12:12:43 INFO [main] (PendingOfferFlow.java:181)- Tract Created Sucessessfully
+2017-12-04 12:12:43 INFO [main] (PendingOfferFlow.java:185)- Switch to Tract header sucessfully
+2017-12-04 12:12:50 INFO [main] (PendingOfferFlow.java:208)- Tract header filled sucessfully
+2017-12-04 12:12:50 INFO [main] (PendingOfferFlow.java:213)- Tract Created Sucessessfully
+2017-12-04 12:13:09 INFO [main] (PendingOfferFlow.java:403)- Price
+2017-12-04 12:13:19 INFO [main] (PendingOfferFlow.java:415)- Price Approval sent to management Sucessfully
+2017-12-04 12:13:22 INFO [main] (PendingOfferFlow.java:425)- ManagenmentPricApproval
+2017-12-04 12:13:30 INFO [main] (PendingOfferFlow.java:436)- Managenment Price Approval
+2017-12-04 12:13:38 INFO [main] (PendingOfferFlow.java:446)- LoggedIn User:cfo.rrm
+2017-12-04 12:14:12 INFO [main] (PendingOfferFlow.java:455)- Buyer RRM offer price submitted for approval: Test 5965
+2017-12-04 12:14:12 INFO [main] (PendingOfferFlow.java:456)- Managenment Price Approval
+2017-12-04 12:18:17 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-12-04 12:19:29 INFO [main] (PendingOfferFlow.java:95)- Location found
+2017-12-04 12:19:38 INFO [main] (PendingOfferFlow.java:142)- Tract info popup loaded sucessfully
+2017-12-04 12:19:41 INFO [main] (PendingOfferFlow.java:150)- Total Tract County: 1
+2017-12-04 12:19:43 INFO [main] (PendingOfferFlow.java:158)- Total Row Found: 1
+2017-12-04 12:19:54 INFO [main] (PendingOfferFlow.java:176)- Tract Subsection Updated
+2017-12-04 12:19:54 INFO [main] (PendingOfferFlow.java:181)- Tract Created Sucessessfully
+2017-12-04 12:19:54 INFO [main] (PendingOfferFlow.java:185)- Switch to Tract header sucessfully
+2017-12-04 12:20:02 INFO [main] (PendingOfferFlow.java:208)- Tract header filled sucessfully
+2017-12-04 12:20:02 INFO [main] (PendingOfferFlow.java:213)- Tract Created Sucessessfully
+2017-12-04 12:20:25 INFO [main] (PendingOfferFlow.java:404)- Price
+2017-12-04 12:20:35 INFO [main] (PendingOfferFlow.java:416)- Price Approval sent to management Sucessfully
+2017-12-04 12:20:38 INFO [main] (PendingOfferFlow.java:426)- ManagenmentPricApproval
+2017-12-04 12:21:31 INFO [main] (PendingOfferFlow.java:437)- Managenment Price Approval
+2017-12-04 12:21:40 INFO [main] (PendingOfferFlow.java:447)- LoggedIn User:cfo.rrm
+2017-12-04 12:23:56 INFO [main] (PendingOfferFlow.java:456)- Buyer RRM offer price submitted for approval: Test 3801
+2017-12-04 12:23:56 INFO [main] (PendingOfferFlow.java:457)- Managenment Price Approval
+2017-12-04 12:25:10 INFO [main] (PendingOfferFlow.java:478)- Price Decline by: cfo.rrm
+2017-12-04 12:25:25 INFO [main] (PendingOfferFlow.java:555)- Hi, cfo.rrm log Out Sucessfully
+2017-12-04 12:27:35 INFO [main] (PendingOfferFlow.java:233)- Prospect Viewed By Menu List
+2017-12-04 12:27:39 INFO [main] (PendingOfferFlow.java:239)- Offer package Generation Start
+2017-12-04 12:28:01 INFO [main] (PendingOfferFlow.java:270)- Date Selected Sucessfully
+2017-12-04 12:28:11 INFO [main] (PendingOfferFlow.java:294)- Efective Date Selected Sucessfully
+2017-12-04 12:28:16 INFO [main] (PendingOfferFlow.java:303)- Offer package Generated Sucessfully
+2017-12-04 12:28:27 INFO [main] (PendingOfferFlow.java:325)- Offer package Notification Start
+2017-12-04 12:28:32 INFO [main] (PendingOfferFlow.java:334)- LoggedIn User:cfo.rrm
+2017-12-04 12:30:49 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-12-04 12:33:18 INFO [main] (PendingOfferFlow.java:95)- Location found
+2017-12-04 12:33:27 INFO [main] (PendingOfferFlow.java:142)- Tract info popup loaded sucessfully
+2017-12-04 12:33:30 INFO [main] (PendingOfferFlow.java:150)- Total Tract County: 1
+2017-12-04 12:33:32 INFO [main] (PendingOfferFlow.java:158)- Total Row Found: 1
+2017-12-04 12:33:43 INFO [main] (PendingOfferFlow.java:176)- Tract Subsection Updated
+2017-12-04 12:33:43 INFO [main] (PendingOfferFlow.java:181)- Tract Created Sucessessfully
+2017-12-04 12:33:43 INFO [main] (PendingOfferFlow.java:185)- Switch to Tract header sucessfully
+2017-12-04 12:33:50 INFO [main] (PendingOfferFlow.java:208)- Tract header filled sucessfully
+2017-12-04 12:33:51 INFO [main] (PendingOfferFlow.java:213)- Tract Created Sucessessfully
+2017-12-04 12:34:14 INFO [main] (PendingOfferFlow.java:405)- Price
+2017-12-04 12:34:23 INFO [main] (PendingOfferFlow.java:417)- Price Approval sent to management Sucessfully
+2017-12-04 12:34:26 INFO [main] (PendingOfferFlow.java:427)- ManagenmentPricApproval
+2017-12-04 12:34:46 INFO [main] (PendingOfferFlow.java:438)- Managenment Price Approval
+2017-12-04 12:34:57 INFO [main] (PendingOfferFlow.java:448)- LoggedIn User:cfo.rrm
+2017-12-04 12:35:52 INFO [main] (PendingOfferFlow.java:457)- CFO RRM offer price submitted for approval: Test 8848
+2017-12-04 12:35:52 INFO [main] (PendingOfferFlow.java:458)- Managenment Price Approval
+2017-12-04 12:36:13 INFO [main] (PendingOfferFlow.java:479)- Price Decline by: cfo.rrm
+2017-12-04 12:36:28 INFO [main] (PendingOfferFlow.java:556)- Hi, cfo.rrm log Out Sucessfully
+2017-12-04 12:37:24 INFO [main] (PendingOfferFlow.java:233)- Prospect Viewed By Menu List
+2017-12-04 12:37:29 INFO [main] (PendingOfferFlow.java:239)- Offer package Generation Start
+2017-12-04 13:00:50 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-12-04 13:02:21 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-12-04 13:03:31 INFO [main] (PendingOfferFlow.java:95)- Location found
+2017-12-04 13:03:40 INFO [main] (PendingOfferFlow.java:142)- Tract info popup loaded sucessfully
+2017-12-04 13:03:43 INFO [main] (PendingOfferFlow.java:150)- Total Tract County: 1
+2017-12-04 13:03:45 INFO [main] (PendingOfferFlow.java:158)- Total Row Found: 1
+2017-12-04 13:03:56 INFO [main] (PendingOfferFlow.java:176)- Tract Subsection Updated
+2017-12-04 13:03:56 INFO [main] (PendingOfferFlow.java:181)- Tract Created Sucessessfully
+2017-12-04 13:03:56 INFO [main] (PendingOfferFlow.java:185)- Switch to Tract header sucessfully
+2017-12-04 13:04:03 INFO [main] (PendingOfferFlow.java:208)- Tract header filled sucessfully
+2017-12-04 13:04:04 INFO [main] (PendingOfferFlow.java:213)- Tract Created Sucessessfully
+2017-12-04 13:04:27 INFO [main] (PendingOfferFlow.java:405)- Price
+2017-12-04 13:04:36 INFO [main] (PendingOfferFlow.java:417)- Price Approval sent to management Sucessfully
+2017-12-04 13:04:39 INFO [main] (PendingOfferFlow.java:427)- ManagenmentPricApproval
+2017-12-04 13:04:46 INFO [main] (PendingOfferFlow.java:438)- Managenment Price Approval
+2017-12-04 13:04:55 INFO [main] (PendingOfferFlow.java:448)- LoggedIn User:cfo.rrm
+2017-12-04 13:05:23 INFO [main] (PendingOfferFlow.java:457)- Buyer RRM offer price submitted for approval: Test 2805
+2017-12-04 13:05:23 INFO [main] (PendingOfferFlow.java:458)- Managenment Price Approval
+2017-12-04 13:05:44 INFO [main] (PendingOfferFlow.java:479)- Price Decline by: cfo.rrm
+2017-12-04 13:05:59 INFO [main] (PendingOfferFlow.java:556)- Hi, cfo.rrm log Out Sucessfully
+2017-12-04 13:06:53 INFO [main] (PendingOfferFlow.java:233)- Prospect Viewed By Menu List
+2017-12-04 13:06:57 INFO [main] (PendingOfferFlow.java:239)- Offer package Generation Start
+2017-12-04 13:07:20 INFO [main] (PendingOfferFlow.java:270)- Date Selected Sucessfully
+2017-12-04 13:07:30 INFO [main] (PendingOfferFlow.java:294)- Efective Date Selected Sucessfully
+2017-12-04 13:07:35 INFO [main] (PendingOfferFlow.java:303)- Offer package Generated Sucessfully
+2017-12-04 13:07:44 INFO [main] (PendingOfferFlow.java:325)- Offer package Notification Start
+2017-12-04 13:07:50 INFO [main] (PendingOfferFlow.java:334)- LoggedIn User:cfo.rrm
+2017-12-04 13:10:00 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-12-04 13:11:28 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-12-04 13:12:54 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-12-04 13:14:10 INFO [main] (PendingOfferFlow.java:95)- Location found
+2017-12-04 13:14:20 INFO [main] (PendingOfferFlow.java:142)- Tract info popup loaded sucessfully
+2017-12-04 13:14:22 INFO [main] (PendingOfferFlow.java:150)- Total Tract County: 1
+2017-12-04 13:14:24 INFO [main] (PendingOfferFlow.java:158)- Total Row Found: 1
+2017-12-04 13:14:35 INFO [main] (PendingOfferFlow.java:176)- Tract Subsection Updated
+2017-12-04 13:14:35 INFO [main] (PendingOfferFlow.java:181)- Tract Created Sucessessfully
+2017-12-04 13:14:35 INFO [main] (PendingOfferFlow.java:185)- Switch to Tract header sucessfully
+2017-12-04 13:14:43 INFO [main] (PendingOfferFlow.java:208)- Tract header filled sucessfully
+2017-12-04 13:14:43 INFO [main] (PendingOfferFlow.java:213)- Tract Created Sucessessfully
+2017-12-04 13:15:07 INFO [main] (PendingOfferFlow.java:406)- Price
+2017-12-04 13:15:17 INFO [main] (PendingOfferFlow.java:418)- Price Approval sent to management Sucessfully
+2017-12-04 13:15:20 INFO [main] (PendingOfferFlow.java:428)- ManagenmentPricApproval
+2017-12-04 13:15:27 INFO [main] (PendingOfferFlow.java:439)- Managenment Price Approval
+2017-12-04 13:15:35 INFO [main] (PendingOfferFlow.java:449)- LoggedIn User:cfo.rrm
+2017-12-04 13:16:04 INFO [main] (PendingOfferFlow.java:458)- Buyer RRM offer price submitted for approval: Test 4476
+2017-12-04 13:16:04 INFO [main] (PendingOfferFlow.java:459)- Managenment Price Approval
+2017-12-04 13:16:24 INFO [main] (PendingOfferFlow.java:480)- Price Decline by: cfo.rrm
+2017-12-04 13:16:39 INFO [main] (PendingOfferFlow.java:557)- Hi, cfo.rrm log Out Sucessfully
+2017-12-04 13:17:28 INFO [main] (PendingOfferFlow.java:233)- Prospect Viewed By Menu List
+2017-12-04 13:17:33 INFO [main] (PendingOfferFlow.java:239)- Offer package Generation Start
+2017-12-04 13:17:52 INFO [main] (PendingOfferFlow.java:270)- Date Selected Sucessfully
+2017-12-04 13:18:01 INFO [main] (PendingOfferFlow.java:294)- Efective Date Selected Sucessfully
+2017-12-04 13:18:06 INFO [main] (PendingOfferFlow.java:303)- Offer package Generated Sucessfully
+2017-12-04 13:18:16 INFO [main] (PendingOfferFlow.java:325)- Offer package Notification Start
+2017-12-04 13:18:21 INFO [main] (PendingOfferFlow.java:334)- LoggedIn User:cfo.rrm
+2017-12-04 13:18:58 INFO [main] (PendingOfferFlow.java:347)- Buyer RRM generated a offer package: Test 4476
+2017-12-04 13:19:12 INFO [main] (PendingOfferFlow.java:557)- Hi, cfo.rrm log Out Sucessfully
+2017-12-04 13:19:14 INFO [main] (PendingOfferFlow.java:350)- Offer package Notification Viewed Sucessfully
+2017-12-04 13:20:00 INFO [main] (PendingOfferFlow.java:233)- Prospect Viewed By Menu List
+2017-12-04 13:20:01 INFO [main] (PendingOfferFlow.java:495)- Upload Seller Documnet start
+2017-12-04 13:20:25 INFO [main] (PendingOfferFlow.java:518)- Seller Document Attached Sucessfully
+2017-12-04 13:20:34 INFO [main] (PendingOfferFlow.java:546)- Dual Diligence Date added Sucessfully
+2017-12-04 13:20:43 INFO [main] (PendingOfferFlow.java:372)- Seller Upload Document Notification Start
+2017-12-04 13:20:49 INFO [main] (PendingOfferFlow.java:382)- LoggedIn User:mgr.landtitle.rrm
+2017-12-04 13:21:13 INFO [main] (PendingOfferFlow.java:393)- Test 4476 is due on 12/04/2017
+2017-12-04 13:21:13 INFO [main] (PendingOfferFlow.java:394)- Seller Upload Document Notification Viewed Sucessfully
+2017-12-04 13:21:28 INFO [main] (PendingOfferFlow.java:557)- Hi, mgr.landtitle.rrm log Out Sucessfully
+2017-12-04 13:21:30 INFO [main] (PendingOfferFlow.java:372)- Seller Upload Document Notification Start
+2017-12-04 13:21:35 INFO [main] (PendingOfferFlow.java:382)- LoggedIn User:landtitle.rrm
+2017-12-04 13:21:57 INFO [main] (PendingOfferFlow.java:393)- Test 4476 is due on 12/04/2017
+2017-12-04 13:21:57 INFO [main] (PendingOfferFlow.java:394)- Seller Upload Document Notification Viewed Sucessfully
+2017-12-04 13:22:12 INFO [main] (PendingOfferFlow.java:557)- Hi, landtitle.rrm log Out Sucessfully
+2017-12-04 14:52:22 INFO [main] (PendingDueDelay_Flow.java:60)- LoginLandAndTitleUser
+2017-12-04 14:54:56 INFO [main] (PendingDueDelay_Flow.java:216)- LoggedIn User:coo.rrm
+2017-12-04 14:55:31 INFO [main] (PendingDueDelay_Flow.java:227)- MGRLand Title marked Test 4476 as red flags. Reason: Rejection Due to low budget
+2017-12-04 14:59:09 INFO [main] (PendingDueDelay_Flow.java:216)- LoggedIn User:coo.rrm
+2017-12-04 14:59:41 INFO [main] (PendingDueDelay_Flow.java:227)- Approval Request on : Test 4476
+2017-12-04 15:00:01 INFO [main] (PendingDueDelay_Flow.java:247)- Price Approved by: coo.rrm
+2017-12-04 15:00:16 INFO [main] (PendingDueDelay_Flow.java:267)- Hi, coo.rrm log Out Sucessfully
+2017-12-04 15:00:22 INFO [main] (PendingDueDelay_Flow.java:216)- LoggedIn User:cfo.rrm
+2017-12-04 15:00:54 INFO [main] (PendingDueDelay_Flow.java:227)- Approval Request on : Test 4476
+2017-12-04 15:01:17 INFO [main] (PendingDueDelay_Flow.java:247)- Price Approved by: cfo.rrm
+2017-12-04 15:01:32 INFO [main] (PendingDueDelay_Flow.java:267)- Hi, cfo.rrm log Out Sucessfully
+2017-12-04 15:01:33 INFO [main] (PendingDueDelay_Flow.java:257)- Prospect Converted to Asset Sucessfully
+2017-12-04 15:07:52 INFO [main] (AssetWorkFlow.java:42)- Logged In sucessfully
+2017-12-04 15:07:53 INFO [main] (AssetWorkFlow.java:44)- Executing Post Close start
+2017-12-04 15:08:21 INFO [main] (AssetWorkFlow.java:60)- Search Assect by Smart Search
+2017-12-04 15:08:45 INFO [main] (AssetWorkFlow.java:83)- Asset opened sucessfully
+2017-12-04 15:08:58 INFO [main] (AssetWorkFlow.java:114)- Check generated sucessfully
+2017-12-04 15:08:58 INFO [main] (AssetWorkFlow.java:119)- Asset work flow start
+2017-12-04 15:09:11 INFO [main] (AssetWorkFlow.java:124)- Count found0
+2017-12-04 15:09:11 INFO [main] (AssetWorkFlow.java:127)- Unrecorded Deed start
+2017-12-04 15:11:01 INFO [main] (AssetWorkFlow.java:42)- Logged In sucessfully
+2017-12-04 15:11:01 INFO [main] (AssetWorkFlow.java:44)- Executing Post Close start
+2017-12-04 15:13:55 INFO [main] (AssetWorkFlow.java:42)- Logged In sucessfully
+2017-12-04 15:13:56 INFO [main] (AssetWorkFlow.java:44)- Executing Post Close start
+2017-12-04 15:14:35 INFO [main] (AssetWorkFlow.java:60)- Search Assect by Smart Search
+2017-12-04 15:14:59 INFO [main] (AssetWorkFlow.java:83)- Asset opened sucessfully
+2017-12-04 15:19:07 INFO [main] (AssetWorkFlow.java:42)- Logged In sucessfully
+2017-12-04 15:19:07 INFO [main] (AssetWorkFlow.java:44)- Executing Post Close start
+2017-12-04 15:19:47 INFO [main] (AssetWorkFlow.java:60)- Search Assect by Smart Search
+2017-12-04 15:20:12 INFO [main] (AssetWorkFlow.java:83)- Asset opened sucessfully
+2017-12-04 15:31:18 INFO [main] (AssetWorkFlow.java:42)- Logged In sucessfully
+2017-12-04 15:31:19 INFO [main] (AssetWorkFlow.java:44)- Executing Post Close start
+2017-12-04 15:31:47 INFO [main] (AssetWorkFlow.java:60)- Search Assect by Smart Search
+2017-12-04 15:32:11 INFO [main] (AssetWorkFlow.java:83)- Asset opened sucessfully
+2017-12-04 15:32:28 INFO [main] (AssetWorkFlow.java:113)- County details not dsiplayed
+2017-12-04 15:32:32 INFO [main] (AssetWorkFlow.java:120)- Check generated sucessfully
+2017-12-04 15:32:32 INFO [main] (AssetWorkFlow.java:125)- Asset work flow start
+2017-12-04 15:32:45 INFO [main] (AssetWorkFlow.java:130)- Count found2
+2017-12-04 15:32:45 INFO [main] (AssetWorkFlow.java:133)- Unrecorded Deed start
+2017-12-04 15:34:53 INFO [main] (AssetWorkFlow.java:42)- Logged In sucessfully
+2017-12-04 15:34:54 INFO [main] (AssetWorkFlow.java:44)- Executing Post Close start
+2017-12-04 15:35:33 INFO [main] (AssetWorkFlow.java:60)- Search Assect by Smart Search
+2017-12-04 15:35:57 INFO [main] (AssetWorkFlow.java:83)- Asset opened sucessfully
+2017-12-04 15:36:18 INFO [main] (AssetWorkFlow.java:120)- Check generated sucessfully
+2017-12-04 15:36:18 INFO [main] (AssetWorkFlow.java:125)- Asset work flow start
+2017-12-04 15:36:31 INFO [main] (AssetWorkFlow.java:130)- Count found1
+2017-12-04 15:36:40 INFO [main] (AssetWorkFlow.java:134)- Unrecorded Deed start
+2017-12-04 15:36:42 INFO [main] (AssetWorkFlow.java:139)- Unrecorded Deed Checked
+2017-12-04 15:39:36 INFO [main] (AssetWorkFlow.java:42)- Logged In sucessfully
+2017-12-04 15:39:36 INFO [main] (AssetWorkFlow.java:44)- Executing Post Close start
+2017-12-04 15:40:19 INFO [main] (AssetWorkFlow.java:60)- Search Assect by Smart Search
+2017-12-04 15:40:43 INFO [main] (AssetWorkFlow.java:83)- Asset opened sucessfully
+2017-12-04 15:41:00 INFO [main] (AssetWorkFlow.java:113)- County details not dsiplayed
+2017-12-04 15:41:04 INFO [main] (AssetWorkFlow.java:120)- Check generated sucessfully
+2017-12-04 15:41:04 INFO [main] (AssetWorkFlow.java:125)- Asset work flow start
+2017-12-04 15:41:17 INFO [main] (AssetWorkFlow.java:130)- Count found2
+2017-12-04 15:41:26 INFO [main] (AssetWorkFlow.java:134)- Unrecorded Deed start
+2017-12-04 15:41:28 INFO [main] (AssetWorkFlow.java:139)- Unrecorded Deed Checked
+2017-12-04 15:41:38 INFO [main] (AssetWorkFlow.java:154)- unrecorded Deed End
+2017-12-04 15:41:38 INFO [main] (AssetWorkFlow.java:158)- Deed Recording start
+2017-12-04 15:41:57 INFO [main] (AssetWorkFlow.java:177)- Date selected for all County
+2017-12-04 15:41:57 INFO [main] (AssetWorkFlow.java:178)- Deed Recording start
+2017-12-04 15:41:57 INFO [main] (AssetWorkFlow.java:182)- Record Deed Start
+2017-12-04 15:42:04 INFO [main] (AssetWorkFlow.java:190)- Record Deed Checked
+2017-12-04 15:42:04 INFO [main] (AssetWorkFlow.java:193)- Record Deed End
+2017-12-04 16:17:01 INFO [main] (CreateLease.java:44)- Logged In sucessfully
+2017-12-04 16:18:06 INFO [main] (CreateLease.java:94)- Location found
+2017-12-04 16:18:16 INFO [main] (CreateLease.java:124)- Tract info popup loaded sucessfully
+2017-12-04 16:18:19 INFO [main] (CreateLease.java:132)- Total Tract County: 1
+2017-12-04 16:18:21 INFO [main] (CreateLease.java:141)- Total Row Found: 1
+2017-12-04 16:18:27 INFO [main] (CreateLease.java:153)- Tract Subsection Updated
+2017-12-04 16:18:28 INFO [main] (CreateLease.java:157)- Tract Created Sucessessfully
+2017-12-04 16:18:28 INFO [main] (CreateLease.java:161)- Switch to Tract header sucessfully
+2017-12-04 16:18:35 INFO [main] (CreateLease.java:193)- Tract header filled sucessfully
+2017-12-04 16:18:35 INFO [main] (CreateLease.java:198)- Tract Created Sucessessfully
+2017-12-04 16:22:01 INFO [main] (CreateLease.java:45)- Logged In sucessfully
+2017-12-04 16:23:05 INFO [main] (CreateLease.java:95)- Location found
+2017-12-04 16:24:34 INFO [main] (CreateLease.java:45)- Logged In sucessfully
+2017-12-04 16:25:53 INFO [main] (CreateLease.java:95)- Location found
+2017-12-04 16:26:02 INFO [main] (CreateLease.java:125)- Tract info popup loaded sucessfully
+2017-12-04 16:26:05 INFO [main] (CreateLease.java:133)- Total Tract County: 1
+2017-12-04 16:26:07 INFO [main] (CreateLease.java:142)- Total Row Found: 1
+2017-12-04 16:26:13 INFO [main] (CreateLease.java:154)- Tract Subsection Updated
+2017-12-04 16:26:14 INFO [main] (CreateLease.java:158)- Tract Created Sucessessfully
+2017-12-04 16:26:14 INFO [main] (CreateLease.java:162)- Switch to Tract header sucessfully
+2017-12-04 16:26:21 INFO [main] (CreateLease.java:194)- Tract header filled sucessfully
+2017-12-04 16:26:21 INFO [main] (CreateLease.java:199)- Tract Created Sucessessfully
+2017-12-04 16:27:13 INFO [main] (CreateLease.java:273)- All tract updated
+2017-12-04 16:27:13 INFO [main] (CreateLease.java:275)- Tract Result updated Sucessfully
+2017-12-04 16:33:48 INFO [main] (TractDepth.java:41)- Logged In sucessfully
+2017-12-04 16:35:04 INFO [main] (TractDepth.java:86)- Location found
+2017-12-04 16:35:14 INFO [main] (TractDepth.java:116)- Tract info popup loaded sucessfully
+2017-12-04 16:35:17 INFO [main] (TractDepth.java:125)- Total Tract County: 1
+2017-12-04 16:35:19 INFO [main] (TractDepth.java:133)- Total Row Found: 1
+2017-12-04 16:35:25 INFO [main] (TractDepth.java:146)- Depth Tract Start
+2017-12-04 16:35:31 INFO [main] (TractDepth.java:174)- Depth Tract End
+2017-12-04 17:16:28 INFO [main] (Associaltion.java:45)- Logged In sucessfully
+2017-12-04 17:17:35 INFO [main] (Associaltion.java:90)- Location found
+2017-12-04 17:17:44 INFO [main] (Associaltion.java:116)- Tract info popup loaded sucessfully
+2017-12-04 17:17:47 INFO [main] (Associaltion.java:124)- Total Tract County: 1
+2017-12-04 17:17:49 INFO [main] (Associaltion.java:132)- Total Row Found: 1
+2017-12-04 17:18:01 INFO [main] (Associaltion.java:151)- Tract Subsection Updated
+2017-12-04 17:18:02 INFO [main] (Associaltion.java:156)- Tract Created Sucessessfully
+2017-12-04 17:18:02 INFO [main] (Associaltion.java:160)- Switch to Tract header sucessfully
+2017-12-04 17:18:09 INFO [main] (Associaltion.java:183)- Tract header filled sucessfully
+2017-12-04 17:18:09 INFO [main] (Associaltion.java:188)- Tract Created Sucessessfully
+2017-12-04 17:21:47 INFO [main] (Associaltion.java:45)- Logged In sucessfully
+2017-12-04 17:22:58 INFO [main] (Associaltion.java:91)- Location found
+2017-12-04 17:23:08 INFO [main] (Associaltion.java:119)- Tract info popup loaded sucessfully
+2017-12-04 17:23:10 INFO [main] (Associaltion.java:127)- Total Tract County: 1
+2017-12-04 17:23:12 INFO [main] (Associaltion.java:135)- Total Row Found: 1
+2017-12-04 17:23:25 INFO [main] (Associaltion.java:154)- Tract Subsection Updated
+2017-12-04 17:23:26 INFO [main] (Associaltion.java:159)- Tract Created Sucessessfully
+2017-12-04 17:23:26 INFO [main] (Associaltion.java:163)- Switch to Tract header sucessfully
+2017-12-04 17:23:33 INFO [main] (Associaltion.java:186)- Tract header filled sucessfully
+2017-12-04 17:23:33 INFO [main] (Associaltion.java:191)- Tract Created Sucessessfully
+2017-12-04 17:25:00 INFO [main] (Associaltion.java:244)- Location found
+2017-12-04 17:26:35 INFO [main] (Associaltion.java:45)- Logged In sucessfully
+2017-12-04 17:27:35 INFO [main] (Associaltion.java:91)- Location found
+2017-12-04 17:27:44 INFO [main] (Associaltion.java:119)- Tract info popup loaded sucessfully
+2017-12-04 17:27:47 INFO [main] (Associaltion.java:127)- Total Tract County: 1
+2017-12-04 17:27:49 INFO [main] (Associaltion.java:135)- Total Row Found: 1
+2017-12-04 17:28:02 INFO [main] (Associaltion.java:154)- Tract Subsection Updated
+2017-12-04 17:28:02 INFO [main] (Associaltion.java:159)- Tract Created Sucessessfully
+2017-12-04 17:28:02 INFO [main] (Associaltion.java:163)- Switch to Tract header sucessfully
+2017-12-04 17:28:09 INFO [main] (Associaltion.java:186)- Tract header filled sucessfully
+2017-12-04 17:28:10 INFO [main] (Associaltion.java:191)- Tract Created Sucessessfully
+2017-12-04 17:29:29 INFO [main] (Associaltion.java:244)- Location found
+2017-12-04 17:31:56 INFO [main] (Associaltion.java:45)- Logged In sucessfully
+2017-12-04 17:33:08 INFO [main] (Associaltion.java:91)- Location found
+2017-12-04 17:33:48 INFO [main] (Associaltion.java:45)- Logged In sucessfully
+2017-12-04 17:34:58 INFO [main] (Associaltion.java:91)- Location found
+2017-12-04 17:35:08 INFO [main] (Associaltion.java:119)- Tract info popup loaded sucessfully
+2017-12-04 17:35:11 INFO [main] (Associaltion.java:127)- Total Tract County: 1
+2017-12-04 17:35:13 INFO [main] (Associaltion.java:135)- Total Row Found: 1
+2017-12-04 17:35:25 INFO [main] (Associaltion.java:154)- Tract Subsection Updated
+2017-12-04 17:35:26 INFO [main] (Associaltion.java:159)- Tract Created Sucessessfully
+2017-12-04 17:35:26 INFO [main] (Associaltion.java:163)- Switch to Tract header sucessfully
+2017-12-04 17:35:33 INFO [main] (Associaltion.java:186)- Tract header filled sucessfully
+2017-12-04 17:35:33 INFO [main] (Associaltion.java:191)- Tract Created Sucessessfully
+2017-12-04 17:37:07 INFO [main] (Associaltion.java:244)- Location found
+2017-12-04 17:37:14 INFO [main] (Associaltion.java:256)- Tract info popup loaded sucessfully
+2017-12-04 17:37:17 INFO [main] (Associaltion.java:266)- Total Tract County: 1
+2017-12-04 17:37:19 INFO [main] (Associaltion.java:275)- Total Row Found: 1
+2017-12-04 17:38:36 INFO [main] (Associaltion.java:45)- Logged In sucessfully
+2017-12-04 17:39:55 INFO [main] (Associaltion.java:91)- Location found
+2017-12-04 17:40:05 INFO [main] (Associaltion.java:119)- Tract info popup loaded sucessfully
+2017-12-04 17:40:08 INFO [main] (Associaltion.java:127)- Total Tract County: 1
+2017-12-04 17:40:10 INFO [main] (Associaltion.java:135)- Total Row Found: 1
+2017-12-04 17:40:22 INFO [main] (Associaltion.java:154)- Tract Subsection Updated
+2017-12-04 17:40:23 INFO [main] (Associaltion.java:159)- Tract Created Sucessessfully
+2017-12-04 17:40:23 INFO [main] (Associaltion.java:163)- Switch to Tract header sucessfully
+2017-12-04 17:40:30 INFO [main] (Associaltion.java:186)- Tract header filled sucessfully
+2017-12-04 17:40:30 INFO [main] (Associaltion.java:191)- Tract Created Sucessessfully
+2017-12-04 17:41:05 INFO [main] (Associaltion.java:45)- Logged In sucessfully
+2017-12-04 17:42:14 INFO [main] (Associaltion.java:91)- Location found
+2017-12-04 17:42:24 INFO [main] (Associaltion.java:119)- Tract info popup loaded sucessfully
+2017-12-04 17:42:26 INFO [main] (Associaltion.java:127)- Total Tract County: 1
+2017-12-04 17:42:29 INFO [main] (Associaltion.java:135)- Total Row Found: 1
+2017-12-04 17:42:41 INFO [main] (Associaltion.java:154)- Tract Subsection Updated
+2017-12-04 17:42:42 INFO [main] (Associaltion.java:159)- Tract Created Sucessessfully
+2017-12-04 17:42:42 INFO [main] (Associaltion.java:163)- Switch to Tract header sucessfully
+2017-12-04 17:42:49 INFO [main] (Associaltion.java:186)- Tract header filled sucessfully
+2017-12-04 17:42:49 INFO [main] (Associaltion.java:191)- Tract Created Sucessessfully
+2017-12-04 17:44:31 INFO [main] (Associaltion.java:244)- Location found
+2017-12-04 17:44:38 INFO [main] (Associaltion.java:256)- Tract info popup loaded sucessfully
+2017-12-04 17:44:41 INFO [main] (Associaltion.java:266)- Total Tract County: 1
+2017-12-04 17:44:43 INFO [main] (Associaltion.java:275)- Total Row Found: 1
+2017-12-04 17:44:49 INFO [main] (Associaltion.java:289)- Tract Subsection Updated
+2017-12-04 17:44:49 INFO [main] (Associaltion.java:293)- Tract Created Sucessessfully
+2017-12-04 17:44:49 INFO [main] (Associaltion.java:297)- Switch to Tract header sucessfully
+2017-12-04 17:44:57 INFO [main] (Associaltion.java:330)- Tract header filled sucessfully
+2017-12-04 17:44:57 INFO [main] (Associaltion.java:335)- Tract Created Sucessessfully
+2017-12-04 17:45:23 INFO [main] (Associaltion.java:385)- Association Start
+2017-12-04 17:45:26 INFO [main] (Associaltion.java:404)- All prospects are checked
+2017-12-04 17:45:30 INFO [main] (Associaltion.java:421)- All Asset are checked
+2017-12-04 17:45:36 INFO [main] (Associaltion.java:432)- Association Completed
+2017-12-04 17:47:35 INFO [main] (CreateProspect.java:51)- Logged In sucessfully
+2017-12-04 17:55:35 INFO [main] (CreateProspect.java:80)- Logged In sucessfully
+2017-12-04 17:56:48 INFO [main] (CreateProspect.java:137)- Location found
+2017-12-04 17:56:55 INFO [main] (CreateProspect.java:226)- Tract info popup loaded sucessfully
+2017-12-04 17:56:57 INFO [main] (CreateProspect.java:234)- Total Tract County: 1
+2017-12-04 17:56:59 INFO [main] (CreateProspect.java:242)- Total Row Found: 1
+2017-12-04 17:58:10 INFO [main] (CreateProspect.java:80)- Logged In sucessfully
+2017-12-04 17:59:25 INFO [main] (CreateProspect.java:137)- Location found
+2017-12-04 17:59:31 INFO [main] (CreateProspect.java:226)- Tract info popup loaded sucessfully
+2017-12-04 17:59:34 INFO [main] (CreateProspect.java:234)- Total Tract County: 1
+2017-12-04 17:59:36 INFO [main] (CreateProspect.java:242)- Total Row Found: 1
+2017-12-04 17:59:48 INFO [main] (CreateProspect.java:261)- Tract Subsection Updated
+2017-12-04 17:59:49 INFO [main] (CreateProspect.java:266)- Tract Created Sucessessfully
+2017-12-04 17:59:49 INFO [main] (CreateProspect.java:270)- Switch to Tract header sucessfully
+2017-12-04 17:59:56 INFO [main] (CreateProspect.java:293)- Tract header filled sucessfully
+2017-12-04 17:59:56 INFO [main] (CreateProspect.java:298)- Tract Created Sucessessfully
+2017-12-04 18:00:29 INFO [main] (CreateProspect.java:321)- Prospect Viewed By Smart Search
+2017-12-04 18:00:52 INFO [main] (CreateProspect.java:333)- Prospect Viewed By Notification
+2017-12-04 18:01:11 INFO [main] (CreateProspect.java:346)- Prospect Viewed By Menu List
+2017-12-04 18:11:47 INFO [main] (CreateProspect.java:80)- Logged In sucessfully
+2017-12-04 18:13:23 INFO [main] (CreateProspect.java:137)- Location found
+2017-12-04 18:13:29 INFO [main] (CreateProspect.java:226)- Tract info popup loaded sucessfully
+2017-12-04 18:13:32 INFO [main] (CreateProspect.java:234)- Total Tract County: 1
+2017-12-04 18:13:34 INFO [main] (CreateProspect.java:242)- Total Row Found: 1
+2017-12-04 18:13:47 INFO [main] (CreateProspect.java:261)- Tract Subsection Updated
+2017-12-04 18:13:47 INFO [main] (CreateProspect.java:266)- Tract Created Sucessessfully
+2017-12-04 18:13:47 INFO [main] (CreateProspect.java:270)- Switch to Tract header sucessfully
+2017-12-04 18:13:54 INFO [main] (CreateProspect.java:293)- Tract header filled sucessfully
+2017-12-04 18:13:54 INFO [main] (CreateProspect.java:298)- Tract Created Sucessessfully
+2017-12-04 18:14:27 INFO [main] (CreateProspect.java:321)- Prospect Viewed By Smart Search
+2017-12-04 18:15:51 INFO [main] (CreateProspect.java:80)- Logged In sucessfully
+2017-12-04 18:17:16 INFO [main] (CreateProspect.java:137)- Location found
+2017-12-04 18:17:22 INFO [main] (CreateProspect.java:226)- Tract info popup loaded sucessfully
+2017-12-04 18:17:25 INFO [main] (CreateProspect.java:234)- Total Tract County: 1
+2017-12-04 18:17:27 INFO [main] (CreateProspect.java:242)- Total Row Found: 1
+2017-12-04 18:17:39 INFO [main] (CreateProspect.java:261)- Tract Subsection Updated
+2017-12-04 18:17:40 INFO [main] (CreateProspect.java:266)- Tract Created Sucessessfully
+2017-12-04 18:17:40 INFO [main] (CreateProspect.java:270)- Switch to Tract header sucessfully
+2017-12-04 18:17:47 INFO [main] (CreateProspect.java:293)- Tract header filled sucessfully
+2017-12-04 18:17:47 INFO [main] (CreateProspect.java:298)- Tract Created Sucessessfully
+2017-12-04 18:21:13 INFO [main] (CreateProspect.java:80)- Logged In sucessfully
+2017-12-04 18:22:52 INFO [main] (CreateProspect.java:137)- Location found
+2017-12-04 18:22:59 INFO [main] (CreateProspect.java:226)- Tract info popup loaded sucessfully
+2017-12-04 18:23:01 INFO [main] (CreateProspect.java:234)- Total Tract County: 1
+2017-12-04 18:23:03 INFO [main] (CreateProspect.java:242)- Total Row Found: 1
+2017-12-04 18:23:16 INFO [main] (CreateProspect.java:261)- Tract Subsection Updated
+2017-12-04 18:23:16 INFO [main] (CreateProspect.java:266)- Tract Created Sucessessfully
+2017-12-04 18:23:16 INFO [main] (CreateProspect.java:270)- Switch to Tract header sucessfully
+2017-12-04 18:23:24 INFO [main] (CreateProspect.java:293)- Tract header filled sucessfully
+2017-12-04 18:23:24 INFO [main] (CreateProspect.java:298)- Tract Created Sucessessfully
+2017-12-04 18:23:48 INFO [main] (CreateProspect.java:475)- New Company Added Sucessfully
+2017-12-04 18:25:04 INFO [main] (CreateProspect.java:80)- Logged In sucessfully
+2017-12-04 18:26:43 INFO [main] (CreateProspect.java:137)- Location found
+2017-12-04 18:26:49 INFO [main] (CreateProspect.java:226)- Tract info popup loaded sucessfully
+2017-12-04 18:26:52 INFO [main] (CreateProspect.java:234)- Total Tract County: 1
+2017-12-04 18:26:54 INFO [main] (CreateProspect.java:242)- Total Row Found: 1
+2017-12-04 18:27:07 INFO [main] (CreateProspect.java:261)- Tract Subsection Updated
+2017-12-04 18:27:07 INFO [main] (CreateProspect.java:266)- Tract Created Sucessessfully
+2017-12-04 18:27:07 INFO [main] (CreateProspect.java:270)- Switch to Tract header sucessfully
+2017-12-04 18:27:14 INFO [main] (CreateProspect.java:293)- Tract header filled sucessfully
+2017-12-04 18:27:14 INFO [main] (CreateProspect.java:298)- Tract Created Sucessessfully
+2017-12-04 18:28:52 INFO [main] (CreateProspect.java:80)- Logged In sucessfully
+2017-12-04 18:30:10 INFO [main] (CreateProspect.java:137)- Location found
+2017-12-04 18:31:10 INFO [main] (CreateProspect.java:80)- Logged In sucessfully
+2017-12-04 18:32:29 INFO [main] (CreateProspect.java:137)- Location found

@@ -1,0 +1,3933 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 12:33:46 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:197</td>
+<td title="Message">LoggedIn User:acqmgr.rrm</td>
+</tr>
+
+<tr>
+<td>18061</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:204</td>
+<td title="Message">Buyer RRM generated a offer package: KLL</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 12:36:37 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:57</td>
+<td title="Message">LoginLandAndTitleUser</td>
+</tr>
+
+<tr>
+<td>39143</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:66</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>62804</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:74</td>
+<td title="Message">County Names is due on 11/24/2017</td>
+</tr>
+
+<tr>
+<td>75814</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:88</td>
+<td title="Message">Prospect Viewed By Menu List</td>
+</tr>
+
+<tr>
+<td>99590</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:98</td>
+<td title="Message">Order Title Generated Sucessfully</td>
+</tr>
+
+<tr>
+<td>110978</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:129</td>
+<td title="Message">Ownership report Document Attached Sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 12:40:54 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:47</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>42416</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:86</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>52052</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:132</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>54814</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:140</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>54867</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:147</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>67657</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:164</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>68330</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:169</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>68330</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:173</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>75697</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:195</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>75871</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:201</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>98874</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:360</td>
+<td title="Message">Price</td>
+</tr>
+
+<tr>
+<td>108758</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:371</td>
+<td title="Message">Price Approval sent to management Sucessfully</td>
+</tr>
+
+<tr>
+<td>111763</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:381</td>
+<td title="Message">ManagenmentPricApproval</td>
+</tr>
+
+<tr>
+<td>118376</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:393</td>
+<td title="Message">Managenment Price Approval</td>
+</tr>
+
+<tr>
+<td>126875</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:400</td>
+<td title="Message">LoggedIn User:cfo.rrm</td>
+</tr>
+
+<tr>
+<td>147428</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:408</td>
+<td title="Message">Buyer RRM offer price submitted for approval: Test 9295</td>
+</tr>
+
+<tr>
+<td>147429</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:409</td>
+<td title="Message">Managenment Price Approval</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 12:48:20 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:47</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>38757</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:86</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>48523</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:132</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>51076</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:140</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>51128</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:147</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>63891</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:164</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>64522</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:169</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>64522</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:173</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>71738</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:195</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>71900</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:201</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>94906</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:360</td>
+<td title="Message">Price</td>
+</tr>
+
+<tr>
+<td>104758</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:371</td>
+<td title="Message">Price Approval sent to management Sucessfully</td>
+</tr>
+
+<tr>
+<td>107763</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:381</td>
+<td title="Message">ManagenmentPricApproval</td>
+</tr>
+
+<tr>
+<td>115579</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:393</td>
+<td title="Message">Managenment Price Approval</td>
+</tr>
+
+<tr>
+<td>124073</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:400</td>
+<td title="Message">LoggedIn User:cfo.rrm</td>
+</tr>
+
+<tr>
+<td>144606</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:408</td>
+<td title="Message">Buyer RRM offer price submitted for approval: Test 3128</td>
+</tr>
+
+<tr>
+<td>144607</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:409</td>
+<td title="Message">Managenment Price Approval</td>
+</tr>
+
+<tr>
+<td>157332</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:431</td>
+<td title="Message">Price Decline by: cfo.rrm</td>
+</tr>
+
+<tr>
+<td>172117</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, cfo.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>202404</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:221</td>
+<td title="Message">Prospect Viewed By Menu List</td>
+</tr>
+
+<tr>
+<td>206628</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:228</td>
+<td title="Message">Offer package Generation Start</td>
+</tr>
+
+<tr>
+<td>221720</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:247</td>
+<td title="Message">Date Selected Sucessfully</td>
+</tr>
+
+<tr>
+<td>229278</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:256</td>
+<td title="Message">Efective Date Selected Sucessfully</td>
+</tr>
+
+<tr>
+<td>234158</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:265</td>
+<td title="Message">Offer package Generated Sucessfully</td>
+</tr>
+
+<tr>
+<td>244028</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:289</td>
+<td title="Message">Offer package Notification Start</td>
+</tr>
+
+<tr>
+<td>249645</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:295</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>270271</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:305</td>
+<td title="Message">Buyer RRM generated a offer package: Test 3128</td>
+</tr>
+
+<tr>
+<td>284750</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, mgr.landtitle.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>286750</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:308</td>
+<td title="Message">Offer package Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>286750</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:289</td>
+<td title="Message">Offer package Notification Start</td>
+</tr>
+
+<tr>
+<td>292199</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:295</td>
+<td title="Message">LoggedIn User:acqmgr.rrm</td>
+</tr>
+
+<tr>
+<td>312737</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:305</td>
+<td title="Message">Buyer RRM generated a offer package: Test 3128</td>
+</tr>
+
+<tr>
+<td>327191</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, acqmgr.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>329193</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:308</td>
+<td title="Message">Offer package Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>329193</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:289</td>
+<td title="Message">Offer package Notification Start</td>
+</tr>
+
+<tr>
+<td>334627</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:295</td>
+<td title="Message">LoggedIn User:coo.rrm</td>
+</tr>
+
+<tr>
+<td>355139</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:305</td>
+<td title="Message">Buyer RRM generated a offer package: Test 3128</td>
+</tr>
+
+<tr>
+<td>369618</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, coo.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>371620</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:308</td>
+<td title="Message">Offer package Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>371621</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:289</td>
+<td title="Message">Offer package Notification Start</td>
+</tr>
+
+<tr>
+<td>377073</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:295</td>
+<td title="Message">LoggedIn User:cfo.rrm</td>
+</tr>
+
+<tr>
+<td>397637</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:305</td>
+<td title="Message">Buyer RRM generated a offer package: Test 3128</td>
+</tr>
+
+<tr>
+<td>412126</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, cfo.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>414126</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:308</td>
+<td title="Message">Offer package Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>445004</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:221</td>
+<td title="Message">Prospect Viewed By Menu List</td>
+</tr>
+
+<tr>
+<td>446535</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:446</td>
+<td title="Message">Upload Seller Documnet start</td>
+</tr>
+
+<tr>
+<td>481042</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:500</td>
+<td title="Message">Seller Document Attached Sucessfully</td>
+</tr>
+
+<tr>
+<td>490274</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:331</td>
+<td title="Message">Seller Upload Document Notification Start</td>
+</tr>
+
+<tr>
+<td>495804</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:338</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>516397</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:348</td>
+<td title="Message">Test 3128 is due on 10/31/2017</td>
+</tr>
+
+<tr>
+<td>516397</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:349</td>
+<td title="Message">Seller Upload Document Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>530909</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, mgr.landtitle.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>532910</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:331</td>
+<td title="Message">Seller Upload Document Notification Start</td>
+</tr>
+
+<tr>
+<td>538371</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:338</td>
+<td title="Message">LoggedIn User:landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>558920</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:348</td>
+<td title="Message">Test 3128 is due on 10/31/2017</td>
+</tr>
+
+<tr>
+<td>558920</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:349</td>
+<td title="Message">Seller Upload Document Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>573320</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, landtitle.rrm log Out Sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 13:14:39 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:57</td>
+<td title="Message">LoginLandAndTitleUser</td>
+</tr>
+
+<tr>
+<td>30702</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:66</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>54326</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:74</td>
+<td title="Message">Test 3128 is due on 10/31/2017</td>
+</tr>
+
+<tr>
+<td>67328</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:88</td>
+<td title="Message">Prospect Viewed By Menu List</td>
+</tr>
+
+<tr>
+<td>90988</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:98</td>
+<td title="Message">Order Title Generated Sucessfully</td>
+</tr>
+
+<tr>
+<td>102237</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:129</td>
+<td title="Message">Ownership report Document Attached Sucessfully</td>
+</tr>
+
+<tr>
+<td>132768</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:145</td>
+<td title="Message">ClearToPay</td>
+</tr>
+
+<tr>
+<td>147943</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:155</td>
+<td title="Message">Payment send to management for Approval</td>
+</tr>
+
+<tr>
+<td>162798</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:197</td>
+<td title="Message">LoggedIn User:acqmgr.rrm</td>
+</tr>
+
+<tr>
+<td>180025</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:204</td>
+<td title="Message">Approval Request on : Test 3128</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 13:23:21 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:197</td>
+<td title="Message">LoggedIn User:acqmgr.rrm</td>
+</tr>
+
+<tr>
+<td>18335</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:204</td>
+<td title="Message">Buyer RRM generated a offer package: Test 3128</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 13:26:03 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:197</td>
+<td title="Message">LoggedIn User:acqmgr.rrm</td>
+</tr>
+
+<tr>
+<td>17209</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:204</td>
+<td title="Message">Buyer RRM offer price submitted for approval: Test 3128</td>
+</tr>
+
+<tr>
+<td>26904</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:223</td>
+<td title="Message">Price Approved by: acqmgr.rrm</td>
+</tr>
+
+<tr>
+<td>42132</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:241</td>
+<td title="Message">Hi, acqmgr.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>47569</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:197</td>
+<td title="Message">LoggedIn User:coo.rrm</td>
+</tr>
+
+<tr>
+<td>64746</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:204</td>
+<td title="Message">Approval Request on : Test 3128</td>
+</tr>
+
+<tr>
+<td>74226</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:223</td>
+<td title="Message">Price Approved by: coo.rrm</td>
+</tr>
+
+<tr>
+<td>89313</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:241</td>
+<td title="Message">Hi, coo.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>94708</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:197</td>
+<td title="Message">LoggedIn User:cfo.rrm</td>
+</tr>
+
+<tr>
+<td>112054</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:204</td>
+<td title="Message">Approval Request on : Test 3128</td>
+</tr>
+
+<tr>
+<td>121526</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:223</td>
+<td title="Message">Price Approved by: cfo.rrm</td>
+</tr>
+
+<tr>
+<td>136546</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:241</td>
+<td title="Message">Hi, cfo.rrm log Out Sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 14:24:42 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>508</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:46</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19705</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:62</td>
+<td title="Message">Seaxrh Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>44102</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:86</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 14:26:45 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>440</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:46</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19567</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:62</td>
+<td title="Message">Seaxrh Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>44008</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:86</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 14:28:09 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>425</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:46</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19563</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:62</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>43890</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:86</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>56868</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:106</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 14:30:38 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>37183</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:85</td>
+<td title="Message">Location found</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 16:30:38 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>785</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:46</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>10740</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:62</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>31321</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:74</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>44742</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:94</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 16:32:36 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>476</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:46</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>10739</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:62</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>31684</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:74</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>44796</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:94</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 16:36:36 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>411</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:46</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>9575</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:62</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>33317</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:75</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 16:38:11 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>402</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:46</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>9460</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:62</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>31868</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:78</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>44829</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:98</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 16:41:34 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>432</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:46</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 17:13:16 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>3347</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:46</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>22488</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:62</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>45398</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:78</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>58513</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:98</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 17:16:15 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>400</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:46</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>9484</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:62</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 17:18:02 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>439</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:46</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>9526</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PostClose.java:62</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 17:56:19 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:39</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>471</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:41</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19614</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:57</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>47102</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:81</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>60102</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:101</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 17:58:13 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:39</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>419</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:41</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19572</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:57</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>46966</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:81</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>60130</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:101</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 18:00:36 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:39</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>464</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:41</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19588</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:57</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>47790</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:81</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>60810</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:101</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 18:08:55 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:39</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>508</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:41</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19694</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:57</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>46615</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:79</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 18:11:01 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:39</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>559</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:41</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19752</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:57</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>43718</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:79</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 18:12:44 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:39</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>486</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:41</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19915</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:57</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>45806</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:81</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>59135</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:104</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 18:22:42 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:39</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>905</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:41</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>21386</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:57</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>46166</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:81</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>59336</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:104</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 18:31:09 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:40</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>771</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:42</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>24812</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:58</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>52584</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:82</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>66018</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:105</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 18:34:23 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:44</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>39673</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:85</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>49846</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:114</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>50638</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:121</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>50721</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:128</td>
+<td title="Message">Total Row Found: 2</td>
+</tr>
+
+<tr>
+<td>63899</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:140</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>64423</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:144</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>64424</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:148</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>72694</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:175</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>72861</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:181</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>72862</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:186</td>
+<td title="Message">Search Lease By Smart Search Start</td>
+</tr>
+
+<tr>
+<td>80183</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:205</td>
+<td title="Message">Total Tract County: 0</td>
+</tr>
+
+<tr>
+<td>80521</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>CreateLease.java:213</td>
+<td title="Message">Lease Search By Smart Search Completed</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 19:02:52 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:40</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>498</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:42</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>20075</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:58</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>44453</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:82</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>57488</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:105</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 19:06:25 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:40</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>397</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:42</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19524</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:58</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>43932</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:82</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>56951</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:105</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 19:09:23 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:40</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>512</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:42</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19740</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:58</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>44137</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:82</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>57399</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:105</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 19:12:15 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:40</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>525</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:42</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19737</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:58</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>45449</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:82</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>58588</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:105</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 19:14:31 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:40</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>426</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:42</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19571</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:58</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>43961</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:82</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>56930</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:105</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 19:16:54 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:40</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>427</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:42</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>19566</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:58</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>43923</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:82</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 19:19:39 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:40</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>499</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:42</td>
+<td title="Message">Executing Post Close start</td>
+</tr>
+
+<tr>
+<td>21420</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:58</td>
+<td title="Message">Search Assect by Smart Search</td>
+</tr>
+
+<tr>
+<td>45854</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:82</td>
+<td title="Message">Asset opened sucessfully</td>
+</tr>
+
+<tr>
+<td>58861</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>AssetWorkFlow.java:105</td>
+<td title="Message">Check generated sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 19:52:02 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:47</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>38850</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:86</td>
+<td title="Message">Location found</td>
+</tr>
+
+<tr>
+<td>48550</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:132</td>
+<td title="Message">Tract info popup loaded sucessfully</td>
+</tr>
+
+<tr>
+<td>51258</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:140</td>
+<td title="Message">Total Tract County: 1</td>
+</tr>
+
+<tr>
+<td>51312</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:147</td>
+<td title="Message">Total Row Found: 1</td>
+</tr>
+
+<tr>
+<td>64092</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:164</td>
+<td title="Message">Tract Subsection Updated</td>
+</tr>
+
+<tr>
+<td>64762</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:169</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>64763</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:173</td>
+<td title="Message">Switch to Tract header sucessfully</td>
+</tr>
+
+<tr>
+<td>72307</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:195</td>
+<td title="Message">Tract header filled sucessfully</td>
+</tr>
+
+<tr>
+<td>72506</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:201</td>
+<td title="Message">Tract Created Sucessessfully</td>
+</tr>
+
+<tr>
+<td>95506</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:360</td>
+<td title="Message">Price</td>
+</tr>
+
+<tr>
+<td>105332</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:371</td>
+<td title="Message">Price Approval sent to management Sucessfully</td>
+</tr>
+
+<tr>
+<td>108335</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:381</td>
+<td title="Message">ManagenmentPricApproval</td>
+</tr>
+
+<tr>
+<td>115053</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:393</td>
+<td title="Message">Managenment Price Approval</td>
+</tr>
+
+<tr>
+<td>123588</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:400</td>
+<td title="Message">LoggedIn User:cfo.rrm</td>
+</tr>
+
+<tr>
+<td>144142</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:408</td>
+<td title="Message">Buyer RRM offer price submitted for approval: Test 3270</td>
+</tr>
+
+<tr>
+<td>144143</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:409</td>
+<td title="Message">Managenment Price Approval</td>
+</tr>
+
+<tr>
+<td>156913</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:431</td>
+<td title="Message">Price Decline by: cfo.rrm</td>
+</tr>
+
+<tr>
+<td>171633</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, cfo.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>202087</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:221</td>
+<td title="Message">Prospect Viewed By Menu List</td>
+</tr>
+
+<tr>
+<td>206622</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:228</td>
+<td title="Message">Offer package Generation Start</td>
+</tr>
+
+<tr>
+<td>221654</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:247</td>
+<td title="Message">Date Selected Sucessfully</td>
+</tr>
+
+<tr>
+<td>229207</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:256</td>
+<td title="Message">Efective Date Selected Sucessfully</td>
+</tr>
+
+<tr>
+<td>234145</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:265</td>
+<td title="Message">Offer package Generated Sucessfully</td>
+</tr>
+
+<tr>
+<td>243474</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:289</td>
+<td title="Message">Offer package Notification Start</td>
+</tr>
+
+<tr>
+<td>249045</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:295</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>269610</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:305</td>
+<td title="Message">Buyer RRM generated a offer package: Test 3270</td>
+</tr>
+
+<tr>
+<td>284089</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, mgr.landtitle.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>286090</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:308</td>
+<td title="Message">Offer package Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>286090</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:289</td>
+<td title="Message">Offer package Notification Start</td>
+</tr>
+
+<tr>
+<td>291542</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:295</td>
+<td title="Message">LoggedIn User:acqmgr.rrm</td>
+</tr>
+
+<tr>
+<td>312068</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:305</td>
+<td title="Message">Buyer RRM generated a offer package: Test 3270</td>
+</tr>
+
+<tr>
+<td>326485</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, acqmgr.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>328486</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:308</td>
+<td title="Message">Offer package Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>328486</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:289</td>
+<td title="Message">Offer package Notification Start</td>
+</tr>
+
+<tr>
+<td>333875</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:295</td>
+<td title="Message">LoggedIn User:coo.rrm</td>
+</tr>
+
+<tr>
+<td>354377</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:305</td>
+<td title="Message">Buyer RRM generated a offer package: Test 3270</td>
+</tr>
+
+<tr>
+<td>368823</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, coo.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>370824</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:308</td>
+<td title="Message">Offer package Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>370824</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:289</td>
+<td title="Message">Offer package Notification Start</td>
+</tr>
+
+<tr>
+<td>376254</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:295</td>
+<td title="Message">LoggedIn User:cfo.rrm</td>
+</tr>
+
+<tr>
+<td>396776</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:305</td>
+<td title="Message">Buyer RRM generated a offer package: Test 3270</td>
+</tr>
+
+<tr>
+<td>411205</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, cfo.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>413206</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:308</td>
+<td title="Message">Offer package Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>444107</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:221</td>
+<td title="Message">Prospect Viewed By Menu List</td>
+</tr>
+
+<tr>
+<td>445581</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:446</td>
+<td title="Message">Upload Seller Documnet start</td>
+</tr>
+
+<tr>
+<td>479307</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:500</td>
+<td title="Message">Seller Document Attached Sucessfully</td>
+</tr>
+
+<tr>
+<td>488562</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:331</td>
+<td title="Message">Seller Upload Document Notification Start</td>
+</tr>
+
+<tr>
+<td>494120</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:338</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>514643</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:348</td>
+<td title="Message">Test 3270 is due on 10/31/2017</td>
+</tr>
+
+<tr>
+<td>514643</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:349</td>
+<td title="Message">Seller Upload Document Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>529129</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, mgr.landtitle.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>531129</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:331</td>
+<td title="Message">Seller Upload Document Notification Start</td>
+</tr>
+
+<tr>
+<td>536619</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:338</td>
+<td title="Message">LoggedIn User:landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>557174</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:348</td>
+<td title="Message">Test 3270 is due on 10/31/2017</td>
+</tr>
+
+<tr>
+<td>557174</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:349</td>
+<td title="Message">Seller Upload Document Notification Viewed Sucessfully</td>
+</tr>
+
+<tr>
+<td>571586</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:510</td>
+<td title="Message">Hi, landtitle.rrm log Out Sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 20:03:37 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:59</td>
+<td title="Message">LoginLandAndTitleUser</td>
+</tr>
+
+<tr>
+<td>25889</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:68</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>49521</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:76</td>
+<td title="Message">Test 3270 is due on 10/31/2017</td>
+</tr>
+
+<tr>
+<td>62548</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:90</td>
+<td title="Message">Prospect Viewed By Menu List</td>
+</tr>
+
+<tr>
+<td>86273</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:100</td>
+<td title="Message">Order Title Generated Sucessfully</td>
+</tr>
+
+<tr>
+<td>97079</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:131</td>
+<td title="Message">Ownership report Document Attached Sucessfully</td>
+</tr>
+
+<tr>
+<td>127622</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:147</td>
+<td title="Message">ClearToPay</td>
+</tr>
+
+<tr>
+<td>142888</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:157</td>
+<td title="Message">Payment send to management for Approval</td>
+</tr>
+
+<tr>
+<td>157912</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:199</td>
+<td title="Message">LoggedIn User:acqmgr.rrm</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 20:11:03 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:59</td>
+<td title="Message">LoginLandAndTitleUser</td>
+</tr>
+
+<tr>
+<td>29302</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:68</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 20:15:01 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:63</td>
+<td title="Message">LoginLandAndTitleUser</td>
+</tr>
+
+<tr>
+<td>12735</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:72</td>
+<td title="Message">LoggedIn User:mgr.landtitle.rrm</td>
+</tr>
+
+<tr>
+<td>36287</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:80</td>
+<td title="Message">Order Title Generated for prospect: Test 3270</td>
+</tr>
+
+<tr>
+<td>49274</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:94</td>
+<td title="Message">Prospect Viewed By Menu List</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 20:17:05 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:200</td>
+<td title="Message">LoggedIn User:acqmgr.rrm</td>
+</tr>
+
+<tr>
+<td>20199</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:207</td>
+<td title="Message">Approval Request on : Test 3270</td>
+</tr>
+
+<tr>
+<td>30038</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:226</td>
+<td title="Message">Price Approved by: acqmgr.rrm</td>
+</tr>
+
+<tr>
+<td>45213</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:244</td>
+<td title="Message">Hi, acqmgr.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>50757</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:200</td>
+<td title="Message">LoggedIn User:coo.rrm</td>
+</tr>
+
+<tr>
+<td>70906</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:207</td>
+<td title="Message">Approval Request on : Test 3270</td>
+</tr>
+
+<tr>
+<td>80375</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:226</td>
+<td title="Message">Price Approved by: coo.rrm</td>
+</tr>
+
+<tr>
+<td>95447</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:244</td>
+<td title="Message">Hi, coo.rrm log Out Sucessfully</td>
+</tr>
+
+<tr>
+<td>101159</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:200</td>
+<td title="Message">LoggedIn User:cfo.rrm</td>
+</tr>
+
+<tr>
+<td>121358</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:207</td>
+<td title="Message">Approval Request on : Test 3270</td>
+</tr>
+
+<tr>
+<td>130969</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:226</td>
+<td title="Message">Price Approved by: cfo.rrm</td>
+</tr>
+
+<tr>
+<td>145939</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingDueDelay_Flow.java:244</td>
+<td title="Message">Hi, cfo.rrm log Out Sucessfully</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Oct 30 20:48:09 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:47</td>
+<td title="Message">Logged In sucessfully</td>
+</tr>
+
+<tr>
+<td>28607</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:221</td>
+<td title="Message">Prospect Viewed By Menu List</td>
+</tr>
+
+<tr>
+<td>29029</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="java.lang.Class category">java.lang.Class</td>
+<td>PendingOfferFlow.java:446</td>
+<td title="Message">Upload Seller Documnet start</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 31 16:30:04 IST 2017<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>

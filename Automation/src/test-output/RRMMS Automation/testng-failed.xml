@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RRMMS Automation]">
+  <test name="RRMMS Automation">
+    <classes>
+      <class name="RRMMS.Test.PendingOfferFlow"/>
+      <class name="RRMMS.Test.PendingDueDelay_Flow"/>
+      <class name="RRMMS.Test.PostClose"/>
+      <class name="RRMMS.Test.CreateLease"/>
+    </classes>
+  </test> <!-- RRMMS Automation -->
+  <test name="RRMMS Automation(failed)">
+    <classes>
+      <class name="RRMMS.Test.CreateLease">
+        <methods>
+          <include name="lease"/>
+        </methods>
+      </class> <!-- RRMMS.Test.CreateLease -->
+      <class name="RRMMS.Test.PostClose">
+        <methods>
+          <include name="lease"/>
+        </methods>
+      </class> <!-- RRMMS.Test.PostClose -->
+      <class name="RRMMS.Test.PendingDueDelay_Flow">
+        <methods>
+          <include name="PendingDueDelay"/>
+        </methods>
+      </class> <!-- RRMMS.Test.PendingDueDelay_Flow -->
+      <class name="RRMMS.Test.PendingOfferFlow">
+        <methods>
+          <include name="Pendingoffer"/>
+        </methods>
+      </class> <!-- RRMMS.Test.PendingOfferFlow -->
+    </classes>
+  </test> <!-- RRMMS Automation(failed) -->
+</suite> <!-- Failed suite [RRMMS Automation] -->

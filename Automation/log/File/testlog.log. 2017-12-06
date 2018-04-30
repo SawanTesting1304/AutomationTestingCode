@@ -1,0 +1,104 @@
+2017-12-06 13:27:11 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2017-12-06 13:28:32 INFO [main] (CreateLease.java:103)- Location found
+2017-12-06 13:46:55 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2017-12-06 13:48:29 INFO [main] (CreateLease.java:104)- Location found
+2017-12-06 14:21:03 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2017-12-06 14:22:14 INFO [main] (CreateLease.java:104)- Location found
+2017-12-06 14:24:24 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2017-12-06 14:25:39 INFO [main] (CreateLease.java:104)- Location found
+2017-12-06 14:25:54 INFO [main] (CreateLease.java:136)- Tract info popup loaded sucessfully
+2017-12-06 14:25:57 INFO [main] (CreateLease.java:144)- Total Tract County: 1
+2017-12-06 14:25:59 INFO [main] (CreateLease.java:153)- Total Row Found: 1
+2017-12-06 14:26:06 INFO [main] (CreateLease.java:165)- Tract Subsection Updated
+2017-12-06 14:26:06 INFO [main] (CreateLease.java:169)- Tract Created Sucessessfully
+2017-12-06 14:26:06 INFO [main] (CreateLease.java:173)- Switch to Tract header sucessfully
+2017-12-06 14:26:14 INFO [main] (CreateLease.java:205)- Tract header filled sucessfully
+2017-12-06 14:26:14 INFO [main] (CreateLease.java:210)- Tract Created Sucessessfully
+2017-12-06 14:26:49 INFO [main] (CreateLease.java:217)- Search Lease By Smart Search Start
+2017-12-06 14:26:57 INFO [main] (CreateLease.java:241)- Total Tract County: 54
+2017-12-06 14:27:25 INFO [main] (CreateLease.java:248)- Lease Search By Smart Search Completed
+2017-12-06 14:30:22 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2017-12-06 14:31:37 INFO [main] (CreateLease.java:104)- Location found
+2017-12-06 14:31:43 INFO [main] (CreateLease.java:135)- Tract info popup loaded sucessfully
+2017-12-06 14:31:46 INFO [main] (CreateLease.java:143)- Total Tract County: 1
+2017-12-06 14:31:48 INFO [main] (CreateLease.java:152)- Total Row Found: 1
+2017-12-06 14:31:55 INFO [main] (CreateLease.java:164)- Tract Subsection Updated
+2017-12-06 14:31:55 INFO [main] (CreateLease.java:168)- Tract Created Sucessessfully
+2017-12-06 14:31:55 INFO [main] (CreateLease.java:172)- Switch to Tract header sucessfully
+2017-12-06 14:32:03 INFO [main] (CreateLease.java:204)- Tract header filled sucessfully
+2017-12-06 14:32:03 INFO [main] (CreateLease.java:209)- Tract Created Sucessessfully
+2017-12-06 14:32:24 INFO [main] (CreateLease.java:216)- Search Lease By Smart Search Start
+2017-12-06 14:32:32 INFO [main] (CreateLease.java:249)- Lease Search By Smart Search Completed
+2017-12-06 14:35:49 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2017-12-06 14:37:04 INFO [main] (CreateLease.java:104)- Location found
+2017-12-06 14:37:10 INFO [main] (CreateLease.java:135)- Tract info popup loaded sucessfully
+2017-12-06 14:37:12 INFO [main] (CreateLease.java:143)- Total Tract County: 1
+2017-12-06 14:37:14 INFO [main] (CreateLease.java:152)- Total Row Found: 1
+2017-12-06 14:37:21 INFO [main] (CreateLease.java:164)- Tract Subsection Updated
+2017-12-06 14:37:21 INFO [main] (CreateLease.java:168)- Tract Created Sucessessfully
+2017-12-06 14:37:21 INFO [main] (CreateLease.java:172)- Switch to Tract header sucessfully
+2017-12-06 14:37:29 INFO [main] (CreateLease.java:204)- Tract header filled sucessfully
+2017-12-06 14:37:29 INFO [main] (CreateLease.java:209)- Tract Created Sucessessfully
+2017-12-06 14:37:51 INFO [main] (CreateLease.java:216)- Search Lease By Smart Search Start
+2017-12-06 14:38:27 INFO [main] (CreateLease.java:252)- Lease Search By Smart Search Completed
+2017-12-06 14:47:49 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2017-12-06 14:49:04 INFO [main] (CreateLease.java:104)- Location found
+2017-12-06 14:49:10 INFO [main] (CreateLease.java:135)- Tract info popup loaded sucessfully
+2017-12-06 14:49:13 INFO [main] (CreateLease.java:143)- Total Tract County: 1
+2017-12-06 14:49:15 INFO [main] (CreateLease.java:152)- Total Row Found: 1
+2017-12-06 14:49:22 INFO [main] (CreateLease.java:164)- Tract Subsection Updated
+2017-12-06 14:49:22 INFO [main] (CreateLease.java:168)- Tract Created Sucessessfully
+2017-12-06 14:49:22 INFO [main] (CreateLease.java:172)- Switch to Tract header sucessfully
+2017-12-06 14:49:30 INFO [main] (CreateLease.java:204)- Tract header filled sucessfully
+2017-12-06 14:49:30 INFO [main] (CreateLease.java:209)- Tract Created Sucessessfully
+2017-12-06 14:49:50 INFO [main] (CreateLease.java:216)- Search Lease By Smart Search Start
+2017-12-06 14:50:21 INFO [main] (CreateLease.java:252)- Lease Search By Smart Search Completed
+2017-12-06 14:54:49 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2017-12-06 14:56:03 INFO [main] (CreateLease.java:105)- Location found
+2017-12-06 14:57:47 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2017-12-06 14:59:02 INFO [main] (CreateLease.java:105)- Location found
+2017-12-06 14:59:09 INFO [main] (CreateLease.java:136)- Tract info popup loaded sucessfully
+2017-12-06 14:59:11 INFO [main] (CreateLease.java:144)- Total Tract County: 1
+2017-12-06 14:59:13 INFO [main] (CreateLease.java:153)- Total Row Found: 1
+2017-12-06 14:59:20 INFO [main] (CreateLease.java:165)- Tract Subsection Updated
+2017-12-06 14:59:20 INFO [main] (CreateLease.java:169)- Tract Created Sucessessfully
+2017-12-06 14:59:20 INFO [main] (CreateLease.java:173)- Switch to Tract header sucessfully
+2017-12-06 14:59:28 INFO [main] (CreateLease.java:205)- Tract header filled sucessfully
+2017-12-06 14:59:28 INFO [main] (CreateLease.java:210)- Tract Created Sucessessfully
+2017-12-06 14:59:49 INFO [main] (CreateLease.java:217)- Search Lease By Smart Search Start
+2017-12-06 15:00:20 INFO [main] (CreateLease.java:253)- Lease Search By Smart Search Completed
+2017-12-06 15:01:36 INFO [main] (CreateLease.java:105)- Location found
+2017-12-06 15:01:42 INFO [main] (CreateLease.java:136)- Tract info popup loaded sucessfully
+2017-12-06 15:01:45 INFO [main] (CreateLease.java:144)- Total Tract County: 1
+2017-12-06 15:01:47 INFO [main] (CreateLease.java:153)- Total Row Found: 1
+2017-12-06 15:01:54 INFO [main] (CreateLease.java:165)- Tract Subsection Updated
+2017-12-06 15:01:55 INFO [main] (CreateLease.java:169)- Tract Created Sucessessfully
+2017-12-06 15:01:55 INFO [main] (CreateLease.java:173)- Switch to Tract header sucessfully
+2017-12-06 15:02:04 INFO [main] (CreateLease.java:205)- Tract header filled sucessfully
+2017-12-06 15:02:04 INFO [main] (CreateLease.java:210)- Tract Created Sucessessfully
+2017-12-06 15:02:24 INFO [main] (CreateLease.java:217)- Search Lease By Smart Search Start
+2017-12-06 15:03:00 INFO [main] (CreateLease.java:253)- Lease Search By Smart Search Completed
+2017-12-06 15:04:17 INFO [main] (CreateLease.java:105)- Location found
+2017-12-06 15:04:23 INFO [main] (CreateLease.java:136)- Tract info popup loaded sucessfully
+2017-12-06 15:04:26 INFO [main] (CreateLease.java:144)- Total Tract County: 1
+2017-12-06 15:04:28 INFO [main] (CreateLease.java:153)- Total Row Found: 1
+2017-12-06 15:04:35 INFO [main] (CreateLease.java:165)- Tract Subsection Updated
+2017-12-06 15:04:35 INFO [main] (CreateLease.java:169)- Tract Created Sucessessfully
+2017-12-06 15:04:35 INFO [main] (CreateLease.java:173)- Switch to Tract header sucessfully
+2017-12-06 15:04:44 INFO [main] (CreateLease.java:205)- Tract header filled sucessfully
+2017-12-06 15:04:44 INFO [main] (CreateLease.java:210)- Tract Created Sucessessfully
+2017-12-06 15:05:04 INFO [main] (CreateLease.java:217)- Search Lease By Smart Search Start
+2017-12-06 15:05:40 INFO [main] (CreateLease.java:253)- Lease Search By Smart Search Completed
+2017-12-06 15:07:05 INFO [main] (CreateLease.java:105)- Location found
+2017-12-06 15:36:15 INFO [main] (CreateLease.java:46)- Logged In sucessfully
+2017-12-06 15:37:33 INFO [main] (CreateLease.java:105)- Location found
+2017-12-06 15:37:39 INFO [main] (CreateLease.java:136)- Tract info popup loaded sucessfully
+2017-12-06 15:37:42 INFO [main] (CreateLease.java:144)- Total Tract County: 1
+2017-12-06 15:37:44 INFO [main] (CreateLease.java:153)- Total Row Found: 1
+2017-12-06 15:37:50 INFO [main] (CreateLease.java:165)- Tract Subsection Updated
+2017-12-06 15:37:51 INFO [main] (CreateLease.java:169)- Tract Created Sucessessfully
+2017-12-06 15:37:51 INFO [main] (CreateLease.java:173)- Switch to Tract header sucessfully
+2017-12-06 15:38:00 INFO [main] (CreateLease.java:205)- Tract header filled sucessfully
+2017-12-06 15:38:00 INFO [main] (CreateLease.java:210)- Tract Created Sucessessfully
+2017-12-06 15:38:22 INFO [main] (CreateLease.java:217)- Search Lease By Smart Search Start
+2017-12-06 15:38:55 INFO [main] (CreateLease.java:253)- Lease Search By Smart Search Completed

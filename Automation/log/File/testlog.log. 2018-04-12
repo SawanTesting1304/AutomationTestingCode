@@ -1,0 +1,324 @@
+2018-04-12 17:34:43 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 17:35:46 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 17:35:53 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 17:35:56 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 17:35:58 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 17:36:11 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 17:36:12 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 17:36:12 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 17:36:20 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 17:36:20 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 17:36:24 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 17:37:01 INFO [main] (CommonProspectWorkFlow.java:360)- Date Selected Sucessfully
+2018-04-12 17:37:11 INFO [main] (CommonProspectWorkFlow.java:384)- Efective Date Selected Sucessfully
+2018-04-12 17:37:16 INFO [main] (CommonProspectWorkFlow.java:393)- Offer package Generated Sucessfully
+2018-04-12 17:37:16 INFO [main] (CommonProspectWorkFlow.java:524)- Upload Seller Documnet start
+2018-04-12 17:37:41 INFO [main] (CommonProspectWorkFlow.java:548)- Seller Document Attached Sucessfully
+2018-04-12 17:37:52 INFO [main] (CommonProspectWorkFlow.java:576)- Dual Diligence Date added Sucessfully
+2018-04-12 17:38:05 INFO [main] (Common.java:1003)- Hi, buyerrrm log Out Sucessfully
+2018-04-12 17:38:05 INFO [main] (CommonProspectWorkFlow.java:584)- LoginLandAndTitleUser
+2018-04-12 17:38:17 INFO [main] (CommonProspectWorkFlow.java:596)- LoggedIn User:mgr.landtitle.rrm
+2018-04-12 17:46:18 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 17:47:39 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 17:47:46 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 17:47:49 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 17:47:52 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 17:48:04 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 17:48:05 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 17:48:05 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 17:48:12 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 17:48:12 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 17:48:15 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 17:50:17 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 17:51:37 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 17:51:44 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 17:51:46 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 17:51:49 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 17:52:02 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 17:52:02 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 17:52:02 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 17:52:09 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 17:52:09 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 17:52:14 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 17:55:09 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 17:56:10 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 17:57:03 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 17:58:03 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 17:58:10 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 17:58:12 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 17:58:14 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 17:58:27 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 17:58:28 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 17:58:28 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 17:58:34 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 17:58:34 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 17:58:37 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 18:00:45 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 18:01:50 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 18:01:57 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 18:01:59 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 18:02:01 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 18:02:14 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 18:02:14 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 18:02:14 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 18:02:21 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 18:02:21 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 18:02:26 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 18:06:53 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 18:08:08 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 18:08:14 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 18:08:17 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 18:08:19 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 18:08:31 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 18:08:32 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 18:08:32 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 18:08:39 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 18:08:39 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 18:08:44 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 18:12:40 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 18:13:41 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 18:13:48 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 18:13:50 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 18:13:52 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 18:14:05 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 18:14:05 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 18:14:05 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 18:14:12 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 18:14:19 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 18:14:30 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 18:14:54 INFO [main] (CommonProspectWorkFlow.java:368)- Date Selected Sucessfully
+2018-04-12 18:15:04 INFO [main] (CommonProspectWorkFlow.java:392)- Efective Date Selected Sucessfully
+2018-04-12 18:15:09 INFO [main] (CommonProspectWorkFlow.java:401)- Offer package Generated Sucessfully
+2018-04-12 18:15:09 INFO [main] (CommonProspectWorkFlow.java:532)- Upload Seller Documnet start
+2018-04-12 18:15:30 INFO [main] (CommonProspectWorkFlow.java:556)- Seller Document Attached Sucessfully
+2018-04-12 18:15:40 INFO [main] (CommonProspectWorkFlow.java:584)- Dual Diligence Date added Sucessfully
+2018-04-12 18:15:53 INFO [main] (Common.java:1003)- Hi, buyerrrm log Out Sucessfully
+2018-04-12 18:15:53 INFO [main] (CommonProspectWorkFlow.java:592)- LoginLandAndTitleUser
+2018-04-12 18:16:06 INFO [main] (CommonProspectWorkFlow.java:604)- LoggedIn User:mgr.landtitle.rrm
+2018-04-12 18:17:19 INFO [main] (CommonProspectWorkFlow.java:628)- Seller docs received for Test 103
+2018-04-12 18:17:47 INFO [main] (CommonProspectWorkFlow.java:702)- Ownership report Document Attached Sucessfully
+2018-04-12 18:17:47 INFO [main] (CommonProspectWorkFlow.java:714)- ClearToPay
+2018-04-12 18:18:02 INFO [main] (CommonProspectWorkFlow.java:725)- Payment send to management for Approval
+2018-04-12 18:18:36 INFO [main] (CommonProspectWorkFlow.java:776)- LoggedIn User:acqmgr.rrm
+2018-04-12 18:19:18 INFO [main] (CommonProspectWorkFlow.java:800)- Test 103 is pending Acquisition Manager Approval
+2018-04-12 18:22:21 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 18:23:23 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 18:23:30 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 18:23:32 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 18:23:34 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 18:23:47 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 18:23:48 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 18:23:48 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 18:23:54 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 18:23:59 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 18:24:30 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 18:24:54 INFO [main] (CommonProspectWorkFlow.java:368)- Date Selected Sucessfully
+2018-04-12 18:25:04 INFO [main] (CommonProspectWorkFlow.java:392)- Efective Date Selected Sucessfully
+2018-04-12 18:25:08 INFO [main] (CommonProspectWorkFlow.java:401)- Offer package Generated Sucessfully
+2018-04-12 18:25:08 INFO [main] (CommonProspectWorkFlow.java:532)- Upload Seller Documnet start
+2018-04-12 18:25:28 INFO [main] (CommonProspectWorkFlow.java:556)- Seller Document Attached Sucessfully
+2018-04-12 18:25:39 INFO [main] (CommonProspectWorkFlow.java:584)- Dual Diligence Date added Sucessfully
+2018-04-12 18:25:52 INFO [main] (Common.java:1003)- Hi, buyerrrm log Out Sucessfully
+2018-04-12 18:25:52 INFO [main] (CommonProspectWorkFlow.java:592)- LoginLandAndTitleUser
+2018-04-12 18:26:04 INFO [main] (CommonProspectWorkFlow.java:604)- LoggedIn User:mgr.landtitle.rrm
+2018-04-12 18:27:12 INFO [main] (CommonProspectWorkFlow.java:628)- Seller docs received for Test 5699
+2018-04-12 18:33:24 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 18:34:26 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 18:34:32 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 18:34:35 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 18:34:37 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 18:34:50 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 18:34:50 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 18:34:50 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 18:34:57 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 18:35:02 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 18:35:20 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 18:35:46 INFO [main] (CommonProspectWorkFlow.java:368)- Date Selected Sucessfully
+2018-04-12 18:35:55 INFO [main] (CommonProspectWorkFlow.java:392)- Efective Date Selected Sucessfully
+2018-04-12 18:36:00 INFO [main] (CommonProspectWorkFlow.java:401)- Offer package Generated Sucessfully
+2018-04-12 18:36:00 INFO [main] (CommonProspectWorkFlow.java:532)- Upload Seller Documnet start
+2018-04-12 18:36:23 INFO [main] (CommonProspectWorkFlow.java:556)- Seller Document Attached Sucessfully
+2018-04-12 18:36:34 INFO [main] (CommonProspectWorkFlow.java:584)- Dual Diligence Date added Sucessfully
+2018-04-12 18:36:47 INFO [main] (Common.java:1003)- Hi, buyerrrm log Out Sucessfully
+2018-04-12 18:36:47 INFO [main] (CommonProspectWorkFlow.java:592)- LoginLandAndTitleUser
+2018-04-12 18:37:00 INFO [main] (CommonProspectWorkFlow.java:604)- LoggedIn User:mgr.landtitle.rrm
+2018-04-12 18:38:11 INFO [main] (CommonProspectWorkFlow.java:628)- Seller docs received for Test 9493
+2018-04-12 18:38:12 INFO [main] (CommonProspectWorkFlow.java:714)- ClearToPay
+2018-04-12 18:42:01 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 18:43:22 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 18:44:56 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 18:45:57 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 18:46:03 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 18:46:06 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 18:46:08 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 18:46:21 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 18:46:21 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 18:46:21 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 18:46:28 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 18:46:37 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 18:46:44 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 18:47:09 INFO [main] (CommonProspectWorkFlow.java:368)- Date Selected Sucessfully
+2018-04-12 18:47:18 INFO [main] (CommonProspectWorkFlow.java:392)- Efective Date Selected Sucessfully
+2018-04-12 18:47:23 INFO [main] (CommonProspectWorkFlow.java:401)- Offer package Generated Sucessfully
+2018-04-12 18:47:23 INFO [main] (CommonProspectWorkFlow.java:532)- Upload Seller Documnet start
+2018-04-12 18:47:44 INFO [main] (CommonProspectWorkFlow.java:556)- Seller Document Attached Sucessfully
+2018-04-12 18:47:55 INFO [main] (CommonProspectWorkFlow.java:584)- Dual Diligence Date added Sucessfully
+2018-04-12 18:48:08 INFO [main] (Common.java:1003)- Hi, buyerrrm log Out Sucessfully
+2018-04-12 18:48:08 INFO [main] (CommonProspectWorkFlow.java:592)- LoginLandAndTitleUser
+2018-04-12 18:48:20 INFO [main] (CommonProspectWorkFlow.java:604)- LoggedIn User:mgr.landtitle.rrm
+2018-04-12 18:49:28 INFO [main] (CommonProspectWorkFlow.java:628)- Seller docs received for Test 3832
+2018-04-12 18:49:51 INFO [main] (CommonProspectWorkFlow.java:716)- ClearToPay
+2018-04-12 18:50:07 INFO [main] (CommonProspectWorkFlow.java:727)- Payment send to management for Approval
+2018-04-12 18:50:28 INFO [main] (CommonProspectWorkFlow.java:778)- LoggedIn User:acqmgr.rrm
+2018-04-12 18:59:29 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 19:00:32 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 19:00:39 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 19:00:41 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 0
+2018-04-12 19:00:41 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 19:00:41 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 19:02:35 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 19:03:37 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 19:03:44 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 19:03:46 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 19:03:48 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 19:04:01 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 19:04:02 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 19:04:02 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 19:04:08 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 19:04:16 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 19:04:23 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 19:04:47 INFO [main] (CommonProspectWorkFlow.java:368)- Date Selected Sucessfully
+2018-04-12 19:04:57 INFO [main] (CommonProspectWorkFlow.java:392)- Efective Date Selected Sucessfully
+2018-04-12 19:05:02 INFO [main] (CommonProspectWorkFlow.java:401)- Offer package Generated Sucessfully
+2018-04-12 19:05:02 INFO [main] (CommonProspectWorkFlow.java:532)- Upload Seller Documnet start
+2018-04-12 19:05:22 INFO [main] (CommonProspectWorkFlow.java:556)- Seller Document Attached Sucessfully
+2018-04-12 19:05:33 INFO [main] (CommonProspectWorkFlow.java:584)- Dual Diligence Date added Sucessfully
+2018-04-12 19:05:46 INFO [main] (Common.java:1003)- Hi, buyerrrm log Out Sucessfully
+2018-04-12 19:05:46 INFO [main] (CommonProspectWorkFlow.java:592)- LoginLandAndTitleUser
+2018-04-12 19:05:58 INFO [main] (CommonProspectWorkFlow.java:604)- LoggedIn User:mgr.landtitle.rrm
+2018-04-12 19:07:04 INFO [main] (CommonProspectWorkFlow.java:628)- Seller docs received for Test 3669
+2018-04-12 19:07:24 INFO [main] (CommonProspectWorkFlow.java:716)- ClearToPay
+2018-04-12 19:07:39 INFO [main] (CommonProspectWorkFlow.java:727)- Payment send to management for Approval
+2018-04-12 19:08:03 INFO [main] (CommonProspectWorkFlow.java:778)- LoggedIn User:acqmgr.rrm
+2018-04-12 19:08:44 INFO [main] (CommonProspectWorkFlow.java:803)- Test 3669 is pending Acquisition Manager Approval
+2018-04-12 19:09:12 INFO [main] (CommonProspectWorkFlow.java:824)- Price Approved by: acqmgr.rrm
+2018-04-12 19:09:31 INFO [main] (Common.java:1003)- Hi, acqmgr.rrm log Out Sucessfully
+2018-04-12 19:09:36 INFO [main] (CommonProspectWorkFlow.java:778)- LoggedIn User:coo.rrm
+2018-04-12 19:12:53 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 19:14:15 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 19:14:21 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 19:14:25 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 19:14:28 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 19:14:41 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 19:14:41 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 19:14:41 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 19:14:50 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 19:14:55 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 19:15:05 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 19:15:34 INFO [main] (CommonProspectWorkFlow.java:368)- Date Selected Sucessfully
+2018-04-12 19:15:44 INFO [main] (CommonProspectWorkFlow.java:392)- Efective Date Selected Sucessfully
+2018-04-12 19:15:49 INFO [main] (CommonProspectWorkFlow.java:401)- Offer package Generated Sucessfully
+2018-04-12 19:15:49 INFO [main] (CommonProspectWorkFlow.java:532)- Upload Seller Documnet start
+2018-04-12 19:16:12 INFO [main] (CommonProspectWorkFlow.java:556)- Seller Document Attached Sucessfully
+2018-04-12 19:16:23 INFO [main] (CommonProspectWorkFlow.java:584)- Dual Diligence Date added Sucessfully
+2018-04-12 19:16:36 INFO [main] (Common.java:1003)- Hi, buyerrrm log Out Sucessfully
+2018-04-12 19:16:36 INFO [main] (CommonProspectWorkFlow.java:592)- LoginLandAndTitleUser
+2018-04-12 19:16:49 INFO [main] (CommonProspectWorkFlow.java:604)- LoggedIn User:mgr.landtitle.rrm
+2018-04-12 19:20:30 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 19:22:32 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 19:22:39 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 19:22:41 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 19:22:43 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 19:22:56 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 19:22:57 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 19:22:57 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 19:23:04 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 19:23:24 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 19:23:30 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 19:23:54 INFO [main] (CommonProspectWorkFlow.java:368)- Date Selected Sucessfully
+2018-04-12 19:24:04 INFO [main] (CommonProspectWorkFlow.java:392)- Efective Date Selected Sucessfully
+2018-04-12 19:24:09 INFO [main] (CommonProspectWorkFlow.java:401)- Offer package Generated Sucessfully
+2018-04-12 19:24:09 INFO [main] (CommonProspectWorkFlow.java:532)- Upload Seller Documnet start
+2018-04-12 19:24:29 INFO [main] (CommonProspectWorkFlow.java:556)- Seller Document Attached Sucessfully
+2018-04-12 19:24:40 INFO [main] (CommonProspectWorkFlow.java:584)- Dual Diligence Date added Sucessfully
+2018-04-12 19:24:53 INFO [main] (Common.java:1003)- Hi, buyerrrm log Out Sucessfully
+2018-04-12 19:24:53 INFO [main] (CommonProspectWorkFlow.java:592)- LoginLandAndTitleUser
+2018-04-12 19:25:05 INFO [main] (CommonProspectWorkFlow.java:604)- LoggedIn User:mgr.landtitle.rrm
+2018-04-12 19:26:04 INFO [main] (CommonProspectWorkFlow.java:628)- Seller docs received for Test 9761
+2018-04-12 19:26:28 INFO [main] (CommonProspectWorkFlow.java:716)- ClearToPay
+2018-04-12 19:26:44 INFO [main] (CommonProspectWorkFlow.java:727)- Payment send to management for Approval
+2018-04-12 19:27:07 INFO [main] (CommonProspectWorkFlow.java:778)- LoggedIn User:acqmgr.rrm
+2018-04-12 19:27:50 INFO [main] (CommonProspectWorkFlow.java:804)- Test 9761 is pending Acquisition Manager Approval
+2018-04-12 19:29:49 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 19:30:49 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 19:30:56 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 19:30:58 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 19:31:00 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 19:31:13 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 19:31:14 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 19:31:14 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 19:31:20 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 19:31:28 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 19:31:33 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 19:31:58 INFO [main] (CommonProspectWorkFlow.java:368)- Date Selected Sucessfully
+2018-04-12 19:32:08 INFO [main] (CommonProspectWorkFlow.java:392)- Efective Date Selected Sucessfully
+2018-04-12 19:32:12 INFO [main] (CommonProspectWorkFlow.java:401)- Offer package Generated Sucessfully
+2018-04-12 19:32:12 INFO [main] (CommonProspectWorkFlow.java:532)- Upload Seller Documnet start
+2018-04-12 19:32:33 INFO [main] (CommonProspectWorkFlow.java:556)- Seller Document Attached Sucessfully
+2018-04-12 19:32:43 INFO [main] (CommonProspectWorkFlow.java:584)- Dual Diligence Date added Sucessfully
+2018-04-12 19:32:56 INFO [main] (Common.java:1003)- Hi, buyerrrm log Out Sucessfully
+2018-04-12 19:32:56 INFO [main] (CommonProspectWorkFlow.java:592)- LoginLandAndTitleUser
+2018-04-12 19:33:09 INFO [main] (CommonProspectWorkFlow.java:604)- LoggedIn User:mgr.landtitle.rrm
+2018-04-12 19:42:55 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 19:43:56 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 19:45:26 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 19:46:27 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 19:48:06 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 19:49:23 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 19:49:30 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 19:49:33 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 19:49:35 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 19:49:48 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 19:49:48 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 19:49:48 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 19:49:56 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 19:50:01 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 19:50:06 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 21:30:18 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 21:31:57 INFO [main] (CommonProspectFunctions.java:91)- Location found
+2018-04-12 21:32:04 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
+2018-04-12 21:32:06 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
+2018-04-12 21:32:08 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
+2018-04-12 21:32:21 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
+2018-04-12 21:32:22 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
+2018-04-12 21:32:22 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
+2018-04-12 21:32:29 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
+2018-04-12 21:32:34 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
+2018-04-12 21:32:41 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
+2018-04-12 21:33:06 INFO [main] (CommonProspectWorkFlow.java:368)- Date Selected Sucessfully
+2018-04-12 21:33:15 INFO [main] (CommonProspectWorkFlow.java:392)- Efective Date Selected Sucessfully
+2018-04-12 21:33:20 INFO [main] (CommonProspectWorkFlow.java:401)- Offer package Generated Sucessfully
+2018-04-12 21:33:20 INFO [main] (CommonProspectWorkFlow.java:532)- Upload Seller Documnet start
+2018-04-12 21:33:48 INFO [main] (CommonProspectWorkFlow.java:556)- Seller Document Attached Sucessfully
+2018-04-12 21:33:59 INFO [main] (CommonProspectWorkFlow.java:584)- Dual Diligence Date added Sucessfully
+2018-04-12 21:34:12 INFO [main] (Common.java:1003)- Hi, dwhiting log Out Sucessfully
+2018-04-12 21:34:12 INFO [main] (CommonProspectWorkFlow.java:592)- LoginLandAndTitleUser
+2018-04-12 21:34:24 INFO [main] (CommonProspectWorkFlow.java:604)- LoggedIn User:chelford
+2018-04-12 21:34:46 INFO [main] (CommonProspectWorkFlow.java:628)- Seller docs received for Test 626
+2018-04-12 21:34:57 INFO [main] (CommonProspectWorkFlow.java:716)- ClearToPay
+2018-04-12 21:35:12 INFO [main] (CommonProspectWorkFlow.java:727)- Payment send to management for Approval
+2018-04-12 21:35:43 INFO [main] (CommonProspectWorkFlow.java:778)- LoggedIn User:kyoung
+2018-04-12 21:38:28 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
+2018-04-12 21:38:43 INFO [main] (CommonProspectWorkFlow.java:778)- LoggedIn User:kyoung
+2018-04-12 21:39:22 INFO [main] (CommonProspectWorkFlow.java:804)- Test 626 is pending Acquisition Manager Approval
+2018-04-12 21:39:48 INFO [main] (CommonProspectWorkFlow.java:825)- Price Approved by: kyoung
+2018-04-12 21:40:06 INFO [main] (Common.java:1003)- Hi, kyoung log Out Sucessfully
+2018-04-12 21:40:12 INFO [main] (CommonProspectWorkFlow.java:778)- LoggedIn User:cryden
+2018-04-12 21:40:45 INFO [main] (CommonProspectWorkFlow.java:804)- Test 626 is pending COO Approval
+2018-04-12 21:41:03 INFO [main] (CommonProspectWorkFlow.java:825)- Price Approved by: cryden
+2018-04-12 21:41:21 INFO [main] (Common.java:1003)- Hi, cryden log Out Sucessfully
+2018-04-12 21:41:26 INFO [main] (CommonProspectWorkFlow.java:778)- LoggedIn User:sbeaufait
+2018-04-12 21:42:00 INFO [main] (CommonProspectWorkFlow.java:804)- Test 626 is pending CFO Approval
+2018-04-12 21:42:18 INFO [main] (CommonProspectWorkFlow.java:825)- Price Approved by: sbeaufait
+2018-04-12 21:42:36 INFO [main] (Common.java:1003)- Hi, sbeaufait log Out Sucessfully
+2018-04-12 21:42:37 INFO [main] (CommonProspectWorkFlow.java:837)- Prospect Converted to Asset Sucessfully

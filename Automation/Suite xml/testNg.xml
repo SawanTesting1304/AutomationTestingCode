@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RRMMS Automation">
+	<test name="RRMMS Automation">
+		<classes>
+			<!-- <class name="RRMMS.Test.CreateProspect" /> -->
+			<class name="RRMMS.Test.PendingOfferFlow" />
+			<class name="RRMMS.Test.PendingDueDelay_Flow" />
+			<class name="RRMMS.Test.PostClose" />
+			<class name="RRMMS.Test.CreateLease" />
+			<!-- <class name="RRMMS.Test.CreateAOI" />
+			<class name="RRMMS.Test.Login" /> -->
+       </classes>
+    </test>
+</suite>

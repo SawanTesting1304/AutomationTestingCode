@@ -1,0 +1,207 @@
+2017-11-15 16:11:38 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 16:14:37 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 16:21:04 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 17:01:36 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 17:02:41 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 17:03:50 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 17:04:42 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 17:48:09 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2017-11-15 17:48:10 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2017-11-15 17:48:30 INFO [main] (AssetWorkFlow.java:61)- Search Assect by Smart Search
+2017-11-15 17:48:55 INFO [main] (AssetWorkFlow.java:85)- Asset opened sucessfully
+2017-11-15 17:49:10 INFO [main] (AssetWorkFlow.java:112)- Check generated sucessfully
+2017-11-15 17:49:10 INFO [main] (AssetWorkFlow.java:118)- Asset work flow start
+2017-11-15 17:49:15 INFO [main] (AssetWorkFlow.java:122)- Count found1
+2017-11-15 17:49:15 INFO [main] (AssetWorkFlow.java:125)- Unrecorded Deed start
+2017-11-15 17:49:18 INFO [main] (AssetWorkFlow.java:131)- Unrecorded Deed Checked
+2017-11-15 17:49:27 INFO [main] (AssetWorkFlow.java:146)- unrecorded Deed End
+2017-11-15 17:49:27 INFO [main] (AssetWorkFlow.java:151)- Deed Recording start
+2017-11-15 17:53:21 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2017-11-15 17:53:22 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2017-11-15 17:53:41 INFO [main] (AssetWorkFlow.java:61)- Search Assect by Smart Search
+2017-11-15 17:54:06 INFO [main] (AssetWorkFlow.java:85)- Asset opened sucessfully
+2017-11-15 17:54:19 INFO [main] (AssetWorkFlow.java:112)- Check generated sucessfully
+2017-11-15 17:54:19 INFO [main] (AssetWorkFlow.java:118)- Asset work flow start
+2017-11-15 17:54:24 INFO [main] (AssetWorkFlow.java:122)- Count found1
+2017-11-15 17:54:24 INFO [main] (AssetWorkFlow.java:125)- Unrecorded Deed start
+2017-11-15 17:54:27 INFO [main] (AssetWorkFlow.java:131)- Unrecorded Deed Checked
+2017-11-15 17:54:36 INFO [main] (AssetWorkFlow.java:146)- unrecorded Deed End
+2017-11-15 17:54:36 INFO [main] (AssetWorkFlow.java:151)- Deed Recording start
+2017-11-15 17:56:11 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2017-11-15 17:56:12 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2017-11-15 17:56:31 INFO [main] (AssetWorkFlow.java:61)- Search Assect by Smart Search
+2017-11-15 17:56:56 INFO [main] (AssetWorkFlow.java:85)- Asset opened sucessfully
+2017-11-15 17:57:09 INFO [main] (AssetWorkFlow.java:112)- Check generated sucessfully
+2017-11-15 17:57:09 INFO [main] (AssetWorkFlow.java:118)- Asset work flow start
+2017-11-15 17:57:14 INFO [main] (AssetWorkFlow.java:122)- Count found1
+2017-11-15 17:57:14 INFO [main] (AssetWorkFlow.java:125)- Unrecorded Deed start
+2017-11-15 17:57:16 INFO [main] (AssetWorkFlow.java:131)- Unrecorded Deed Checked
+2017-11-15 17:57:25 INFO [main] (AssetWorkFlow.java:146)- unrecorded Deed End
+2017-11-15 17:57:25 INFO [main] (AssetWorkFlow.java:151)- Deed Recording start
+2017-11-15 17:57:35 INFO [main] (AssetWorkFlow.java:172)- Date selected for all County
+2017-11-15 17:57:35 INFO [main] (AssetWorkFlow.java:173)- Deed Recording start
+2017-11-15 17:57:35 INFO [main] (AssetWorkFlow.java:177)- Record Deed Start
+2017-11-15 17:57:52 INFO [main] (AssetWorkFlow.java:186)- Record Deed Checked
+2017-11-15 17:57:52 INFO [main] (AssetWorkFlow.java:189)- Record Deed End
+2017-11-15 20:08:38 INFO [main] (CreateProspect.java:83)- Logged In sucessfully
+2017-11-15 20:13:40 INFO [main] (CreateProspect.java:83)- Logged In sucessfully
+2017-11-15 20:15:32 INFO [main] (CreateProspect.java:83)- Logged In sucessfully
+2017-11-15 21:50:01 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 21:50:58 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 21:51:36 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 21:52:28 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 21:52:38 INFO [main] (PendingOfferFlow.java:135)- Tract info popup loaded sucessfully
+2017-11-15 21:52:40 INFO [main] (PendingOfferFlow.java:143)- Total Tract County: 1
+2017-11-15 21:52:40 INFO [main] (PendingOfferFlow.java:150)- Total Row Found: 1
+2017-11-15 21:52:54 INFO [main] (PendingOfferFlow.java:167)- Tract Subsection Updated
+2017-11-15 21:52:54 INFO [main] (PendingOfferFlow.java:172)- Tract Created Sucessessfully
+2017-11-15 21:52:54 INFO [main] (PendingOfferFlow.java:176)- Switch to Tract header sucessfully
+2017-11-15 21:53:02 INFO [main] (PendingOfferFlow.java:199)- Tract header filled sucessfully
+2017-11-15 21:53:02 INFO [main] (PendingOfferFlow.java:205)- Tract Created Sucessessfully
+2017-11-15 21:56:00 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 21:56:53 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 21:58:33 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 21:59:27 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 22:00:11 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 22:01:05 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 22:01:15 INFO [main] (PendingOfferFlow.java:135)- Tract info popup loaded sucessfully
+2017-11-15 22:01:17 INFO [main] (PendingOfferFlow.java:143)- Total Tract County: 1
+2017-11-15 22:01:17 INFO [main] (PendingOfferFlow.java:150)- Total Row Found: 1
+2017-11-15 22:01:30 INFO [main] (PendingOfferFlow.java:167)- Tract Subsection Updated
+2017-11-15 22:01:31 INFO [main] (PendingOfferFlow.java:172)- Tract Created Sucessessfully
+2017-11-15 22:01:31 INFO [main] (PendingOfferFlow.java:176)- Switch to Tract header sucessfully
+2017-11-15 22:01:38 INFO [main] (PendingOfferFlow.java:199)- Tract header filled sucessfully
+2017-11-15 22:01:38 INFO [main] (PendingOfferFlow.java:205)- Tract Created Sucessessfully
+2017-11-15 22:01:51 INFO [main] (PendingOfferFlow.java:393)- Price
+2017-11-15 22:02:01 INFO [main] (PendingOfferFlow.java:404)- Price Approval sent to management Sucessfully
+2017-11-15 22:02:04 INFO [main] (PendingOfferFlow.java:414)- ManagenmentPricApproval
+2017-11-15 22:02:13 INFO [main] (PendingOfferFlow.java:426)- Managenment Price Approval
+2017-11-15 22:02:21 INFO [main] (PendingOfferFlow.java:433)- LoggedIn User:cfo.rrm
+2017-11-15 22:02:42 INFO [main] (PendingOfferFlow.java:441)- Buyer RRM offer price submitted for approval: Prospect 4532
+2017-11-15 22:02:42 INFO [main] (PendingOfferFlow.java:442)- Managenment Price Approval
+2017-11-15 22:02:55 INFO [main] (PendingOfferFlow.java:464)- Price Decline by: cfo.rrm
+2017-11-15 22:03:09 INFO [main] (PendingOfferFlow.java:537)- Hi, cfo.rrm log Out Sucessfully
+2017-11-15 22:03:41 INFO [main] (PendingOfferFlow.java:225)- Prospect Viewed By Menu List
+2017-11-15 22:03:45 INFO [main] (PendingOfferFlow.java:232)- Offer package Generation Start
+2017-11-15 22:04:02 INFO [main] (PendingOfferFlow.java:262)- Date Selected Sucessfully
+2017-11-15 22:04:12 INFO [main] (PendingOfferFlow.java:289)- Efective Date Selected Sucessfully
+2017-11-15 22:04:17 INFO [main] (PendingOfferFlow.java:298)- Offer package Generated Sucessfully
+2017-11-15 22:04:26 INFO [main] (PendingOfferFlow.java:322)- Offer package Notification Start
+2017-11-15 22:04:33 INFO [main] (PendingOfferFlow.java:328)- LoggedIn User:cfo.rrm
+2017-11-15 22:04:53 INFO [main] (PendingOfferFlow.java:338)- Buyer RRM generated a offer package: Prospect 4532
+2017-11-15 22:05:08 INFO [main] (PendingOfferFlow.java:537)- Hi, cfo.rrm log Out Sucessfully
+2017-11-15 22:05:10 INFO [main] (PendingOfferFlow.java:341)- Offer package Notification Viewed Sucessfully
+2017-11-15 22:05:41 INFO [main] (PendingOfferFlow.java:225)- Prospect Viewed By Menu List
+2017-11-15 22:05:42 INFO [main] (PendingOfferFlow.java:479)- Upload Seller Documnet start
+2017-11-15 22:06:06 INFO [main] (PendingOfferFlow.java:502)- Seller Document Attached Sucessfully
+2017-11-15 22:07:54 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 22:08:48 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 22:08:58 INFO [main] (PendingOfferFlow.java:135)- Tract info popup loaded sucessfully
+2017-11-15 22:09:01 INFO [main] (PendingOfferFlow.java:143)- Total Tract County: 1
+2017-11-15 22:09:01 INFO [main] (PendingOfferFlow.java:150)- Total Row Found: 1
+2017-11-15 22:09:14 INFO [main] (PendingOfferFlow.java:167)- Tract Subsection Updated
+2017-11-15 22:09:14 INFO [main] (PendingOfferFlow.java:172)- Tract Created Sucessessfully
+2017-11-15 22:09:14 INFO [main] (PendingOfferFlow.java:176)- Switch to Tract header sucessfully
+2017-11-15 22:09:21 INFO [main] (PendingOfferFlow.java:199)- Tract header filled sucessfully
+2017-11-15 22:09:22 INFO [main] (PendingOfferFlow.java:205)- Tract Created Sucessessfully
+2017-11-15 22:09:35 INFO [main] (PendingOfferFlow.java:393)- Price
+2017-11-15 22:09:44 INFO [main] (PendingOfferFlow.java:404)- Price Approval sent to management Sucessfully
+2017-11-15 22:09:47 INFO [main] (PendingOfferFlow.java:414)- ManagenmentPricApproval
+2017-11-15 22:09:56 INFO [main] (PendingOfferFlow.java:426)- Managenment Price Approval
+2017-11-15 22:10:05 INFO [main] (PendingOfferFlow.java:433)- LoggedIn User:cfo.rrm
+2017-11-15 22:10:25 INFO [main] (PendingOfferFlow.java:441)- Buyer RRM offer price submitted for approval: Prospect 577
+2017-11-15 22:10:25 INFO [main] (PendingOfferFlow.java:442)- Managenment Price Approval
+2017-11-15 22:10:38 INFO [main] (PendingOfferFlow.java:464)- Price Decline by: cfo.rrm
+2017-11-15 22:10:53 INFO [main] (PendingOfferFlow.java:539)- Hi, cfo.rrm log Out Sucessfully
+2017-11-15 22:11:27 INFO [main] (PendingOfferFlow.java:225)- Prospect Viewed By Menu List
+2017-11-15 22:11:31 INFO [main] (PendingOfferFlow.java:232)- Offer package Generation Start
+2017-11-15 22:11:48 INFO [main] (PendingOfferFlow.java:262)- Date Selected Sucessfully
+2017-11-15 22:11:58 INFO [main] (PendingOfferFlow.java:289)- Efective Date Selected Sucessfully
+2017-11-15 22:12:03 INFO [main] (PendingOfferFlow.java:298)- Offer package Generated Sucessfully
+2017-11-15 22:12:16 INFO [main] (PendingOfferFlow.java:322)- Offer package Notification Start
+2017-11-15 22:12:21 INFO [main] (PendingOfferFlow.java:328)- LoggedIn User:cfo.rrm
+2017-11-15 22:12:42 INFO [main] (PendingOfferFlow.java:338)- Buyer RRM generated a offer package: Prospect 577
+2017-11-15 22:12:56 INFO [main] (PendingOfferFlow.java:539)- Hi, cfo.rrm log Out Sucessfully
+2017-11-15 22:12:58 INFO [main] (PendingOfferFlow.java:341)- Offer package Notification Viewed Sucessfully
+2017-11-15 22:13:30 INFO [main] (PendingOfferFlow.java:225)- Prospect Viewed By Menu List
+2017-11-15 22:13:31 INFO [main] (PendingOfferFlow.java:479)- Upload Seller Documnet start
+2017-11-15 22:13:55 INFO [main] (PendingOfferFlow.java:502)- Seller Document Attached Sucessfully
+2017-11-15 22:18:46 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 22:19:42 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 22:20:24 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 22:21:18 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 22:21:28 INFO [main] (PendingOfferFlow.java:135)- Tract info popup loaded sucessfully
+2017-11-15 22:21:31 INFO [main] (PendingOfferFlow.java:143)- Total Tract County: 1
+2017-11-15 22:21:31 INFO [main] (PendingOfferFlow.java:150)- Total Row Found: 1
+2017-11-15 22:21:44 INFO [main] (PendingOfferFlow.java:167)- Tract Subsection Updated
+2017-11-15 22:21:45 INFO [main] (PendingOfferFlow.java:172)- Tract Created Sucessessfully
+2017-11-15 22:21:45 INFO [main] (PendingOfferFlow.java:176)- Switch to Tract header sucessfully
+2017-11-15 22:21:52 INFO [main] (PendingOfferFlow.java:199)- Tract header filled sucessfully
+2017-11-15 22:21:52 INFO [main] (PendingOfferFlow.java:205)- Tract Created Sucessessfully
+2017-11-15 22:22:05 INFO [main] (PendingOfferFlow.java:393)- Price
+2017-11-15 22:22:15 INFO [main] (PendingOfferFlow.java:404)- Price Approval sent to management Sucessfully
+2017-11-15 22:22:18 INFO [main] (PendingOfferFlow.java:414)- ManagenmentPricApproval
+2017-11-15 22:22:25 INFO [main] (PendingOfferFlow.java:426)- Managenment Price Approval
+2017-11-15 22:22:33 INFO [main] (PendingOfferFlow.java:433)- LoggedIn User:cfo.rrm
+2017-11-15 22:22:54 INFO [main] (PendingOfferFlow.java:441)- Buyer RRM offer price submitted for approval: Prospect 9019
+2017-11-15 22:22:54 INFO [main] (PendingOfferFlow.java:442)- Managenment Price Approval
+2017-11-15 22:23:07 INFO [main] (PendingOfferFlow.java:464)- Price Decline by: cfo.rrm
+2017-11-15 22:23:21 INFO [main] (PendingOfferFlow.java:541)- Hi, cfo.rrm log Out Sucessfully
+2017-11-15 22:23:51 INFO [main] (PendingOfferFlow.java:225)- Prospect Viewed By Menu List
+2017-11-15 22:23:56 INFO [main] (PendingOfferFlow.java:232)- Offer package Generation Start
+2017-11-15 22:24:13 INFO [main] (PendingOfferFlow.java:262)- Date Selected Sucessfully
+2017-11-15 22:24:23 INFO [main] (PendingOfferFlow.java:289)- Efective Date Selected Sucessfully
+2017-11-15 22:24:28 INFO [main] (PendingOfferFlow.java:298)- Offer package Generated Sucessfully
+2017-11-15 22:24:37 INFO [main] (PendingOfferFlow.java:322)- Offer package Notification Start
+2017-11-15 22:24:42 INFO [main] (PendingOfferFlow.java:328)- LoggedIn User:cfo.rrm
+2017-11-15 22:25:03 INFO [main] (PendingOfferFlow.java:338)- Buyer RRM generated a offer package: Prospect 9019
+2017-11-15 22:25:17 INFO [main] (PendingOfferFlow.java:541)- Hi, cfo.rrm log Out Sucessfully
+2017-11-15 22:25:19 INFO [main] (PendingOfferFlow.java:341)- Offer package Notification Viewed Sucessfully
+2017-11-15 22:25:50 INFO [main] (PendingOfferFlow.java:225)- Prospect Viewed By Menu List
+2017-11-15 22:25:52 INFO [main] (PendingOfferFlow.java:479)- Upload Seller Documnet start
+2017-11-15 22:26:15 INFO [main] (PendingOfferFlow.java:502)- Seller Document Attached Sucessfully
+2017-11-15 22:28:07 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 22:29:03 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 22:29:35 INFO [main] (PendingOfferFlow.java:46)- Logged In sucessfully
+2017-11-15 22:30:29 INFO [main] (PendingOfferFlow.java:89)- Location found
+2017-11-15 22:30:39 INFO [main] (PendingOfferFlow.java:135)- Tract info popup loaded sucessfully
+2017-11-15 22:30:41 INFO [main] (PendingOfferFlow.java:143)- Total Tract County: 1
+2017-11-15 22:30:41 INFO [main] (PendingOfferFlow.java:150)- Total Row Found: 1
+2017-11-15 22:30:54 INFO [main] (PendingOfferFlow.java:167)- Tract Subsection Updated
+2017-11-15 22:30:55 INFO [main] (PendingOfferFlow.java:172)- Tract Created Sucessessfully
+2017-11-15 22:30:55 INFO [main] (PendingOfferFlow.java:176)- Switch to Tract header sucessfully
+2017-11-15 22:31:02 INFO [main] (PendingOfferFlow.java:199)- Tract header filled sucessfully
+2017-11-15 22:31:02 INFO [main] (PendingOfferFlow.java:205)- Tract Created Sucessessfully
+2017-11-15 22:31:15 INFO [main] (PendingOfferFlow.java:393)- Price
+2017-11-15 22:31:28 INFO [main] (PendingOfferFlow.java:404)- Price Approval sent to management Sucessfully
+2017-11-15 22:31:31 INFO [main] (PendingOfferFlow.java:414)- ManagenmentPricApproval
+2017-11-15 22:31:41 INFO [main] (PendingOfferFlow.java:426)- Managenment Price Approval
+2017-11-15 22:31:50 INFO [main] (PendingOfferFlow.java:433)- LoggedIn User:cfo.rrm
+2017-11-15 22:32:10 INFO [main] (PendingOfferFlow.java:441)- Buyer RRM offer price submitted for approval: Prospect 4695
+2017-11-15 22:32:10 INFO [main] (PendingOfferFlow.java:442)- Managenment Price Approval
+2017-11-15 22:32:23 INFO [main] (PendingOfferFlow.java:464)- Price Decline by: cfo.rrm
+2017-11-15 22:32:38 INFO [main] (PendingOfferFlow.java:541)- Hi, cfo.rrm log Out Sucessfully
+2017-11-15 22:33:08 INFO [main] (PendingOfferFlow.java:225)- Prospect Viewed By Menu List
+2017-11-15 22:33:12 INFO [main] (PendingOfferFlow.java:232)- Offer package Generation Start
+2017-11-15 22:33:34 INFO [main] (PendingOfferFlow.java:262)- Date Selected Sucessfully
+2017-11-15 22:33:43 INFO [main] (PendingOfferFlow.java:289)- Efective Date Selected Sucessfully
+2017-11-15 22:33:48 INFO [main] (PendingOfferFlow.java:298)- Offer package Generated Sucessfully
+2017-11-15 22:33:58 INFO [main] (PendingOfferFlow.java:322)- Offer package Notification Start
+2017-11-15 22:34:03 INFO [main] (PendingOfferFlow.java:328)- LoggedIn User:cfo.rrm
+2017-11-15 22:34:24 INFO [main] (PendingOfferFlow.java:338)- Buyer RRM generated a offer package: Prospect 4695
+2017-11-15 22:34:38 INFO [main] (PendingOfferFlow.java:541)- Hi, cfo.rrm log Out Sucessfully
+2017-11-15 22:34:40 INFO [main] (PendingOfferFlow.java:341)- Offer package Notification Viewed Sucessfully
+2017-11-15 22:35:12 INFO [main] (PendingOfferFlow.java:225)- Prospect Viewed By Menu List
+2017-11-15 22:35:13 INFO [main] (PendingOfferFlow.java:479)- Upload Seller Documnet start
+2017-11-15 22:35:38 INFO [main] (PendingOfferFlow.java:502)- Seller Document Attached Sucessfully
+2017-11-15 22:35:45 INFO [main] (PendingOfferFlow.java:530)- Dual Diligence Date added Sucessfully
+2017-11-15 22:35:54 INFO [main] (PendingOfferFlow.java:364)- Seller Upload Document Notification Start
+2017-11-15 22:36:00 INFO [main] (PendingOfferFlow.java:371)- LoggedIn User:mgr.landtitle.rrm
+2017-11-15 22:36:21 INFO [main] (PendingOfferFlow.java:381)- Prospect 4695 is due on 11/15/2017
+2017-11-15 22:36:21 INFO [main] (PendingOfferFlow.java:382)- Seller Upload Document Notification Viewed Sucessfully
+2017-11-15 22:36:35 INFO [main] (PendingOfferFlow.java:541)- Hi, mgr.landtitle.rrm log Out Sucessfully
+2017-11-15 22:36:37 INFO [main] (PendingOfferFlow.java:364)- Seller Upload Document Notification Start
+2017-11-15 22:36:43 INFO [main] (PendingOfferFlow.java:371)- LoggedIn User:landtitle.rrm
+2017-11-15 22:37:03 INFO [main] (PendingOfferFlow.java:381)- Prospect 4695 is due on 11/15/2017
+2017-11-15 22:37:03 INFO [main] (PendingOfferFlow.java:382)- Seller Upload Document Notification Viewed Sucessfully
+2017-11-15 22:37:18 INFO [main] (PendingOfferFlow.java:541)- Hi, landtitle.rrm log Out Sucessfully
