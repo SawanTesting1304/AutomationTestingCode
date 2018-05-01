@@ -55,9 +55,11 @@ public class Login extends RRMMS.utility.TestBase{
 	@Test
 	public void logIN() throws AWTException, InterruptedException {
 		Thread.sleep(5000);
-		LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(
+		/*LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(
 				"buyerrrm");
-		LoginLocator.txtFld_rrmms(driver, "Password").sendKeys("Password@123");
+		LoginLocator.txtFld_rrmms(driver, "Password").sendKeys("Password@123");*/
+		LoginLocator.txtFld_rrmms(driver, "Username").sendKeys("hlavergne");
+		LoginLocator.txtFld_rrmms(driver, "Password").sendKeys("Uat@2017");
 		LoginLocator.Loginbutton(driver).click();
 		log.info("Logged In sucessfully");
 		System.out.println("Login pass");
@@ -66,17 +68,17 @@ public class Login extends RRMMS.utility.TestBase{
 		Common.loader();
 		Common.loader();
 		try{
-			driver.findElement(By.xpath("//form/div[1]/div/label")).click();
+			driver.findElement(By.xpath("//form//label[contains(text(),'Rock River Minerals')]")).click();
 		}
 		catch(org.openqa.selenium.NoSuchElementException e)
 		{
+			Common.loader();
 			driver.findElement(By.xpath("//div[@id='main']//header/div[2]/div/button")).click();
 			Thread.sleep(2000);
 			driver.findElement(By.xpath("//a[contains(text(),'Rock River Minerals')]")).click();
 			Common.loader();
 			Common.loader();
-		}
-		
+		}		
 
 	}
 	
