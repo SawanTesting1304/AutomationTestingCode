@@ -3,11 +3,14 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="RRMMS.Test.AssetOpen">
+      <class name="RRMMS.Test.Login">
         <methods>
-          <include name="AllAssetOpen"/>
+          <include name="beforeMethod"/>
+          <include name="logIN"/>
+          <include name="afterMethod"/>
+          <include name="endTest"/>
         </methods>
-      </class> <!-- RRMMS.Test.AssetOpen -->
+      </class> <!-- RRMMS.Test.Login -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
