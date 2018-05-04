@@ -68,6 +68,11 @@ public class ProductionUnitLocator {
 		WebElement PuSave= driver.findElement(By.xpath("//form[@id='frmProductionUnit']/div/div[1]/div[1]/button"));
 		return PuSave;
 	}
+	public static WebElement PuName(WebDriver driver)
+	{
+		WebElement PuName= driver.findElement(By.xpath("//div[@id='fixed-stat']/h1/span"));
+		return PuName;
+	}
 	
 	
 	

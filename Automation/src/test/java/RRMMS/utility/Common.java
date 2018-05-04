@@ -827,6 +827,18 @@ public class Common extends Start {
 		}
 	}
     
+    public static void selectAnyFromList(int y) throws AWTException, InterruptedException
+	{
+		Robot rb= new Robot();
+		Thread.sleep(500);
+		int num=y;
+		for(int i=y;i<=num;i++)
+		{
+			rb.keyPress(KeyEvent.VK_DOWN);
+			rb.keyRelease(KeyEvent.VK_DOWN);
+		}
+	}
+    
     public static int selectAssetList() throws AWTException, InterruptedException
 	{
 		Robot rb= new Robot();
@@ -990,7 +1002,7 @@ public class Common extends Start {
 			Common.waitUntilLoads(driver);
 		}catch(org.openqa.selenium.StaleElementReferenceException e)
 		{
-			
+			Common.waitUntilLoads(driver);
 		}
 		
 	}

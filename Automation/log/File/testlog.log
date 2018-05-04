@@ -1,105 +1,681 @@
-2018-04-24 22:18:11 INFO [main] (ProspectToAssetWorkFlow.java:50)- Logged In sucessfully
-2018-04-24 22:19:29 INFO [main] (CommonProspectFunctions.java:91)- Location found
-2018-04-24 22:19:35 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
-2018-04-24 22:19:39 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
-2018-04-24 22:19:42 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
-2018-04-24 22:19:55 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
-2018-04-24 22:19:57 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
-2018-04-24 22:19:57 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
-2018-04-24 22:20:07 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
-2018-04-24 22:20:18 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
-2018-04-24 22:20:20 INFO [main] (CommonProspectWorkFlow.java:333)- Offer package Generation Start
-2018-04-24 22:20:45 INFO [main] (CommonProspectWorkFlow.java:368)- Date Selected Sucessfully
-2018-04-24 22:20:55 INFO [main] (CommonProspectWorkFlow.java:392)- Efective Date Selected Sucessfully
-2018-04-24 22:21:00 INFO [main] (CommonProspectWorkFlow.java:401)- Offer package Generated Sucessfully
-2018-04-24 22:21:00 INFO [main] (CommonProspectWorkFlow.java:532)- Upload Seller Documnet start
-2018-04-24 22:21:24 INFO [main] (CommonProspectWorkFlow.java:556)- Seller Document Attached Sucessfully
-2018-04-24 22:21:35 INFO [main] (CommonProspectWorkFlow.java:584)- Dual Diligence Date added Sucessfully
-2018-04-24 22:21:48 INFO [main] (Common.java:1003)- Hi, srikarqa log Out Sucessfully
-2018-04-24 22:21:48 INFO [main] (CommonProspectWorkFlow.java:592)- LoginLandAndTitleUser
-2018-04-24 22:22:00 INFO [main] (CommonProspectWorkFlow.java:606)- LoggedIn User:chelford
-2018-04-24 22:22:22 INFO [main] (CommonProspectWorkFlow.java:630)- Seller docs received for Test 935
-2018-04-24 22:22:34 INFO [main] (CommonProspectWorkFlow.java:718)- ClearToPay
-2018-04-24 22:22:49 INFO [main] (CommonProspectWorkFlow.java:729)- Payment send to management for Approval
-2018-04-24 22:23:14 INFO [main] (CommonProspectWorkFlow.java:782)- LoggedIn User:kyoung
-2018-04-24 22:23:50 INFO [main] (CommonProspectWorkFlow.java:808)- Seller docs received for Test 935
-2018-04-24 22:24:08 INFO [main] (CommonProspectWorkFlow.java:829)- Price Approved by: kyoung
-2018-04-24 22:24:26 INFO [main] (Common.java:1003)- Hi, srikarqa log Out Sucessfully
-2018-04-24 22:24:31 INFO [main] (CommonProspectWorkFlow.java:782)- LoggedIn User:cryden
-2018-04-24 22:25:05 INFO [main] (CommonProspectWorkFlow.java:808)- Test 935 is pending COO Approval
-2018-04-24 22:30:34 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
-2018-04-24 22:31:22 INFO [main] (CommonProductionUnit.java:96)- Location found
-2018-04-24 22:31:28 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
-2018-04-24 22:31:31 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
-2018-04-24 22:31:33 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
-2018-04-24 22:31:46 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
-2018-04-24 22:31:46 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
-2018-04-24 22:31:46 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
-2018-04-24 22:31:53 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
-2018-04-24 22:32:07 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
-2018-04-24 22:36:21 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
-2018-04-24 22:37:51 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
-2018-04-24 22:38:37 INFO [main] (CommonProductionUnit.java:96)- Location found
-2018-04-24 22:38:44 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
-2018-04-24 22:38:46 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
-2018-04-24 22:38:49 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
-2018-04-24 22:39:01 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
-2018-04-24 22:39:02 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
-2018-04-24 22:39:02 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
-2018-04-24 22:39:09 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
-2018-04-24 22:39:25 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
-2018-04-24 22:40:18 INFO [main] (CommonProductionUnit.java:96)- Location found
-2018-04-24 22:40:25 INFO [main] (CommonProductionUnit.java:116)- Tract info popup loaded sucessfully
-2018-04-24 22:40:27 INFO [main] (CommonProductionUnit.java:126)- Total Tract County: 1
-2018-04-24 22:40:30 INFO [main] (CommonProductionUnit.java:135)- Total Row Found: 1
-2018-04-24 22:40:36 INFO [main] (CommonProductionUnit.java:149)- Tract Subsection Updated
-2018-04-24 22:40:36 INFO [main] (CommonProductionUnit.java:153)- Tract Created Sucessessfully
-2018-04-24 22:40:36 INFO [main] (CommonProductionUnit.java:157)- Switch to Tract header sucessfully
-2018-04-24 22:40:43 INFO [main] (CommonProductionUnit.java:190)- Tract header filled sucessfully
-2018-04-24 22:40:43 INFO [main] (CommonProductionUnit.java:195)- Tract Created Sucessessfully
-2018-04-24 22:40:58 INFO [main] (CommonProductionUnit.java:212)- Association Start
-2018-04-24 22:43:19 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
-2018-04-24 22:44:17 INFO [main] (CommonProductionUnit.java:96)- Location found
-2018-04-24 22:44:24 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
-2018-04-24 22:44:26 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
-2018-04-24 22:44:28 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
-2018-04-24 22:44:41 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
-2018-04-24 22:44:42 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
-2018-04-24 22:44:42 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
-2018-04-24 22:44:48 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
-2018-04-24 22:45:03 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
-2018-04-24 22:45:58 INFO [main] (CommonProductionUnit.java:96)- Location found
-2018-04-24 22:46:05 INFO [main] (CommonProductionUnit.java:116)- Tract info popup loaded sucessfully
-2018-04-24 22:46:07 INFO [main] (CommonProductionUnit.java:126)- Total Tract County: 1
-2018-04-24 22:46:09 INFO [main] (CommonProductionUnit.java:135)- Total Row Found: 1
-2018-04-24 22:46:16 INFO [main] (CommonProductionUnit.java:149)- Tract Subsection Updated
-2018-04-24 22:46:16 INFO [main] (CommonProductionUnit.java:153)- Tract Created Sucessessfully
-2018-04-24 22:46:16 INFO [main] (CommonProductionUnit.java:157)- Switch to Tract header sucessfully
-2018-04-24 22:46:22 INFO [main] (CommonProductionUnit.java:190)- Tract header filled sucessfully
-2018-04-24 22:46:22 INFO [main] (CommonProductionUnit.java:195)- Tract Created Sucessessfully
-2018-04-24 22:46:36 INFO [main] (CommonProductionUnit.java:212)- Association Start
-2018-04-24 22:48:17 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
-2018-04-24 22:50:30 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
-2018-04-24 22:52:48 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
-2018-04-24 22:53:51 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
-2018-04-24 22:54:37 INFO [main] (CommonProductionUnit.java:96)- Location found
-2018-04-24 22:54:44 INFO [main] (CommonProspectFunctions.java:107)- Tract info popup loaded sucessfully
-2018-04-24 22:54:46 INFO [main] (CommonProspectFunctions.java:115)- Total Tract County: 1
-2018-04-24 22:54:48 INFO [main] (CommonProspectFunctions.java:124)- Total Row Found: 1
-2018-04-24 22:55:01 INFO [main] (CommonProspectFunctions.java:148)- Tract Subsection Updated
-2018-04-24 22:55:02 INFO [main] (CommonProspectFunctions.java:153)- Tract Created Sucessessfully
-2018-04-24 22:55:02 INFO [main] (CommonProspectFunctions.java:157)- Switch to Tract header sucessfully
-2018-04-24 22:55:08 INFO [main] (CommonProspectFunctions.java:180)- Tract header filled sucessfully
-2018-04-24 22:55:24 INFO [main] (CommonProspectFunctions.java:185)- Prospect Created Sucessessfully
-2018-04-24 22:56:17 INFO [main] (CommonProductionUnit.java:96)- Location found
-2018-04-24 22:56:23 INFO [main] (CommonProductionUnit.java:116)- Tract info popup loaded sucessfully
-2018-04-24 22:56:26 INFO [main] (CommonProductionUnit.java:126)- Total Tract County: 1
-2018-04-24 22:56:28 INFO [main] (CommonProductionUnit.java:135)- Total Row Found: 1
-2018-04-24 22:56:34 INFO [main] (CommonProductionUnit.java:149)- Tract Subsection Updated
-2018-04-24 22:56:35 INFO [main] (CommonProductionUnit.java:153)- Tract Created Sucessessfully
-2018-04-24 22:56:35 INFO [main] (CommonProductionUnit.java:157)- Switch to Tract header sucessfully
-2018-04-24 22:56:41 INFO [main] (CommonProductionUnit.java:190)- Tract header filled sucessfully
-2018-04-24 22:56:41 INFO [main] (CommonProductionUnit.java:195)- Tract Created Sucessessfully
-2018-04-24 22:56:55 INFO [main] (CommonProductionUnit.java:212)- Association Start
-2018-04-24 22:57:04 INFO [main] (CommonProductionUnit.java:232)- All prospects are checked
-2018-04-24 22:58:21 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-05-03 13:20:59 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2018-05-03 13:21:00 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2018-05-03 13:21:18 INFO [main] (CommonAssetFunction.java:28)- Search Assect by Smart Search
+2018-05-03 13:21:42 INFO [main] (CommonAssetFunction.java:51)- Asset opened sucessfully
+2018-05-03 13:26:47 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2018-05-03 13:26:50 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2018-05-03 13:27:10 INFO [main] (CommonAssetFunction.java:28)- Search Assect by Smart Search
+2018-05-03 13:27:34 INFO [main] (CommonAssetFunction.java:51)- Asset opened sucessfully
+2018-05-03 13:27:53 INFO [main] (CommonAssetFunction.java:88)- Check generated sucessfully
+2018-05-03 13:27:58 INFO [main] (CommonAssetFunction.java:93)- Asset work flow start
+2018-05-03 13:28:08 INFO [main] (CommonAssetFunction.java:98)- Count found1
+2018-05-03 13:28:13 INFO [main] (CommonAssetFunction.java:102)- Unrecorded Deed start
+2018-05-03 13:28:15 INFO [main] (CommonAssetFunction.java:107)- Unrecorded Deed Checked
+2018-05-03 13:28:24 INFO [main] (CommonAssetFunction.java:122)- unrecorded Deed End
+2018-05-03 13:28:24 INFO [main] (CommonAssetFunction.java:126)- Deed Recording start
+2018-05-03 13:28:35 INFO [main] (CommonAssetFunction.java:145)- Date selected for all County
+2018-05-03 13:28:35 INFO [main] (CommonAssetFunction.java:146)- Deed Recording start
+2018-05-03 13:28:35 INFO [main] (CommonAssetFunction.java:150)- Record Deed Start
+2018-05-03 13:28:41 INFO [main] (CommonAssetFunction.java:158)- Record Deed Checked
+2018-05-03 13:28:41 INFO [main] (CommonAssetFunction.java:161)- Record Deed End
+2018-05-03 13:31:55 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2018-05-03 13:31:59 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2018-05-03 13:32:18 INFO [main] (CommonAssetFunction.java:28)- Search Assect by Smart Search
+2018-05-03 13:32:42 INFO [main] (CommonAssetFunction.java:51)- Asset opened sucessfully
+2018-05-03 13:33:00 INFO [main] (CommonAssetFunction.java:88)- Check generated sucessfully
+2018-05-03 13:33:05 INFO [main] (CommonAssetFunction.java:93)- Asset work flow start
+2018-05-03 13:33:15 INFO [main] (CommonAssetFunction.java:98)- Count found1
+2018-05-03 13:33:20 INFO [main] (CommonAssetFunction.java:102)- Unrecorded Deed start
+2018-05-03 13:33:23 INFO [main] (CommonAssetFunction.java:107)- Unrecorded Deed Checked
+2018-05-03 13:33:32 INFO [main] (CommonAssetFunction.java:122)- unrecorded Deed End
+2018-05-03 13:33:32 INFO [main] (CommonAssetFunction.java:126)- Deed Recording start
+2018-05-03 13:33:42 INFO [main] (CommonAssetFunction.java:145)- Date selected for all County
+2018-05-03 13:33:42 INFO [main] (CommonAssetFunction.java:146)- Deed Recording start
+2018-05-03 13:33:42 INFO [main] (CommonAssetFunction.java:150)- Record Deed Start
+2018-05-03 13:33:48 INFO [main] (CommonAssetFunction.java:158)- Record Deed Checked
+2018-05-03 13:33:53 INFO [main] (CommonAssetFunction.java:161)- Record Deed End
+2018-05-03 14:30:23 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2018-05-03 14:30:24 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2018-05-03 14:30:43 INFO [main] (CommonAssetFunction.java:28)- Search Assect by Smart Search
+2018-05-03 14:31:08 INFO [main] (CommonAssetFunction.java:51)- Asset opened sucessfully
+2018-05-03 14:31:26 INFO [main] (CommonAssetFunction.java:88)- Check generated sucessfully
+2018-05-03 14:31:31 INFO [main] (CommonAssetFunction.java:93)- Asset work flow start
+2018-05-03 14:31:41 INFO [main] (CommonAssetFunction.java:98)- Count found1
+2018-05-03 14:31:46 INFO [main] (CommonAssetFunction.java:102)- Unrecorded Deed start
+2018-05-03 14:31:49 INFO [main] (CommonAssetFunction.java:107)- Unrecorded Deed Checked
+2018-05-03 14:31:58 INFO [main] (CommonAssetFunction.java:122)- unrecorded Deed End
+2018-05-03 14:31:58 INFO [main] (CommonAssetFunction.java:126)- Deed Recording start
+2018-05-03 14:32:08 INFO [main] (CommonAssetFunction.java:145)- Date selected for all County
+2018-05-03 14:32:08 INFO [main] (CommonAssetFunction.java:146)- Deed Recording start
+2018-05-03 14:32:08 INFO [main] (CommonAssetFunction.java:150)- Record Deed Start
+2018-05-03 14:32:14 INFO [main] (CommonAssetFunction.java:158)- Record Deed Checked
+2018-05-03 14:32:20 INFO [main] (CommonAssetFunction.java:162)- Record Deed End
+2018-05-03 14:46:26 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2018-05-03 14:46:27 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2018-05-03 14:46:45 INFO [main] (CommonAssetFunction.java:28)- Search Assect by Smart Search
+2018-05-03 14:47:09 INFO [main] (CommonAssetFunction.java:51)- Asset opened sucessfully
+2018-05-03 14:47:27 INFO [main] (CommonAssetFunction.java:88)- Check generated sucessfully
+2018-05-03 14:47:32 INFO [main] (CommonAssetFunction.java:93)- Asset work flow start
+2018-05-03 14:47:42 INFO [main] (CommonAssetFunction.java:98)- Count found1
+2018-05-03 14:47:48 INFO [main] (CommonAssetFunction.java:102)- Unrecorded Deed start
+2018-05-03 14:47:50 INFO [main] (CommonAssetFunction.java:107)- Unrecorded Deed Checked
+2018-05-03 14:47:59 INFO [main] (CommonAssetFunction.java:122)- unrecorded Deed End
+2018-05-03 14:47:59 INFO [main] (CommonAssetFunction.java:126)- Deed Recording start
+2018-05-03 14:48:10 INFO [main] (CommonAssetFunction.java:145)- Date selected for all County
+2018-05-03 14:48:10 INFO [main] (CommonAssetFunction.java:146)- Deed Recording start
+2018-05-03 14:48:10 INFO [main] (CommonAssetFunction.java:150)- Record Deed Start
+2018-05-03 14:48:21 INFO [main] (CommonAssetFunction.java:159)- Record Deed Checked
+2018-05-03 14:48:26 INFO [main] (CommonAssetFunction.java:163)- Record Deed End
+2018-05-03 14:51:04 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2018-05-03 14:51:05 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2018-05-03 14:51:23 INFO [main] (CommonAssetFunction.java:28)- Search Assect by Smart Search
+2018-05-03 14:51:48 INFO [main] (CommonAssetFunction.java:51)- Asset opened sucessfully
+2018-05-03 14:52:09 INFO [main] (CommonAssetFunction.java:88)- Check generated sucessfully
+2018-05-03 14:52:14 INFO [main] (CommonAssetFunction.java:93)- Asset work flow start
+2018-05-03 14:52:24 INFO [main] (CommonAssetFunction.java:98)- Count found1
+2018-05-03 14:52:29 INFO [main] (CommonAssetFunction.java:102)- Unrecorded Deed start
+2018-05-03 14:52:32 INFO [main] (CommonAssetFunction.java:107)- Unrecorded Deed Checked
+2018-05-03 14:52:41 INFO [main] (CommonAssetFunction.java:122)- unrecorded Deed End
+2018-05-03 14:52:41 INFO [main] (CommonAssetFunction.java:126)- Deed Recording start
+2018-05-03 14:52:51 INFO [main] (CommonAssetFunction.java:145)- Date selected for all County
+2018-05-03 14:52:51 INFO [main] (CommonAssetFunction.java:146)- Deed Recording start
+2018-05-03 14:52:51 INFO [main] (CommonAssetFunction.java:150)- Record Deed Start
+2018-05-03 14:53:02 INFO [main] (CommonAssetFunction.java:159)- Record Deed Checked
+2018-05-03 14:53:08 INFO [main] (CommonAssetFunction.java:163)- Record Deed End
+2018-05-03 15:01:13 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2018-05-03 15:01:15 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2018-05-03 15:01:40 INFO [main] (CommonAssetFunction.java:28)- Search Assect by Smart Search
+2018-05-03 15:02:05 INFO [main] (CommonAssetFunction.java:51)- Asset opened sucessfully
+2018-05-03 15:02:23 INFO [main] (CommonAssetFunction.java:88)- Check generated sucessfully
+2018-05-03 15:02:28 INFO [main] (CommonAssetFunction.java:93)- Asset work flow start
+2018-05-03 15:02:38 INFO [main] (CommonAssetFunction.java:98)- Count found1
+2018-05-03 15:02:43 INFO [main] (CommonAssetFunction.java:102)- Unrecorded Deed start
+2018-05-03 15:02:46 INFO [main] (CommonAssetFunction.java:107)- Unrecorded Deed Checked
+2018-05-03 15:02:55 INFO [main] (CommonAssetFunction.java:122)- unrecorded Deed End
+2018-05-03 15:02:55 INFO [main] (CommonAssetFunction.java:126)- Deed Recording start
+2018-05-03 15:03:05 INFO [main] (CommonAssetFunction.java:145)- Date selected for all County
+2018-05-03 15:03:05 INFO [main] (CommonAssetFunction.java:146)- Deed Recording start
+2018-05-03 15:03:05 INFO [main] (CommonAssetFunction.java:150)- Record Deed Start
+2018-05-03 15:03:16 INFO [main] (CommonAssetFunction.java:159)- Record Deed Checked
+2018-05-03 15:03:22 INFO [main] (CommonAssetFunction.java:163)- Record Deed End
+2018-05-03 15:10:07 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2018-05-03 15:10:08 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2018-05-03 15:10:27 INFO [main] (CommonAssetFunction.java:28)- Search Assect by Smart Search
+2018-05-03 15:10:51 INFO [main] (CommonAssetFunction.java:51)- Asset opened sucessfully
+2018-05-03 15:11:10 INFO [main] (CommonAssetFunction.java:88)- Check generated sucessfully
+2018-05-03 15:11:15 INFO [main] (CommonAssetFunction.java:93)- Asset work flow start
+2018-05-03 15:11:25 INFO [main] (CommonAssetFunction.java:98)- Count found1
+2018-05-03 15:11:30 INFO [main] (CommonAssetFunction.java:102)- Unrecorded Deed start
+2018-05-03 15:11:33 INFO [main] (CommonAssetFunction.java:107)- Unrecorded Deed Checked
+2018-05-03 15:11:42 INFO [main] (CommonAssetFunction.java:122)- unrecorded Deed End
+2018-05-03 15:11:42 INFO [main] (CommonAssetFunction.java:126)- Deed Recording start
+2018-05-03 15:11:53 INFO [main] (CommonAssetFunction.java:145)- Date selected for all County
+2018-05-03 15:11:53 INFO [main] (CommonAssetFunction.java:146)- Deed Recording start
+2018-05-03 15:11:53 INFO [main] (CommonAssetFunction.java:150)- Record Deed Start
+2018-05-03 15:12:04 INFO [main] (CommonAssetFunction.java:159)- Record Deed Checked
+2018-05-03 15:12:09 INFO [main] (CommonAssetFunction.java:163)- Record Deed End
+2018-05-03 15:13:41 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2018-05-03 15:13:41 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2018-05-03 15:13:59 INFO [main] (CommonAssetFunction.java:28)- Search Assect by Smart Search
+2018-05-03 15:14:23 INFO [main] (CommonAssetFunction.java:51)- Asset opened sucessfully
+2018-05-03 15:14:41 INFO [main] (CommonAssetFunction.java:88)- Check generated sucessfully
+2018-05-03 15:14:46 INFO [main] (CommonAssetFunction.java:93)- Asset work flow start
+2018-05-03 15:14:57 INFO [main] (CommonAssetFunction.java:98)- Count found1
+2018-05-03 15:15:02 INFO [main] (CommonAssetFunction.java:102)- Unrecorded Deed start
+2018-05-03 15:15:04 INFO [main] (CommonAssetFunction.java:107)- Unrecorded Deed Checked
+2018-05-03 15:15:13 INFO [main] (CommonAssetFunction.java:122)- unrecorded Deed End
+2018-05-03 15:15:13 INFO [main] (CommonAssetFunction.java:126)- Deed Recording start
+2018-05-03 15:15:24 INFO [main] (CommonAssetFunction.java:145)- Date selected for all County
+2018-05-03 15:15:24 INFO [main] (CommonAssetFunction.java:146)- Deed Recording start
+2018-05-03 15:15:24 INFO [main] (CommonAssetFunction.java:150)- Record Deed Start
+2018-05-03 15:15:35 INFO [main] (CommonAssetFunction.java:159)- Record Deed Checked
+2018-05-03 15:15:40 INFO [main] (CommonAssetFunction.java:163)- Record Deed End
+2018-05-03 15:17:12 INFO [main] (AssetWorkFlow.java:43)- Logged In sucessfully
+2018-05-03 15:17:13 INFO [main] (AssetWorkFlow.java:45)- Executing Post Close start
+2018-05-03 15:17:31 INFO [main] (CommonAssetFunction.java:28)- Search Assect by Smart Search
+2018-05-03 15:17:56 INFO [main] (CommonAssetFunction.java:51)- Asset opened sucessfully
+2018-05-03 15:18:15 INFO [main] (CommonAssetFunction.java:88)- Check generated sucessfully
+2018-05-03 15:18:20 INFO [main] (CommonAssetFunction.java:93)- Asset work flow start
+2018-05-03 15:18:30 INFO [main] (CommonAssetFunction.java:98)- Count found1
+2018-05-03 15:18:35 INFO [main] (CommonAssetFunction.java:102)- Unrecorded Deed start
+2018-05-03 15:18:37 INFO [main] (CommonAssetFunction.java:107)- Unrecorded Deed Checked
+2018-05-03 15:18:47 INFO [main] (CommonAssetFunction.java:122)- unrecorded Deed End
+2018-05-03 15:18:47 INFO [main] (CommonAssetFunction.java:126)- Deed Recording start
+2018-05-03 15:18:57 INFO [main] (CommonAssetFunction.java:145)- Date selected for all County
+2018-05-03 15:18:57 INFO [main] (CommonAssetFunction.java:146)- Deed Recording start
+2018-05-03 15:18:57 INFO [main] (CommonAssetFunction.java:150)- Record Deed Start
+2018-05-03 15:19:08 INFO [main] (CommonAssetFunction.java:159)- Record Deed Checked
+2018-05-03 15:19:14 INFO [main] (CommonAssetFunction.java:163)- Record Deed End
+2018-05-03 15:24:13 INFO [main] (Association.java:46)- Logged In sucessfully
+2018-05-03 15:25:44 INFO [main] (Association.java:46)- Logged In sucessfully
+2018-05-03 15:26:41 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 15:26:48 INFO [main] (CommonAssociation.java:100)- Tract info popup loaded sucessfully
+2018-05-03 15:26:50 INFO [main] (CommonAssociation.java:108)- Total Tract County: 1
+2018-05-03 15:26:52 INFO [main] (CommonAssociation.java:116)- Total Row Found: 1
+2018-05-03 15:27:05 INFO [main] (CommonAssociation.java:136)- Tract Subsection Updated
+2018-05-03 15:27:06 INFO [main] (CommonAssociation.java:141)- Tract Created Sucessessfully
+2018-05-03 15:27:06 INFO [main] (CommonAssociation.java:145)- Switch to Tract header sucessfully
+2018-05-03 15:27:12 INFO [main] (CommonAssociation.java:168)- Tract header filled sucessfully
+2018-05-03 15:27:12 INFO [main] (CommonAssociation.java:173)- Tract Created Sucessessfully
+2018-05-03 15:28:37 INFO [main] (CommonAssociation.java:235)- Location found
+2018-05-03 15:28:44 INFO [main] (CommonAssociation.java:247)- Tract info popup loaded sucessfully
+2018-05-03 15:28:46 INFO [main] (CommonAssociation.java:257)- Total Tract County: 1
+2018-05-03 15:28:48 INFO [main] (CommonAssociation.java:267)- Total Row Found: 1
+2018-05-03 15:28:55 INFO [main] (CommonAssociation.java:285)- Tract Subsection Updated
+2018-05-03 15:28:55 INFO [main] (CommonAssociation.java:289)- Tract Created Sucessessfully
+2018-05-03 15:28:55 INFO [main] (CommonAssociation.java:293)- Switch to Tract header sucessfully
+2018-05-03 15:29:01 INFO [main] (CommonAssociation.java:326)- Tract header filled sucessfully
+2018-05-03 15:29:01 INFO [main] (CommonAssociation.java:331)- Tract Created Sucessessfully
+2018-05-03 15:29:28 INFO [main] (CommonAssociation.java:383)- Association Start
+2018-05-03 15:30:45 INFO [main] (Association.java:46)- Logged In sucessfully
+2018-05-03 15:31:42 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 15:31:48 INFO [main] (CommonAssociation.java:100)- Tract info popup loaded sucessfully
+2018-05-03 15:31:51 INFO [main] (CommonAssociation.java:108)- Total Tract County: 1
+2018-05-03 15:31:53 INFO [main] (CommonAssociation.java:116)- Total Row Found: 1
+2018-05-03 15:32:05 INFO [main] (CommonAssociation.java:136)- Tract Subsection Updated
+2018-05-03 15:32:06 INFO [main] (CommonAssociation.java:141)- Tract Created Sucessessfully
+2018-05-03 15:32:06 INFO [main] (CommonAssociation.java:145)- Switch to Tract header sucessfully
+2018-05-03 15:32:13 INFO [main] (CommonAssociation.java:168)- Tract header filled sucessfully
+2018-05-03 15:32:13 INFO [main] (CommonAssociation.java:173)- Tract Created Sucessessfully
+2018-05-03 15:33:36 INFO [main] (CommonAssociation.java:235)- Location found
+2018-05-03 15:33:43 INFO [main] (CommonAssociation.java:247)- Tract info popup loaded sucessfully
+2018-05-03 15:33:45 INFO [main] (CommonAssociation.java:257)- Total Tract County: 1
+2018-05-03 15:33:47 INFO [main] (CommonAssociation.java:267)- Total Row Found: 1
+2018-05-03 15:33:53 INFO [main] (CommonAssociation.java:285)- Tract Subsection Updated
+2018-05-03 15:33:54 INFO [main] (CommonAssociation.java:289)- Tract Created Sucessessfully
+2018-05-03 15:33:54 INFO [main] (CommonAssociation.java:293)- Switch to Tract header sucessfully
+2018-05-03 15:34:00 INFO [main] (CommonAssociation.java:326)- Tract header filled sucessfully
+2018-05-03 15:34:00 INFO [main] (CommonAssociation.java:331)- Tract Created Sucessessfully
+2018-05-03 15:34:23 INFO [main] (CommonAssociation.java:383)- Association Start
+2018-05-03 15:34:32 INFO [main] (CommonAssociation.java:403)- All prospects are checked
+2018-05-03 15:42:47 INFO [main] (Association.java:46)- Logged In sucessfully
+2018-05-03 15:44:01 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 15:44:07 INFO [main] (CommonAssociation.java:100)- Tract info popup loaded sucessfully
+2018-05-03 15:44:10 INFO [main] (CommonAssociation.java:108)- Total Tract County: 1
+2018-05-03 15:44:12 INFO [main] (CommonAssociation.java:116)- Total Row Found: 1
+2018-05-03 15:44:24 INFO [main] (CommonAssociation.java:136)- Tract Subsection Updated
+2018-05-03 15:44:25 INFO [main] (CommonAssociation.java:141)- Tract Created Sucessessfully
+2018-05-03 15:44:25 INFO [main] (CommonAssociation.java:145)- Switch to Tract header sucessfully
+2018-05-03 15:44:32 INFO [main] (CommonAssociation.java:168)- Tract header filled sucessfully
+2018-05-03 15:44:32 INFO [main] (CommonAssociation.java:173)- Tract Created Sucessessfully
+2018-05-03 15:46:01 INFO [main] (CommonAssociation.java:235)- Location found
+2018-05-03 15:46:08 INFO [main] (CommonAssociation.java:247)- Tract info popup loaded sucessfully
+2018-05-03 15:46:11 INFO [main] (CommonAssociation.java:257)- Total Tract County: 1
+2018-05-03 15:46:13 INFO [main] (CommonAssociation.java:267)- Total Row Found: 1
+2018-05-03 15:46:19 INFO [main] (CommonAssociation.java:285)- Tract Subsection Updated
+2018-05-03 15:46:19 INFO [main] (CommonAssociation.java:289)- Tract Created Sucessessfully
+2018-05-03 15:46:19 INFO [main] (CommonAssociation.java:293)- Switch to Tract header sucessfully
+2018-05-03 15:46:26 INFO [main] (CommonAssociation.java:326)- Tract header filled sucessfully
+2018-05-03 15:46:26 INFO [main] (CommonAssociation.java:331)- Tract Created Sucessessfully
+2018-05-03 15:46:49 INFO [main] (CommonAssociation.java:383)- Association Start
+2018-05-03 15:46:58 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 15:46:59 INFO [main] (CommonAssociation.java:403)- All prospects are checked
+2018-05-03 15:47:02 INFO [main] (CommonAssociation.java:423)- All Asset are checked
+2018-05-03 15:47:09 INFO [main] (CommonAssociation.java:431)- Association Completed
+2018-05-03 15:48:11 INFO [main] (CommonAssociation.java:235)- Location found
+2018-05-03 15:48:17 INFO [main] (CommonAssociation.java:247)- Tract info popup loaded sucessfully
+2018-05-03 15:48:20 INFO [main] (CommonAssociation.java:257)- Total Tract County: 1
+2018-05-03 15:48:22 INFO [main] (CommonAssociation.java:267)- Total Row Found: 1
+2018-05-03 15:48:28 INFO [main] (CommonAssociation.java:285)- Tract Subsection Updated
+2018-05-03 15:48:29 INFO [main] (CommonAssociation.java:289)- Tract Created Sucessessfully
+2018-05-03 15:48:29 INFO [main] (CommonAssociation.java:293)- Switch to Tract header sucessfully
+2018-05-03 15:48:35 INFO [main] (CommonAssociation.java:326)- Tract header filled sucessfully
+2018-05-03 15:48:35 INFO [main] (CommonAssociation.java:331)- Tract Created Sucessessfully
+2018-05-03 15:48:54 INFO [main] (CommonAssociation.java:383)- Association Start
+2018-05-03 15:49:03 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 15:49:03 INFO [main] (CommonAssociation.java:403)- All prospects are checked
+2018-05-03 15:49:07 INFO [main] (CommonAssociation.java:423)- All Asset are checked
+2018-05-03 15:49:13 INFO [main] (CommonAssociation.java:431)- Association Completed
+2018-05-03 15:51:48 INFO [main] (Association.java:46)- Logged In sucessfully
+2018-05-03 15:53:06 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 15:53:12 INFO [main] (CommonAssociation.java:100)- Tract info popup loaded sucessfully
+2018-05-03 15:53:16 INFO [main] (CommonAssociation.java:108)- Total Tract County: 1
+2018-05-03 15:53:18 INFO [main] (CommonAssociation.java:116)- Total Row Found: 1
+2018-05-03 15:53:31 INFO [main] (CommonAssociation.java:136)- Tract Subsection Updated
+2018-05-03 15:53:31 INFO [main] (CommonAssociation.java:141)- Tract Created Sucessessfully
+2018-05-03 15:53:31 INFO [main] (CommonAssociation.java:145)- Switch to Tract header sucessfully
+2018-05-03 15:53:38 INFO [main] (CommonAssociation.java:168)- Tract header filled sucessfully
+2018-05-03 15:53:38 INFO [main] (CommonAssociation.java:173)- Tract Created Sucessessfully
+2018-05-03 15:55:02 INFO [main] (CommonAssociation.java:235)- Location found
+2018-05-03 15:55:08 INFO [main] (CommonAssociation.java:247)- Tract info popup loaded sucessfully
+2018-05-03 15:55:11 INFO [main] (CommonAssociation.java:257)- Total Tract County: 1
+2018-05-03 15:55:13 INFO [main] (CommonAssociation.java:267)- Total Row Found: 1
+2018-05-03 15:57:29 INFO [main] (Association.java:46)- Logged In sucessfully
+2018-05-03 15:58:50 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 16:00:17 INFO [main] (Association.java:46)- Logged In sucessfully
+2018-05-03 16:01:21 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 16:01:27 INFO [main] (CommonAssociation.java:100)- Tract info popup loaded sucessfully
+2018-05-03 16:01:30 INFO [main] (CommonAssociation.java:108)- Total Tract County: 1
+2018-05-03 16:01:32 INFO [main] (CommonAssociation.java:116)- Total Row Found: 1
+2018-05-03 16:01:45 INFO [main] (CommonAssociation.java:136)- Tract Subsection Updated
+2018-05-03 16:01:46 INFO [main] (CommonAssociation.java:141)- Tract Created Sucessessfully
+2018-05-03 16:01:46 INFO [main] (CommonAssociation.java:145)- Switch to Tract header sucessfully
+2018-05-03 16:01:53 INFO [main] (CommonAssociation.java:168)- Tract header filled sucessfully
+2018-05-03 16:01:53 INFO [main] (CommonAssociation.java:173)- Tract Created Sucessessfully
+2018-05-03 16:06:17 INFO [main] (Association.java:46)- Logged In sucessfully
+2018-05-03 16:07:24 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 16:07:30 INFO [main] (CommonAssociation.java:100)- Tract info popup loaded sucessfully
+2018-05-03 16:07:33 INFO [main] (CommonAssociation.java:108)- Total Tract County: 1
+2018-05-03 16:07:35 INFO [main] (CommonAssociation.java:116)- Total Row Found: 1
+2018-05-03 16:07:48 INFO [main] (CommonAssociation.java:136)- Tract Subsection Updated
+2018-05-03 16:07:48 INFO [main] (CommonAssociation.java:141)- Tract Created Sucessessfully
+2018-05-03 16:07:48 INFO [main] (CommonAssociation.java:145)- Switch to Tract header sucessfully
+2018-05-03 16:07:55 INFO [main] (CommonAssociation.java:168)- Tract header filled sucessfully
+2018-05-03 16:07:55 INFO [main] (CommonAssociation.java:173)- Tract Created Sucessessfully
+2018-05-03 16:09:25 INFO [main] (CommonAssociation.java:235)- Location found
+2018-05-03 16:09:32 INFO [main] (CommonAssociation.java:247)- Tract info popup loaded sucessfully
+2018-05-03 16:09:35 INFO [main] (CommonAssociation.java:257)- Total Tract County: 1
+2018-05-03 16:09:37 INFO [main] (CommonAssociation.java:267)- Total Row Found: 1
+2018-05-03 16:09:43 INFO [main] (CommonAssociation.java:285)- Tract Subsection Updated
+2018-05-03 16:09:44 INFO [main] (CommonAssociation.java:289)- Tract Created Sucessessfully
+2018-05-03 16:09:44 INFO [main] (CommonAssociation.java:293)- Switch to Tract header sucessfully
+2018-05-03 16:09:50 INFO [main] (CommonAssociation.java:326)- Tract header filled sucessfully
+2018-05-03 16:09:50 INFO [main] (CommonAssociation.java:331)- Tract Created Sucessessfully
+2018-05-03 16:10:13 INFO [main] (CommonAssociation.java:383)- Association Start
+2018-05-03 16:10:22 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 16:10:22 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 16:10:23 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 16:10:24 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 16:10:24 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 16:10:28 INFO [main] (CommonAssociation.java:423)- All Asset are checked
+2018-05-03 16:10:34 INFO [main] (CommonAssociation.java:431)- Association Completed
+2018-05-03 16:11:37 INFO [main] (CommonAssociation.java:235)- Location found
+2018-05-03 16:11:44 INFO [main] (CommonAssociation.java:247)- Tract info popup loaded sucessfully
+2018-05-03 16:11:46 INFO [main] (CommonAssociation.java:257)- Total Tract County: 1
+2018-05-03 16:11:48 INFO [main] (CommonAssociation.java:267)- Total Row Found: 1
+2018-05-03 16:11:55 INFO [main] (CommonAssociation.java:285)- Tract Subsection Updated
+2018-05-03 16:11:55 INFO [main] (CommonAssociation.java:289)- Tract Created Sucessessfully
+2018-05-03 16:11:55 INFO [main] (CommonAssociation.java:293)- Switch to Tract header sucessfully
+2018-05-03 16:12:01 INFO [main] (CommonAssociation.java:326)- Tract header filled sucessfully
+2018-05-03 16:12:02 INFO [main] (CommonAssociation.java:331)- Tract Created Sucessessfully
+2018-05-03 16:12:20 INFO [main] (CommonAssociation.java:383)- Association Start
+2018-05-03 16:12:29 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 16:12:30 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 16:12:30 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 16:12:31 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 16:12:31 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 16:12:35 INFO [main] (CommonAssociation.java:423)- All Asset are checked
+2018-05-03 16:12:41 INFO [main] (CommonAssociation.java:431)- Association Completed
+2018-05-03 16:16:08 INFO [main] (Association.java:46)- Logged In sucessfully
+2018-05-03 16:18:08 INFO [main] (Association.java:46)- Logged In sucessfully
+2018-05-03 16:29:35 INFO [main] (Association.java:46)- Logged In sucessfully
+2018-05-03 16:30:14 INFO [main] (CommonAssociation.java:465)- Lease Gross Royality Applied Sucessfully
+2018-05-03 16:30:26 INFO [main] (CommonAssociation.java:484)- Split Intrest Applied Sucessfully
+2018-05-03 17:04:03 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-05-03 17:04:56 INFO [main] (CommonProductionUnit.java:97)- Location found
+2018-05-03 17:05:02 INFO [main] (CommonProspectFunctions.java:108)- Tract info popup loaded sucessfully
+2018-05-03 17:05:05 INFO [main] (CommonProspectFunctions.java:116)- Total Tract County: 1
+2018-05-03 17:05:07 INFO [main] (CommonProspectFunctions.java:125)- Total Row Found: 1
+2018-05-03 17:05:20 INFO [main] (CommonProspectFunctions.java:149)- Tract Subsection Updated
+2018-05-03 17:05:20 INFO [main] (CommonProspectFunctions.java:154)- Tract Created Sucessessfully
+2018-05-03 17:05:20 INFO [main] (CommonProspectFunctions.java:158)- Switch to Tract header sucessfully
+2018-05-03 17:05:27 INFO [main] (CommonProspectFunctions.java:181)- Tract header filled sucessfully
+2018-05-03 17:05:38 INFO [main] (CommonProspectFunctions.java:186)- Prospect Created Sucessessfully
+2018-05-03 17:08:50 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-05-03 17:09:41 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:09:47 INFO [main] (CommonProspectFunctions.java:108)- Tract info popup loaded sucessfully
+2018-05-03 17:09:51 INFO [main] (CommonProspectFunctions.java:116)- Total Tract County: 1
+2018-05-03 17:09:53 INFO [main] (CommonProspectFunctions.java:125)- Total Row Found: 1
+2018-05-03 17:10:06 INFO [main] (CommonProspectFunctions.java:149)- Tract Subsection Updated
+2018-05-03 17:10:06 INFO [main] (CommonProspectFunctions.java:154)- Tract Created Sucessessfully
+2018-05-03 17:10:06 INFO [main] (CommonProspectFunctions.java:158)- Switch to Tract header sucessfully
+2018-05-03 17:10:14 INFO [main] (CommonProspectFunctions.java:181)- Tract header filled sucessfully
+2018-05-03 17:10:19 INFO [main] (CommonProspectFunctions.java:186)- Prospect Created Sucessessfully
+2018-05-03 17:11:16 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:11:23 INFO [main] (CommonProductionUnit.java:118)- Tract info popup loaded sucessfully
+2018-05-03 17:11:25 INFO [main] (CommonProductionUnit.java:128)- Total Tract County: 1
+2018-05-03 17:11:27 INFO [main] (CommonProductionUnit.java:137)- Total Row Found: 1
+2018-05-03 17:11:34 INFO [main] (CommonProductionUnit.java:151)- Tract Subsection Updated
+2018-05-03 17:11:34 INFO [main] (CommonProductionUnit.java:155)- Tract Created Sucessessfully
+2018-05-03 17:11:34 INFO [main] (CommonProductionUnit.java:159)- Switch to Tract header sucessfully
+2018-05-03 17:11:40 INFO [main] (CommonProductionUnit.java:192)- Tract header filled sucessfully
+2018-05-03 17:11:40 INFO [main] (CommonProductionUnit.java:197)- Tract Created Sucessessfully
+2018-05-03 17:11:56 INFO [main] (CommonProductionUnit.java:214)- Association Start
+2018-05-03 17:13:25 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-05-03 17:14:16 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:15:39 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-05-03 17:16:29 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:16:36 INFO [main] (CommonProspectFunctions.java:108)- Tract info popup loaded sucessfully
+2018-05-03 17:16:38 INFO [main] (CommonProspectFunctions.java:116)- Total Tract County: 1
+2018-05-03 17:16:40 INFO [main] (CommonProspectFunctions.java:125)- Total Row Found: 1
+2018-05-03 17:16:53 INFO [main] (CommonProspectFunctions.java:149)- Tract Subsection Updated
+2018-05-03 17:16:54 INFO [main] (CommonProspectFunctions.java:154)- Tract Created Sucessessfully
+2018-05-03 17:16:54 INFO [main] (CommonProspectFunctions.java:158)- Switch to Tract header sucessfully
+2018-05-03 17:17:00 INFO [main] (CommonProspectFunctions.java:181)- Tract header filled sucessfully
+2018-05-03 17:17:12 INFO [main] (CommonProspectFunctions.java:186)- Prospect Created Sucessessfully
+2018-05-03 17:18:12 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:18:19 INFO [main] (CommonProductionUnit.java:118)- Tract info popup loaded sucessfully
+2018-05-03 17:18:21 INFO [main] (CommonProductionUnit.java:128)- Total Tract County: 1
+2018-05-03 17:18:23 INFO [main] (CommonProductionUnit.java:137)- Total Row Found: 1
+2018-05-03 17:18:30 INFO [main] (CommonProductionUnit.java:151)- Tract Subsection Updated
+2018-05-03 17:18:30 INFO [main] (CommonProductionUnit.java:155)- Tract Created Sucessessfully
+2018-05-03 17:18:30 INFO [main] (CommonProductionUnit.java:159)- Switch to Tract header sucessfully
+2018-05-03 17:18:36 INFO [main] (CommonProductionUnit.java:192)- Tract header filled sucessfully
+2018-05-03 17:18:37 INFO [main] (CommonProductionUnit.java:197)- Tract Created Sucessessfully
+2018-05-03 17:18:51 INFO [main] (CommonProductionUnit.java:214)- Association Start
+2018-05-03 17:18:59 INFO [main] (CommonProductionUnit.java:230)- Prospects are checked
+2018-05-03 17:19:00 INFO [main] (CommonProductionUnit.java:234)- All prospects are checked
+2018-05-03 17:19:04 INFO [main] (CommonProductionUnit.java:254)- All Asset are checked
+2018-05-03 17:19:10 INFO [main] (CommonProductionUnit.java:262)- Association Completed
+2018-05-03 17:20:14 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:20:30 INFO [main] (CommonProductionUnit.java:287)- 
+2018-05-03 17:20:30 INFO [main] (CommonProductionUnit.java:305)- Production Unit Well selection Start
+2018-05-03 17:20:47 INFO [main] (CommonProductionUnit.java:324)- 
+2018-05-03 17:20:47 INFO [main] (CommonProductionUnit.java:338)- Tract info popup loaded sucessfully
+2018-05-03 17:20:49 INFO [main] (CommonProductionUnit.java:345)- Total Tract County: 6
+2018-05-03 17:20:51 INFO [main] (CommonProductionUnit.java:355)- Total Row Found: 2
+2018-05-03 17:22:38 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-05-03 17:23:29 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:23:36 INFO [main] (CommonProspectFunctions.java:108)- Tract info popup loaded sucessfully
+2018-05-03 17:23:38 INFO [main] (CommonProspectFunctions.java:116)- Total Tract County: 1
+2018-05-03 17:23:40 INFO [main] (CommonProspectFunctions.java:125)- Total Row Found: 1
+2018-05-03 17:23:53 INFO [main] (CommonProspectFunctions.java:149)- Tract Subsection Updated
+2018-05-03 17:23:54 INFO [main] (CommonProspectFunctions.java:154)- Tract Created Sucessessfully
+2018-05-03 17:23:54 INFO [main] (CommonProspectFunctions.java:158)- Switch to Tract header sucessfully
+2018-05-03 17:24:00 INFO [main] (CommonProspectFunctions.java:181)- Tract header filled sucessfully
+2018-05-03 17:24:10 INFO [main] (CommonProspectFunctions.java:186)- Prospect Created Sucessessfully
+2018-05-03 17:25:10 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:25:17 INFO [main] (CommonProductionUnit.java:118)- Tract info popup loaded sucessfully
+2018-05-03 17:25:19 INFO [main] (CommonProductionUnit.java:128)- Total Tract County: 1
+2018-05-03 17:25:21 INFO [main] (CommonProductionUnit.java:137)- Total Row Found: 1
+2018-05-03 17:25:28 INFO [main] (CommonProductionUnit.java:151)- Tract Subsection Updated
+2018-05-03 17:25:28 INFO [main] (CommonProductionUnit.java:155)- Tract Created Sucessessfully
+2018-05-03 17:25:28 INFO [main] (CommonProductionUnit.java:159)- Switch to Tract header sucessfully
+2018-05-03 17:25:35 INFO [main] (CommonProductionUnit.java:192)- Tract header filled sucessfully
+2018-05-03 17:25:35 INFO [main] (CommonProductionUnit.java:197)- Tract Created Sucessessfully
+2018-05-03 17:25:53 INFO [main] (CommonProductionUnit.java:214)- Association Start
+2018-05-03 17:26:02 INFO [main] (CommonProductionUnit.java:230)- Prospects are checked
+2018-05-03 17:26:02 INFO [main] (CommonProductionUnit.java:230)- Prospects are checked
+2018-05-03 17:26:03 INFO [main] (CommonProductionUnit.java:234)- All prospects are checked
+2018-05-03 17:26:07 INFO [main] (CommonProductionUnit.java:254)- All Asset are checked
+2018-05-03 17:26:13 INFO [main] (CommonProductionUnit.java:262)- Association Completed
+2018-05-03 17:27:17 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:27:34 INFO [main] (CommonProductionUnit.java:287)- 
+2018-05-03 17:27:34 INFO [main] (CommonProductionUnit.java:305)- Production Unit Well selection Start
+2018-05-03 17:27:50 INFO [main] (CommonProductionUnit.java:324)- 
+2018-05-03 17:27:50 INFO [main] (CommonProductionUnit.java:338)- Tract info popup loaded sucessfully
+2018-05-03 17:27:52 INFO [main] (CommonProductionUnit.java:345)- Total Tract County: 7
+2018-05-03 17:27:54 INFO [main] (CommonProductionUnit.java:355)- Total Row Found: 1
+2018-05-03 17:28:04 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:28:06 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:28:08 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:28:10 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:28:12 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:28:14 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:28:16 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:28:16 INFO [main] (CommonProductionUnit.java:376)- Tract Created Sucessessfully
+2018-05-03 17:32:25 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully
+2018-05-03 17:33:16 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:33:22 INFO [main] (CommonProspectFunctions.java:108)- Tract info popup loaded sucessfully
+2018-05-03 17:33:25 INFO [main] (CommonProspectFunctions.java:116)- Total Tract County: 1
+2018-05-03 17:33:27 INFO [main] (CommonProspectFunctions.java:125)- Total Row Found: 1
+2018-05-03 17:33:39 INFO [main] (CommonProspectFunctions.java:149)- Tract Subsection Updated
+2018-05-03 17:33:40 INFO [main] (CommonProspectFunctions.java:154)- Tract Created Sucessessfully
+2018-05-03 17:33:40 INFO [main] (CommonProspectFunctions.java:158)- Switch to Tract header sucessfully
+2018-05-03 17:33:47 INFO [main] (CommonProspectFunctions.java:181)- Tract header filled sucessfully
+2018-05-03 17:34:00 INFO [main] (CommonProspectFunctions.java:186)- Prospect Created Sucessessfully
+2018-05-03 17:34:56 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:35:03 INFO [main] (CommonProductionUnit.java:118)- Tract info popup loaded sucessfully
+2018-05-03 17:35:05 INFO [main] (CommonProductionUnit.java:128)- Total Tract County: 1
+2018-05-03 17:35:07 INFO [main] (CommonProductionUnit.java:137)- Total Row Found: 1
+2018-05-03 17:35:14 INFO [main] (CommonProductionUnit.java:151)- Tract Subsection Updated
+2018-05-03 17:35:14 INFO [main] (CommonProductionUnit.java:155)- Tract Created Sucessessfully
+2018-05-03 17:35:14 INFO [main] (CommonProductionUnit.java:159)- Switch to Tract header sucessfully
+2018-05-03 17:35:20 INFO [main] (CommonProductionUnit.java:192)- Tract header filled sucessfully
+2018-05-03 17:35:21 INFO [main] (CommonProductionUnit.java:197)- Tract Created Sucessessfully
+2018-05-03 17:35:35 INFO [main] (CommonProductionUnit.java:214)- Association Start
+2018-05-03 17:35:44 INFO [main] (CommonProductionUnit.java:230)- Prospects are checked
+2018-05-03 17:35:45 INFO [main] (CommonProductionUnit.java:230)- Prospects are checked
+2018-05-03 17:35:45 INFO [main] (CommonProductionUnit.java:234)- All prospects are checked
+2018-05-03 17:35:49 INFO [main] (CommonProductionUnit.java:254)- All Asset are checked
+2018-05-03 17:35:55 INFO [main] (CommonProductionUnit.java:262)- Association Completed
+2018-05-03 17:36:59 INFO [main] (CommonProductionUnit.java:98)- Location found
+2018-05-03 17:37:16 INFO [main] (CommonProductionUnit.java:287)- 
+2018-05-03 17:37:16 INFO [main] (CommonProductionUnit.java:305)- Production Unit Well selection Start
+2018-05-03 17:37:33 INFO [main] (CommonProductionUnit.java:324)- 
+2018-05-03 17:37:33 INFO [main] (CommonProductionUnit.java:338)- Tract info popup loaded sucessfully
+2018-05-03 17:37:35 INFO [main] (CommonProductionUnit.java:345)- Total Tract County: 5
+2018-05-03 17:37:37 INFO [main] (CommonProductionUnit.java:355)- Total Row Found: 1
+2018-05-03 17:37:46 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:37:48 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:37:50 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:37:52 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:37:54 INFO [main] (CommonProductionUnit.java:372)- Tract Subsection Updated
+2018-05-03 17:37:54 INFO [main] (CommonProductionUnit.java:376)- Tract Created Sucessessfully
+2018-05-03 17:38:18 INFO [main] (CommonProductionUnit.java:400)- Production unit Created Sucessessfully
+2018-05-03 17:38:18 INFO [main] (CommonProductionUnit.java:403)- Production unit Created Sucessessfully
+2018-05-03 18:50:23 INFO [main] (RRMMS_PositiveFlow.java:36)- Logged In sucessfully
+2018-05-03 18:51:25 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 20:05:38 INFO [main] (RRMMS_PositiveFlow.java:36)- Logged In sucessfully
+2018-05-03 20:06:37 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 20:08:19 INFO [main] (RRMMS_PositiveFlow.java:36)- Logged In sucessfully
+2018-05-03 20:09:20 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 20:11:21 INFO [main] (RRMMS_PositiveFlow.java:36)- Logged In sucessfully
+2018-05-03 20:12:39 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 20:12:45 INFO [main] (CommonAssociation.java:100)- Tract info popup loaded sucessfully
+2018-05-03 20:12:48 INFO [main] (CommonAssociation.java:108)- Total Tract County: 1
+2018-05-03 20:12:51 INFO [main] (CommonAssociation.java:116)- Total Row Found: 1
+2018-05-03 20:13:05 INFO [main] (CommonAssociation.java:136)- Tract Subsection Updated
+2018-05-03 20:13:06 INFO [main] (CommonAssociation.java:141)- Tract Created Sucessessfully
+2018-05-03 20:13:06 INFO [main] (CommonAssociation.java:145)- Switch to Tract header sucessfully
+2018-05-03 20:13:16 INFO [main] (CommonAssociation.java:168)- Tract header filled sucessfully
+2018-05-03 20:13:16 INFO [main] (CommonAssociation.java:173)- Tract Created Sucessessfully
+2018-05-03 20:14:49 INFO [main] (CommonAssociation.java:235)- Location found
+2018-05-03 20:14:56 INFO [main] (CommonAssociation.java:247)- Tract info popup loaded sucessfully
+2018-05-03 20:14:58 INFO [main] (CommonAssociation.java:257)- Total Tract County: 1
+2018-05-03 20:15:00 INFO [main] (CommonAssociation.java:267)- Total Row Found: 1
+2018-05-03 20:15:07 INFO [main] (CommonAssociation.java:285)- Tract Subsection Updated
+2018-05-03 20:15:07 INFO [main] (CommonAssociation.java:289)- Tract Created Sucessessfully
+2018-05-03 20:15:07 INFO [main] (CommonAssociation.java:293)- Switch to Tract header sucessfully
+2018-05-03 20:15:14 INFO [main] (CommonAssociation.java:326)- Tract header filled sucessfully
+2018-05-03 20:15:14 INFO [main] (CommonAssociation.java:331)- Tract Created Sucessessfully
+2018-05-03 20:15:36 INFO [main] (CommonAssociation.java:383)- Association Start
+2018-05-03 20:15:45 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 20:15:46 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 20:15:47 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 20:15:47 INFO [main] (CommonAssociation.java:403)- All prospects are checked
+2018-05-03 20:15:51 INFO [main] (CommonAssociation.java:423)- All Asset are checked
+2018-05-03 20:15:57 INFO [main] (CommonAssociation.java:431)- Association Completed
+2018-05-03 20:17:00 INFO [main] (CommonAssociation.java:235)- Location found
+2018-05-03 20:17:07 INFO [main] (CommonAssociation.java:247)- Tract info popup loaded sucessfully
+2018-05-03 20:17:10 INFO [main] (CommonAssociation.java:257)- Total Tract County: 1
+2018-05-03 20:17:12 INFO [main] (CommonAssociation.java:267)- Total Row Found: 1
+2018-05-03 20:17:18 INFO [main] (CommonAssociation.java:285)- Tract Subsection Updated
+2018-05-03 20:17:19 INFO [main] (CommonAssociation.java:289)- Tract Created Sucessessfully
+2018-05-03 20:17:19 INFO [main] (CommonAssociation.java:293)- Switch to Tract header sucessfully
+2018-05-03 20:17:25 INFO [main] (CommonAssociation.java:326)- Tract header filled sucessfully
+2018-05-03 20:17:25 INFO [main] (CommonAssociation.java:331)- Tract Created Sucessessfully
+2018-05-03 20:17:45 INFO [main] (CommonAssociation.java:383)- Association Start
+2018-05-03 20:17:54 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 20:17:54 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 20:17:55 INFO [main] (CommonAssociation.java:399)- Prospects are checked
+2018-05-03 20:17:55 INFO [main] (CommonAssociation.java:403)- All prospects are checked
+2018-05-03 20:17:59 INFO [main] (CommonAssociation.java:423)- All Asset are checked
+2018-05-03 20:18:05 INFO [main] (CommonAssociation.java:431)- Association Completed
+2018-05-03 20:18:45 INFO [main] (CommonAssociation.java:465)- Lease Gross Royality Applied Sucessfully
+2018-05-03 20:18:57 INFO [main] (CommonAssociation.java:484)- Split Intrest Applied Sucessfully
+2018-05-03 20:19:04 INFO [main] (CommonProspectWorkFlow.java:335)- Offer package Generation Start
+2018-05-03 20:19:29 INFO [main] (CommonProspectWorkFlow.java:370)- Date Selected Sucessfully
+2018-05-03 20:19:39 INFO [main] (CommonProspectWorkFlow.java:394)- Efective Date Selected Sucessfully
+2018-05-03 20:19:44 INFO [main] (CommonProspectWorkFlow.java:403)- Offer package Generated Sucessfully
+2018-05-03 20:19:44 INFO [main] (CommonProspectWorkFlow.java:536)- Upload Seller Documnet start
+2018-05-03 20:20:09 INFO [main] (CommonProspectWorkFlow.java:560)- Seller Document Attached Sucessfully
+2018-05-03 20:20:21 INFO [main] (CommonProspectWorkFlow.java:588)- Dual Diligence Date added Sucessfully
+2018-05-03 20:20:34 INFO [main] (Common.java:1018)- Hi, buyerrrm log Out Sucessfully
+2018-05-03 20:20:34 INFO [main] (CommonProspectWorkFlow.java:596)- LoginLandAndTitleUser
+2018-05-03 20:20:47 INFO [main] (CommonProspectWorkFlow.java:609)- LoggedIn User:mgr.landtitle.rrm
+2018-05-03 20:21:47 INFO [main] (CommonProspectWorkFlow.java:633)- Seller docs received for Test 5003
+2018-05-03 20:22:09 INFO [main] (CommonProspectWorkFlow.java:721)- ClearToPay
+2018-05-03 20:22:24 INFO [main] (CommonProspectWorkFlow.java:732)- Payment send to management for Approval
+2018-05-03 20:23:13 INFO [main] (Common.java:1018)- Hi, mgr.landtitle.rrm log Out Sucessfully
+2018-05-03 20:23:24 INFO [main] (CommonProspectWorkFlow.java:785)- LoggedIn User:acqmgr.rrm
+2018-05-03 20:24:11 INFO [main] (CommonProspectWorkFlow.java:811)- Test 5003 is pending Acquisition Manager Approval
+2018-05-03 20:24:29 INFO [main] (CommonProspectWorkFlow.java:832)- Price Approved by: acqmgr.rrm
+2018-05-03 20:24:47 INFO [main] (Common.java:1018)- Hi, acqmgr.rrm log Out Sucessfully
+2018-05-03 20:24:53 INFO [main] (CommonProspectWorkFlow.java:785)- LoggedIn User:coo.rrm
+2018-05-03 20:26:05 INFO [main] (CommonProspectWorkFlow.java:811)- Test 5003 is pending COO Approval
+2018-05-03 20:26:24 INFO [main] (CommonProspectWorkFlow.java:832)- Price Approved by: coo.rrm
+2018-05-03 20:26:42 INFO [main] (Common.java:1018)- Hi, coo.rrm log Out Sucessfully
+2018-05-03 20:26:47 INFO [main] (CommonProspectWorkFlow.java:785)- LoggedIn User:cfo.rrm
+2018-05-03 20:27:59 INFO [main] (CommonProspectWorkFlow.java:811)- Test 5003 is pending CFO Approval
+2018-05-03 20:28:18 INFO [main] (CommonProspectWorkFlow.java:832)- Price Approved by: cfo.rrm
+2018-05-03 20:28:36 INFO [main] (Common.java:1018)- Hi, cfo.rrm log Out Sucessfully
+2018-05-03 20:28:38 INFO [main] (CommonProspectWorkFlow.java:844)- Prospect Converted to Asset Sucessfully
+2018-05-03 20:28:38 INFO [main] (RRMMS_PositiveFlow.java:79)- Prospect converted to asset sucessfully.
+2018-05-03 20:28:39 INFO [main] (CommonAssetFunction.java:93)- Asset work flow start
+2018-05-03 20:28:49 INFO [main] (CommonAssetFunction.java:98)- Count found-1
+2018-05-03 20:42:10 INFO [main] (RRMMS_PositiveFlow.java:37)- Logged In sucessfully
+2018-05-03 20:44:52 INFO [main] (RRMMS_PositiveFlow.java:37)- Logged In sucessfully
+2018-05-03 20:45:17 INFO [main] (CommonAssetFunction.java:93)- Asset work flow start
+2018-05-03 20:45:46 INFO [main] (CommonAssetFunction.java:98)- Count found1
+2018-05-03 20:45:52 INFO [main] (CommonAssetFunction.java:102)- Unrecorded Deed start
+2018-05-03 20:45:54 INFO [main] (CommonAssetFunction.java:107)- Unrecorded Deed Checked
+2018-05-03 20:46:03 INFO [main] (CommonAssetFunction.java:122)- unrecorded Deed End
+2018-05-03 20:46:03 INFO [main] (CommonAssetFunction.java:126)- Deed Recording start
+2018-05-03 20:46:14 INFO [main] (CommonAssetFunction.java:145)- Date selected for all County
+2018-05-03 20:46:14 INFO [main] (CommonAssetFunction.java:146)- Deed Recording start
+2018-05-03 20:46:14 INFO [main] (CommonAssetFunction.java:150)- Record Deed Start
+2018-05-03 20:46:25 INFO [main] (CommonAssetFunction.java:159)- Record Deed Checked
+2018-05-03 20:46:31 INFO [main] (CommonAssetFunction.java:163)- Record Deed End
+2018-05-03 20:48:54 INFO [main] (CommonAssociation.java:84)- Location found
+2018-05-03 20:53:12 INFO [main] (RRMMS_PositiveFlow.java:38)- Logged In sucessfully
+2018-05-03 20:54:38 INFO [main] (CommonAssociation.java:85)- Location found
+2018-05-03 20:54:55 INFO [main] (CommonCreatePU.java:43)- 
+2018-05-03 20:54:55 INFO [main] (CommonCreatePU.java:61)- Production Unit Well selection Start
+2018-05-03 20:55:12 INFO [main] (CommonCreatePU.java:80)- 
+2018-05-03 20:55:12 INFO [main] (CommonCreatePU.java:94)- Tract info popup loaded sucessfully
+2018-05-03 20:55:14 INFO [main] (CommonCreatePU.java:101)- Total Tract County: 4
+2018-05-03 20:55:16 INFO [main] (CommonCreatePU.java:111)- Total Row Found: 1
+2018-05-03 20:55:26 INFO [main] (CommonCreatePU.java:128)- Tract Subsection Updated
+2018-05-03 20:55:28 INFO [main] (CommonCreatePU.java:128)- Tract Subsection Updated
+2018-05-03 20:55:30 INFO [main] (CommonCreatePU.java:128)- Tract Subsection Updated
+2018-05-03 20:55:32 INFO [main] (CommonCreatePU.java:128)- Tract Subsection Updated
+2018-05-03 20:55:32 INFO [main] (CommonCreatePU.java:132)- Tract Created Sucessessfully
+2018-05-03 20:55:56 INFO [main] (CommonCreatePU.java:156)- Production unit Created Sucessessfully
+2018-05-03 20:55:56 INFO [main] (CommonCreatePU.java:159)- Production unit Created Sucessessfully
+2018-05-03 20:56:19 INFO [main] (CommonCreatePU.java:183)- Creating Division Order Start
+2018-05-03 20:56:24 INFO [main] (CommonCreatePU.java:186)- Header section Start
+2018-05-03 20:56:29 INFO [main] (CommonCreatePU.java:202)- Header section completed
+2018-05-03 20:56:29 INFO [main] (CommonCreatePU.java:209)- Search And Select County
+2018-05-03 20:56:46 INFO [main] (CommonCreatePU.java:239)- Search and Select County section Completed
+2018-05-03 20:56:46 INFO [main] (CommonCreatePU.java:244)- No Records available. Please initiate search.
+2018-05-03 20:58:50 INFO [main] (RRMMS_PositiveFlow.java:38)- Logged In sucessfully
+2018-05-03 20:59:47 INFO [main] (CommonAssociation.java:85)- Location found
+2018-05-03 20:59:53 INFO [main] (CommonAssociation.java:101)- Tract info popup loaded sucessfully
+2018-05-03 20:59:56 INFO [main] (CommonAssociation.java:109)- Total Tract County: 1
+2018-05-03 20:59:58 INFO [main] (CommonAssociation.java:117)- Total Row Found: 1
+2018-05-03 21:00:11 INFO [main] (CommonAssociation.java:137)- Tract Subsection Updated
+2018-05-03 21:00:11 INFO [main] (CommonAssociation.java:142)- Tract Created Sucessessfully
+2018-05-03 21:00:11 INFO [main] (CommonAssociation.java:146)- Switch to Tract header sucessfully
+2018-05-03 21:00:18 INFO [main] (CommonAssociation.java:169)- Tract header filled sucessfully
+2018-05-03 21:00:18 INFO [main] (CommonAssociation.java:174)- Tract Created Sucessessfully
+2018-05-03 21:01:55 INFO [main] (CommonAssociation.java:236)- Location found
+2018-05-03 21:02:02 INFO [main] (CommonAssociation.java:248)- Tract info popup loaded sucessfully
+2018-05-03 21:02:05 INFO [main] (CommonAssociation.java:258)- Total Tract County: 1
+2018-05-03 21:02:07 INFO [main] (CommonAssociation.java:268)- Total Row Found: 1
+2018-05-03 21:06:35 INFO [main] (RRMMS_PositiveFlow.java:38)- Logged In sucessfully
+2018-05-03 21:07:59 INFO [main] (CommonAssociation.java:85)- Location found
+2018-05-03 21:11:48 INFO [main] (RRMMS_PositiveFlow.java:38)- Logged In sucessfully
+2018-05-03 21:12:49 INFO [main] (CommonAssociation.java:85)- Location found
+2018-05-03 21:12:55 INFO [main] (CommonAssociation.java:101)- Tract info popup loaded sucessfully
+2018-05-03 21:12:58 INFO [main] (CommonAssociation.java:109)- Total Tract County: 1
+2018-05-03 21:13:00 INFO [main] (CommonAssociation.java:117)- Total Row Found: 1
+2018-05-03 21:13:13 INFO [main] (CommonAssociation.java:137)- Tract Subsection Updated
+2018-05-03 21:13:13 INFO [main] (CommonAssociation.java:142)- Tract Created Sucessessfully
+2018-05-03 21:13:13 INFO [main] (CommonAssociation.java:146)- Switch to Tract header sucessfully
+2018-05-03 21:13:20 INFO [main] (CommonAssociation.java:169)- Tract header filled sucessfully
+2018-05-03 21:13:20 INFO [main] (CommonAssociation.java:174)- Tract Created Sucessessfully
+2018-05-03 21:14:44 INFO [main] (CommonAssociation.java:236)- Location found
+2018-05-03 21:14:51 INFO [main] (CommonAssociation.java:248)- Tract info popup loaded sucessfully
+2018-05-03 21:14:53 INFO [main] (CommonAssociation.java:258)- Total Tract County: 1
+2018-05-03 21:14:55 INFO [main] (CommonAssociation.java:268)- Total Row Found: 1
+2018-05-03 21:17:08 INFO [main] (RRMMS_PositiveFlow.java:38)- Logged In sucessfully
+2018-05-03 21:18:05 INFO [main] (CommonAssociation.java:85)- Location found
+2018-05-03 21:19:31 INFO [main] (RRMMS_PositiveFlow.java:38)- Logged In sucessfully
+2018-05-03 21:20:28 INFO [main] (CommonAssociation.java:85)- Location found
+2018-05-03 21:20:35 INFO [main] (CommonAssociation.java:101)- Tract info popup loaded sucessfully
+2018-05-03 21:20:37 INFO [main] (CommonAssociation.java:109)- Total Tract County: 1
+2018-05-03 21:20:39 INFO [main] (CommonAssociation.java:117)- Total Row Found: 1
+2018-05-03 21:20:52 INFO [main] (CommonAssociation.java:137)- Tract Subsection Updated
+2018-05-03 21:20:52 INFO [main] (CommonAssociation.java:142)- Tract Created Sucessessfully
+2018-05-03 21:20:52 INFO [main] (CommonAssociation.java:146)- Switch to Tract header sucessfully
+2018-05-03 21:20:59 INFO [main] (CommonAssociation.java:169)- Tract header filled sucessfully
+2018-05-03 21:20:59 INFO [main] (CommonAssociation.java:174)- Tract Created Sucessessfully
+2018-05-03 21:23:32 INFO [main] (RRMMS_PositiveFlow.java:38)- Logged In sucessfully
+2018-05-03 21:24:29 INFO [main] (CommonAssociation.java:85)- Location found
+2018-05-03 21:24:35 INFO [main] (CommonAssociation.java:101)- Tract info popup loaded sucessfully
+2018-05-03 21:24:38 INFO [main] (CommonAssociation.java:109)- Total Tract County: 1
+2018-05-03 21:24:40 INFO [main] (CommonAssociation.java:117)- Total Row Found: 1
+2018-05-03 21:24:53 INFO [main] (CommonAssociation.java:137)- Tract Subsection Updated
+2018-05-03 21:24:54 INFO [main] (CommonAssociation.java:142)- Tract Created Sucessessfully
+2018-05-03 21:24:54 INFO [main] (CommonAssociation.java:146)- Switch to Tract header sucessfully
+2018-05-03 21:25:00 INFO [main] (CommonAssociation.java:169)- Tract header filled sucessfully
+2018-05-03 21:25:00 INFO [main] (CommonAssociation.java:174)- Tract Created Sucessessfully
+2018-05-03 21:26:42 INFO [main] (CommonAssociation.java:237)- Location found
+2018-05-03 21:26:49 INFO [main] (CommonAssociation.java:249)- Tract info popup loaded sucessfully
+2018-05-03 21:26:52 INFO [main] (CommonAssociation.java:259)- Total Tract County: 1
+2018-05-03 21:26:54 INFO [main] (CommonAssociation.java:269)- Total Row Found: 1
+2018-05-03 21:27:04 INFO [main] (CommonAssociation.java:287)- Tract Subsection Updated
+2018-05-03 21:27:05 INFO [main] (CommonAssociation.java:291)- Tract Created Sucessessfully
+2018-05-03 21:27:05 INFO [main] (CommonAssociation.java:295)- Switch to Tract header sucessfully
+2018-05-03 21:27:11 INFO [main] (CommonAssociation.java:328)- Tract header filled sucessfully
+2018-05-03 21:27:11 INFO [main] (CommonAssociation.java:333)- Tract Created Sucessessfully
+2018-05-03 21:27:36 INFO [main] (CommonAssociation.java:385)- Association Start
+2018-05-03 21:27:45 INFO [main] (CommonAssociation.java:401)- Prospects are checked
+2018-05-03 21:27:45 INFO [main] (CommonAssociation.java:401)- Prospects are checked
+2018-05-03 21:27:46 INFO [main] (CommonAssociation.java:401)- Prospects are checked
+2018-05-03 21:27:47 INFO [main] (CommonAssociation.java:401)- Prospects are checked
+2018-05-03 21:27:47 INFO [main] (CommonAssociation.java:405)- All prospects are checked
+2018-05-03 21:27:51 INFO [main] (CommonAssociation.java:425)- All Asset are checked
+2018-05-03 21:27:57 INFO [main] (CommonAssociation.java:433)- Association Completed
+2018-05-03 21:29:06 INFO [main] (CommonAssociation.java:237)- Location found
+2018-05-03 21:29:12 INFO [main] (CommonAssociation.java:249)- Tract info popup loaded sucessfully
+2018-05-03 21:29:15 INFO [main] (CommonAssociation.java:259)- Total Tract County: 1
+2018-05-03 21:29:17 INFO [main] (CommonAssociation.java:269)- Total Row Found: 1
+2018-05-03 21:29:27 INFO [main] (CommonAssociation.java:287)- Tract Subsection Updated
+2018-05-03 21:29:27 INFO [main] (CommonAssociation.java:291)- Tract Created Sucessessfully
+2018-05-03 21:29:27 INFO [main] (CommonAssociation.java:295)- Switch to Tract header sucessfully
+2018-05-03 21:29:34 INFO [main] (CommonAssociation.java:328)- Tract header filled sucessfully
+2018-05-03 21:29:34 INFO [main] (CommonAssociation.java:333)- Tract Created Sucessessfully
+2018-05-03 21:30:01 INFO [main] (CommonAssociation.java:385)- Association Start
+2018-05-03 21:30:10 INFO [main] (CommonAssociation.java:401)- Prospects are checked
+2018-05-03 21:30:10 INFO [main] (CommonAssociation.java:401)- Prospects are checked
+2018-05-03 21:30:11 INFO [main] (CommonAssociation.java:401)- Prospects are checked
+2018-05-03 21:30:11 INFO [main] (CommonAssociation.java:401)- Prospects are checked
+2018-05-03 21:30:12 INFO [main] (CommonAssociation.java:405)- All prospects are checked
+2018-05-03 21:30:16 INFO [main] (CommonAssociation.java:425)- All Asset are checked
+2018-05-03 21:30:22 INFO [main] (CommonAssociation.java:433)- Association Completed
+2018-05-03 21:31:04 INFO [main] (CommonAssociation.java:467)- Lease Gross Royality Applied Sucessfully
+2018-05-03 21:31:16 INFO [main] (CommonAssociation.java:486)- Split Intrest Applied Sucessfully
+2018-05-03 21:31:22 INFO [main] (CommonProspectWorkFlow.java:335)- Offer package Generation Start
+2018-05-03 21:31:47 INFO [main] (CommonProspectWorkFlow.java:370)- Date Selected Sucessfully
+2018-05-03 21:31:56 INFO [main] (CommonProspectWorkFlow.java:394)- Efective Date Selected Sucessfully
+2018-05-03 21:32:01 INFO [main] (CommonProspectWorkFlow.java:403)- Offer package Generated Sucessfully
+2018-05-03 21:32:01 INFO [main] (CommonProspectWorkFlow.java:536)- Upload Seller Documnet start
+2018-05-03 21:32:23 INFO [main] (CommonProspectWorkFlow.java:560)- Seller Document Attached Sucessfully
+2018-05-03 21:32:35 INFO [main] (CommonProspectWorkFlow.java:588)- Dual Diligence Date added Sucessfully
+2018-05-03 21:32:48 INFO [main] (Common.java:1018)- Hi, buyerrrm log Out Sucessfully
+2018-05-03 21:32:48 INFO [main] (CommonProspectWorkFlow.java:596)- LoginLandAndTitleUser
+2018-05-03 21:33:00 INFO [main] (CommonProspectWorkFlow.java:609)- LoggedIn User:mgr.landtitle.rrm
+2018-05-03 21:34:07 INFO [main] (CommonProspectWorkFlow.java:633)- Seller docs received for Test 1246
+2018-05-03 21:34:28 INFO [main] (CommonProspectWorkFlow.java:721)- ClearToPay
+2018-05-03 21:34:43 INFO [main] (CommonProspectWorkFlow.java:732)- Payment send to management for Approval
+2018-05-03 21:35:25 INFO [main] (Common.java:1018)- Hi, mgr.landtitle.rrm log Out Sucessfully
+2018-05-03 21:35:35 INFO [main] (CommonProspectWorkFlow.java:785)- LoggedIn User:acqmgr.rrm
+2018-05-03 21:36:19 INFO [main] (CommonProspectWorkFlow.java:811)- Test 1246 is pending Acquisition Manager Approval
+2018-05-03 21:47:01 INFO [main] (CreateProspect.java:83)- Logged In sucessfully
+2018-05-03 21:48:24 INFO [main] (CommonProspectFunctions.java:92)- Location found
+2018-05-03 21:48:31 INFO [main] (CommonProspectFunctions.java:108)- Tract info popup loaded sucessfully
+2018-05-03 21:48:34 INFO [main] (CommonProspectFunctions.java:116)- Total Tract County: 1
+2018-05-03 21:48:36 INFO [main] (CommonProspectFunctions.java:125)- Total Row Found: 1
+2018-05-03 21:48:52 INFO [main] (CommonProspectFunctions.java:149)- Tract Subsection Updated
+2018-05-03 21:48:53 INFO [main] (CommonProspectFunctions.java:154)- Tract Created Sucessessfully
+2018-05-03 21:48:53 INFO [main] (CommonProspectFunctions.java:158)- Switch to Tract header sucessfully
+2018-05-03 21:49:04 INFO [main] (CommonProspectFunctions.java:181)- Tract header filled sucessfully
+2018-05-03 21:49:10 INFO [main] (CommonProspectFunctions.java:186)- Prospect Created Sucessessfully
+2018-05-03 21:51:41 INFO [main] (CreateLease.java:47)- Logged In sucessfully
+2018-05-03 21:52:36 INFO [main] (CommonLeaseFunction.java:180)- Location found
+2018-05-03 21:52:43 INFO [main] (CommonLeaseFunction.java:35)- Tract info popup loaded sucessfully
+2018-05-03 21:52:46 INFO [main] (CommonLeaseFunction.java:43)- Total Tract County: 1
+2018-05-03 21:52:48 INFO [main] (CommonLeaseFunction.java:53)- Total Row Found: 1
+2018-05-03 21:56:33 INFO [main] (ProductionUnit.java:53)- Logged In sucessfully

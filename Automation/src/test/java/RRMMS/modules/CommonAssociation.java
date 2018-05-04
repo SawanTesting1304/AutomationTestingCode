@@ -16,6 +16,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import RRMMS.Test.CreateProspect;
 import RRMMS.TestData.ExcelData;
+import RRMMS.TestData.RRMMS_Urls;
 import RRMMS.locators.AssociationLocator;
 import RRMMS.locators.CreateProspectLocator;
 import RRMMS.locators.LeaseLocator;
@@ -34,6 +35,7 @@ public class CommonAssociation {
 		Robot rb = new Robot();
 		Actions action = new Actions(driver);
 		Thread.sleep(2000);
+		
 		Common.loader();
 		WebElement map = driver.findElement(By
 				.xpath("//div[@id='map']/div[2]/canvas"));
@@ -172,6 +174,7 @@ public class CommonAssociation {
 		log.info("Tract Created Sucessessfully");
 		// ------------Tract End--------------//
 		Common.loader();
+		Common.loader();
 		ProspectName=CreateProspectLocator.ProspectName(driver).getText();
 		Common.loader();
 		ProspectName=CreateProspectLocator.ProspectName(driver).getText();
@@ -180,7 +183,7 @@ public class CommonAssociation {
 	
 	public static WebDriver createLease(WebDriver driver) throws Exception {
 		Thread.sleep(2000);
-		driver.get("http://rrmms.dev.verdico.com/index");
+		driver.navigate().to(RRMMS_Urls.baseUrl);
 
 		Robot rb = new Robot();
 		Actions action = new Actions(driver);
@@ -269,7 +272,7 @@ public class CommonAssociation {
 			//============Temp code End============//
 			// ---------Select Subsection Pop up-----------------//
 			for (int r = 0; r <= num - 1; r++) {
-				Thread.sleep(2000);
+				Common.loader();
 				CreateProspectLocator.QtrCallClick(driver, i, r+1 ).click();
 				Thread.sleep(2000);
 				CreateProspectLocator.subsectionSelect(driver,
@@ -381,7 +384,7 @@ public class CommonAssociation {
 		Common.loader();
 		log.info("Association Start");
 		JavascriptExecutor jse = (JavascriptExecutor) driver;
-		jse.executeScript("window.scrollBy(0,750)", "");
+		jse.executeScript("window.scrollBy(0,950)", "");
 		Thread.sleep(1000);
 		Common.loader();
 		AssociationLocator.AssociationOpenLink(driver).click();
@@ -453,8 +456,8 @@ public class CommonAssociation {
 		Common.loader();
 		Common.loader();
 		JavascriptExecutor jse = (JavascriptExecutor) driver;
-		jse.executeScript("window.scrollBy(0,750)", "");
-		Thread.sleep(500);
+		jse.executeScript("window.scrollBy(0,950)", "");
+		Common.loader();
 		try{
 			AssociationLocator.LeaseRoyaltyClick(driver).click();
 			Thread.sleep(1000);

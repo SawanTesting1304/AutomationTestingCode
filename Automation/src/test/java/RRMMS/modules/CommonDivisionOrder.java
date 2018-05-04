@@ -13,6 +13,7 @@ import org.openqa.selenium.WebDriver;
 import jxl.Sheet;
 import RRMMS.Test.CreateProspect;
 import RRMMS.TestData.ExcelData;
+import RRMMS.TestData.RRMMS_Urls;
 import RRMMS.locators.AssociationLocator;
 import RRMMS.locators.CreateProspectLocator;
 import RRMMS.locators.DivisionOrderLocators;
@@ -29,9 +30,10 @@ public class CommonDivisionOrder {
 	public static WebDriver CreateDO(WebDriver driver)throws Exception{
 		Robot rb = new Robot();
 		Common.loader();
-		Thread.sleep(3000);
+		//Thread.sleep(3000);
 		//DivisionOrderLocators.ElementID(driver, "chkSideMenuBar").click();
 		ScreenShots.screenshots(driver, "Division Order");
+		Common.loader();
 		DivisionOrderLocators.DivisionOrderMenuClick(driver).click();
 		DivisionOrderLocators.MenuAddDo(driver).click();
 		Thread.sleep(1000);
@@ -85,7 +87,8 @@ public class CommonDivisionOrder {
 		Common.loader();*/
 		Common.loader();
 		DivisionOrderLocators.Asset_input(driver).click();
-		Common.randomNumber1to5();
+		Thread.sleep(2000);
+		Common.selectAnyFromList(Common.randomNumber1to5());
 		Common.loader();
 		
 		/*DivisionOrderLocators.Lease_input(driver).click();
@@ -184,7 +187,13 @@ public class CommonDivisionOrder {
 	//------------- DO Work Flow Start---------------------//
 	DivisionOrderLocators.OpenFirstDOFromList(driver).click();
 	Common.loader();
+	
+	//String winHandleBefore = driver.getWindowHandle();
 	//-------------Marked as Verified--------//
+	for (String winHandle : driver.getWindowHandles()) {
+		driver.switchTo().window(winHandle);
+	}
+	Common.loader();
 	DivisionOrderLocators.ActionButtonClick(driver).click();
 	Thread.sleep(2000);
 	DivisionOrderLocators.MarkAsVerifiedClick(driver).click();
@@ -226,8 +235,8 @@ public class CommonDivisionOrder {
 			driver.switchTo().window(winHandle);
 		}
 		Thread.sleep(1000);
-		driver.get("http://rrmms.dev.verdico.com/");
-		for (int i = 5; i <= 5; i++) {
+		driver.navigate().to(RRMMS_Urls.baseUrl);
+		for (int i = 14; i <= 14; i++) {
 			log.info("DO Pending Approval Start");
 			// this.driver= Start.InitilizeBrowser12();
 			Common.loader();
@@ -242,13 +251,14 @@ public class CommonDivisionOrder {
 			Common.loader();
 			Common.loader();
 			try{
-				driver.findElement(By.xpath("//form/div[1]/div/label")).click();
+				driver.findElement(By.xpath("//form//label[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 			}
 			catch(org.openqa.selenium.NoSuchElementException e)
 			{
+				Common.loader();
 				driver.findElement(By.xpath("//div[@id='main']//header/div[2]/div/button")).click();
 				Thread.sleep(2000);
-				driver.findElement(By.xpath("//a[contains(text(),'Rock River Minerals')]")).click();
+				driver.findElement(By.xpath("//a[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 				Common.loader();
 				Common.loader();
 			}
@@ -301,7 +311,7 @@ public class CommonDivisionOrder {
 			Thread.sleep(2000);
 			Thread.sleep(2000);
 			log.info("Division Order Approved sucessfully");
-			driver.get("http://rrmms.dev.verdico.com/");
+			driver.navigate().to(RRMMS_Urls.baseUrl);
 			Common.loader();
 			Start.logIN();
 			log.info("Logged In sucessfully");

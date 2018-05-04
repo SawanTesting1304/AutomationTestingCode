@@ -15,6 +15,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import RRMMS.Test.CreateProspect;
 import RRMMS.TestData.ExcelData;
+import RRMMS.TestData.RRMMS_Urls;
 import RRMMS.locators.CreateProspectLocator;
 import RRMMS.locators.WorkFlowLocator;
 import RRMMS.utility.Common;
@@ -27,7 +28,7 @@ public class CommonProspectFunctions {
 
 	public static WebDriver searchProspectLocation(WebDriver driver)
 			throws Exception {
-		/*driver.get("http://rrmms.dev.verdico.com/index");*/
+		/*driver.navigate().to(RRMMS_Urls.baseUrl);*/
 		Robot rb = new Robot();
 		Actions action = new Actions(driver);
 		Thread.sleep(3000);
@@ -634,8 +635,15 @@ public class CommonProspectFunctions {
 			System.out.println("ROW: " + num);
 			log.info("Total Row Found: " + num);
 
-			// ---------Select Subsection Pop up-----------------//
+			
+			int intTractCount=Common.randomNumber1to3();
+				for(int P=1;P<=intTractCount;P++)
+				{
+					CreateProspectLocator.AddIntTract(driver).click();
+				}
 				
+				CreateProspectLocator.SwitchIntTab(driver, intTractCount);
+				// ---------Select Subsection Pop up-----------------//
 				for (int r = 0; r <= num - 1; r++) {
 					Thread.sleep(2000);
 					CreateProspectLocator.QtrCallClick(driver, i , r+1).click();

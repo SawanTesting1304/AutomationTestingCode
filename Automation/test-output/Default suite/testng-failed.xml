@@ -3,14 +3,14 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="RRMMS.Test.Login">
+      <class name="RRMMS.Test.ProductionUnit">
         <methods>
           <include name="beforeMethod"/>
-          <include name="logIN"/>
+          <include name="ProductionUnitPopup"/>
           <include name="afterMethod"/>
           <include name="endTest"/>
         </methods>
-      </class> <!-- RRMMS.Test.Login -->
+      </class> <!-- RRMMS.Test.ProductionUnit -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

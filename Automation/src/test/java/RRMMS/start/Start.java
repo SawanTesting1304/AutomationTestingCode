@@ -13,6 +13,8 @@ import jxl.Sheet;
 import jxl.read.biff.BiffException;
 import jxl.write.DateFormat;
 import RRMMS.TestData.ExcelData;
+
+import RRMMS.TestData.RRMMS_Urls;
 import RRMMS.locators.LoginLocator;
 import RRMMS.utility.Common;
 
@@ -34,7 +36,7 @@ public class Start{
 	}
 	public static WebDriver InitilizeBrowser7()
 	{
-		String url="http://mmstest.piedrallc.com";
+		//String url="http://mmstest.piedrallc.com";
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("disable-infobars");
 		options.addArguments("--start-maximized");
@@ -48,33 +50,33 @@ public class Start{
 		{
 			System.out.println("Browser Not Maxmize ");
 		}
-        driver.navigate().to(url);
+        driver.navigate().to(RRMMS_Urls.baseUrl);
 		return driver;
 	}
 	public static WebDriver logIN() throws AWTException, InterruptedException, BiffException, IOException
 	{
 			Thread.sleep(5000);
 			Sheet sheet=ExcelData.GetData("Login");
-			/*LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(sheet.getCell(2,2).getContents());
-			LoginLocator.txtFld_rrmms(driver, "Password").sendKeys(sheet.getCell(3,2).getContents());*/
-			LoginLocator.txtFld_rrmms(driver, "Username").sendKeys("hlavergne");
-			LoginLocator.txtFld_rrmms(driver, "Password").sendKeys("Uat@2017");
+			LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(sheet.getCell(2,11).getContents());
+			LoginLocator.txtFld_rrmms(driver, "Password").sendKeys(sheet.getCell(3,11).getContents());
+			/*LoginLocator.txtFld_rrmms(driver, "Username").sendKeys("hlavergne");
+			LoginLocator.txtFld_rrmms(driver, "Password").sendKeys("Uat@2017");*/
 			LoginLocator.Loginbutton(driver).click();
 			System.out.println("Login pass");
 			Common.loader();
-			/*Common.loader();
+			Common.loader();
 			try{
-				driver.findElement(By.xpath("//form//label[contains(text(),'Rock River Minerals')]")).click();
+				driver.findElement(By.xpath("//form//label[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 			}
 			catch(org.openqa.selenium.NoSuchElementException e)
 			{
 				Common.loader();
 				driver.findElement(By.xpath("//div[@id='main']//header/div[2]/div/button")).click();
 				Thread.sleep(2000);
-				driver.findElement(By.xpath("//a[contains(text(),'Rock River Minerals')]")).click();
+				driver.findElement(By.xpath("//a[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 				Common.loader();
 				Common.loader();
-			}*/
+			}	
 			return driver;
 	}
 

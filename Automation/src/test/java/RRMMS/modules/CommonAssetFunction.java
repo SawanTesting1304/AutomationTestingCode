@@ -58,7 +58,7 @@ public class CommonAssetFunction {
 		CreateProspectLocator.ActionButtonClick(driver).click();
 		Thread.sleep(2000);
 		ScreenShots.screenshots(driver, "Post Close");
-		CreateProspectLocator.ActionListClick(driver, 3).click();
+		CreateProspectLocator.ActionListClick(driver, 4).click();
 		Thread.sleep(2000);
 
 		PostCloseLocator.ElementID(driver, "specialnstruction").sendKeys(
@@ -148,6 +148,7 @@ public class CommonAssetFunction {
 
 		// --------------Recorded Deed-----------------//
 		log.info("Record Deed Start");
+		Common.loader();
 		PostCloseLocator.NotificationIconClick(driver).click();
 		Thread.sleep(5000);
 		for (int i = 2; i <= 2; i++) {
@@ -157,15 +158,19 @@ public class CommonAssetFunction {
 		}
 		log.info("Record Deed Checked");
 		Thread.sleep(500);
+		Common.loader();
 		PostCloseLocator.NotificationRecordedDeedClick(driver).click();
 		log.info("Record Deed End");
 		// --------------Recorded Deed End-----------------//
 		
-		//--------------Recorded Date Enter----------------//
-		for (int i = 1; i <= County; i++) {
+		//--------------Received Date Enter----------------//
+		Common.loader();
+		PostCloseLocator.NotificationIconClick(driver).click();
+		int Row = RowCount(driver);
+		for (int i = 1; i <= Row; i++) {
 			Common.loader();
 			PostCloseLocator.RecordingDate(driver, i).click();
-			Thread.sleep(1000);
+			Common.loader();
 			PostCloseLocator.RecordingDateCalander(driver, i).click();
 			Thread.sleep(1000);
 			try {
@@ -177,11 +182,11 @@ public class CommonAssetFunction {
 			}
 
 			// CreateProspectLocator.SelectDate(driver).click();
-			Thread.sleep(500);
+			Thread.sleep(1000);
 		}
 		
-		//--------------Recorded Date Enter----------------//
-		
+		//--------------Received Date Enter----------------//
+		PostCloseLocator.CloseNotifiactionScreen(driver).click();
 		
 		return driver;
 
@@ -193,6 +198,14 @@ public class CommonAssetFunction {
 		int County = Table_Row.size();
 		System.out.println("Total County: " + (County - 1));
 		return County - 1;
+	}
+	public static int RowCount(WebDriver driver) {
+		List<WebElement> Table_Row = driver
+				.findElements(By
+						.xpath("//div[@id='notifyHistoryGridView']/div[2]/table/tbody/tr"));
+		int Row = Table_Row.size();
+		System.out.println("Total Row: " + (Row+1));
+		return Row+1;
 	}
 
 }

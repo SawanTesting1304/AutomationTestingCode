@@ -257,7 +257,7 @@ public class CreateProspectLocator {
 	
 	public static WebElement DepthDescription(WebDriver driver, int i)
 	{
-		WebElement DepthDescription=driver.findElement(By.xpath("html/body/div[1]/div/div[3]/div/ui-view/div[1]/div[2]/div/div/div/div[2]/div[1]/div/div/div/div/div[3]/div[2]/div/div/form/div["+i+"]/div/textarea"));
+		WebElement DepthDescription=driver.findElement(By.xpath("html/body/div[1]/div/div[3]/div/ui-view/div[1]/div[2]/div/div/div/div[2]/div[1]/div/div/div[2]/div/div/div/div[3]/div[2]/div/div/form/div["+i+"]/div/textarea"));
 		return DepthDescription;
 	}
 	public static WebElement DepthDescriptionOkClick(WebDriver driver)
@@ -276,6 +276,15 @@ public class CreateProspectLocator {
 		return MenuClick;
 	}
 	
-	
+	public static WebElement AddIntTract(WebDriver driver)
+	{
+		WebElement AddIntTract=driver.findElement(By.xpath("//div[@id='track-builder']/div/div/div[1]/h4/a/i"));
+		return AddIntTract;
+	}
+	public static WebElement SwitchIntTab(WebDriver driver, int i)
+	{
+		WebElement SwitchIntTab=driver.findElement(By.xpath("//div[@id='media']/div/div/div/ul/li["+i+"]/a"));
+		return SwitchIntTab;
+	}
 	
 }

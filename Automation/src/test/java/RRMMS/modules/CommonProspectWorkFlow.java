@@ -17,6 +17,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import RRMMS.Test.CreateProspect;
 import RRMMS.TestData.ExcelData;
+import RRMMS.TestData.RRMMS_Urls;
 import RRMMS.locators.CreateProspectLocator;
 import RRMMS.locators.LeaseLocator;
 import RRMMS.locators.LoginLocator;
@@ -222,8 +223,8 @@ public class CommonProspectWorkFlow {
 			driver.switchTo().window(winHandle);
 		}
 		Thread.sleep(1000);
-		driver.get("http://rrmms.dev.verdico.com/");
-		for (int i = 6; i <= 6; i++) {
+		driver.navigate().to(RRMMS_Urls.baseUrl);
+		for (int i = 15; i <= 15; i++) {
 			log.info("Managenment Price Approval");
 			// this.driver= Start.InitilizeBrowser12();
 			Thread.sleep(8000);
@@ -239,13 +240,14 @@ public class CommonProspectWorkFlow {
 			Common.loader();
 			Common.loader();
 			try{
-				driver.findElement(By.xpath("//form/div[1]/div/label")).click();
+				driver.findElement(By.xpath("//form//label[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 			}
 			catch(org.openqa.selenium.NoSuchElementException e)
 			{
+				Common.loader();
 				driver.findElement(By.xpath("//div[@id='main']//header/div[2]/div/button")).click();
 				Thread.sleep(2000);
-				driver.findElement(By.xpath("//a[contains(text(),'Rock River Minerals')]")).click();
+				driver.findElement(By.xpath("//a[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 				Common.loader();
 				Common.loader();
 			}
@@ -260,7 +262,7 @@ public class CommonProspectWorkFlow {
 			log.info("Managenment Price Approval");
 			System.out.println(NotificationText);
 			// --------------Price Approval--------------//
-			if (i == 6) {
+			if (i == 15) {
 				CreateProspectLocator.NotificationListClick(driver).click();
 				Thread.sleep(9000);
 				Common.loader();
@@ -297,13 +299,13 @@ public class CommonProspectWorkFlow {
 		// this.driver= Start.InitilizeBrowser12();
 		// ScreenShots.screenshots(driver, "Prospect");
 		// driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		driver.get("http://rrmms.dev.verdico.com/login");
+		driver.navigate().to(RRMMS_Urls.baseUrl);
 		Thread.sleep(2000);
 		driver = Start.logIN();
 		ScreenShots.screenshots(driver, "Work Flow");
 		Common.loader();
 		// --------Search Prospect------------------//
-		driver.get("http://rrmms.dev.verdico.com/index");
+		driver.navigate().to(RRMMS_Urls.baseUrl);
 		Thread.sleep(2000);
 		Common.loader();
 		Robot rb = new Robot();
@@ -419,8 +421,8 @@ public class CommonProspectWorkFlow {
 		}
 		Thread.sleep(1000);
 
-		driver.get("http://rrmms.dev.verdico.com/");
-		for (int i = 6; i <= 6; i++) {
+		driver.navigate().to(RRMMS_Urls.baseUrl);
+		for (int i = 15; i <= 15; i++) {
 			log.info("Offer package Notification Start");
 			Thread.sleep(5000);
 			LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(
@@ -436,13 +438,14 @@ public class CommonProspectWorkFlow {
 			Common.loader();
 			Common.loader();
 			try{
-				driver.findElement(By.xpath("//form//label[contains(text(),'SDN QA')]")).click();
+				driver.findElement(By.xpath("//form//label[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 			}
 			catch(org.openqa.selenium.NoSuchElementException e)
 			{
+				Common.loader();
 				driver.findElement(By.xpath("//div[@id='main']//header/div[2]/div/button")).click();
 				Thread.sleep(2000);
-				driver.findElement(By.xpath("//a[contains(text(),'SDN QA')]")).click();
+				driver.findElement(By.xpath("//a[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 				Common.loader();
 				Common.loader();
 			}
@@ -481,7 +484,7 @@ public class CommonProspectWorkFlow {
 		}
 		Thread.sleep(1000);
 
-		driver.get("http://rrmms.dev.verdico.com/");
+		driver.navigate().to(RRMMS_Urls.baseUrl);
 		for (int i = 3; i <= 7; i = i + 4) {
 			log.info("Seller Upload Document Notification Start");
 
@@ -498,13 +501,14 @@ public class CommonProspectWorkFlow {
 			Common.loader();
 			Common.loader();
 			try{
-				driver.findElement(By.xpath("//form//label[contains(text(),'SDN QA')]")).click();
+				driver.findElement(By.xpath("//form//label[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 			}
 			catch(org.openqa.selenium.NoSuchElementException e)
 			{
+				Common.loader();
 				driver.findElement(By.xpath("//div[@id='main']//header/div[2]/div/button")).click();
 				Thread.sleep(2000);
-				driver.findElement(By.xpath("//a[contains(text(),'SDN QA')]")).click();
+				driver.findElement(By.xpath("//a[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 				Common.loader();
 				Common.loader();
 			}
@@ -594,29 +598,28 @@ public class CommonProspectWorkFlow {
 			Sheet sheet = ExcelData.GetData("Login");
 			// this.driver= Start.InitilizeBrowser12();
 			Thread.sleep(10000);
-		/*	LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(
-					sheet.getCell(2, 3).getContents());
+			LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(
+					sheet.getCell(2, 12).getContents());
 			LoginLocator.txtFld_rrmms(driver, "Password").sendKeys(
-					sheet.getCell(3, 3).getContents());*/
-			LoginLocator.txtFld_rrmms(driver, "Username").sendKeys("srikarqa");
-			LoginLocator.txtFld_rrmms(driver, "Password").sendKeys("Uat@9966");
+					sheet.getCell(3, 12).getContents());
+			
 			LoginLocator.Loginbutton(driver).click();
 			System.out
-					.println("LoggedIn User:" + sheet.getCell(2, 3).getContents());
-			log.info("LoggedIn User:" + sheet.getCell(2, 3).getContents());
+					.println("LoggedIn User:" + sheet.getCell(2, 12).getContents());
+			log.info("LoggedIn User:" + sheet.getCell(2, 12).getContents());
 			
 			 //-----------------View offer Notification-----------------//
 			Common.loader();
 			Common.loader();
 			try{
-				driver.findElement(By.xpath("//form//label[contains(text(),'MMS TEST')]")).click();
+				driver.findElement(By.xpath("//form//label[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 			}
 			catch(org.openqa.selenium.NoSuchElementException e)
 			{
 				Common.loader();
 				driver.findElement(By.xpath("//div[@id='main']//header/div[2]/div/button")).click();
 				Thread.sleep(2000);
-				driver.findElement(By.xpath("//a[contains(text(),'MMS TEST')]")).click();
+				driver.findElement(By.xpath("//a[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 				Common.loader();
 				Common.loader();
 			}
@@ -763,18 +766,18 @@ public class CommonProspectWorkFlow {
 			}
 
 			Thread.sleep(1000);
-			driver.get("http://mmstest.piedrallc.com");
-
+			driver.navigate().to(RRMMS_Urls.baseUrl);
+			Common.loader();
+			Common.logout(driver);
+			Common.loader();
 			Sheet sheet = ExcelData.GetData("Login");
-			for (int i = 4; i <= 6; i++) {
+			for (int i = 13; i <= 15; i++) {
 
 				Thread.sleep(5000);
-				/*LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(
+				LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(
 						sheet.getCell(2, i).getContents());
 				LoginLocator.txtFld_rrmms(driver, "Password").sendKeys(
-						sheet.getCell(3, i).getContents());*/
-				LoginLocator.txtFld_rrmms(driver, "Username").sendKeys("srikarqa");
-				LoginLocator.txtFld_rrmms(driver, "Password").sendKeys("Uat@9966");
+						sheet.getCell(3, i).getContents());
 				LoginLocator.Loginbutton(driver).click();
 				System.out.println("Login pass");
 				System.out.println("LoggedIn User:"
@@ -785,14 +788,14 @@ public class CommonProspectWorkFlow {
 				Common.loader();
 				Common.loader();
 				try{
-					driver.findElement(By.xpath("//form//label[contains(text(),'MMS TEST')]")).click();
+					driver.findElement(By.xpath("//form//label[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 				}
 				catch(org.openqa.selenium.NoSuchElementException e)
 				{
 					Common.loader();
 					driver.findElement(By.xpath("//div[@id='main']//header/div[2]/div/button")).click();
 					Thread.sleep(2000);
-					driver.findElement(By.xpath("//a[contains(text(),'MMS TEST')]")).click();
+					driver.findElement(By.xpath("//a[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 					Common.loader();
 					Common.loader();
 				}

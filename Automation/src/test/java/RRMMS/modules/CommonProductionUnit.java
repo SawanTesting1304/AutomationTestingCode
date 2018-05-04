@@ -15,6 +15,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import RRMMS.Test.CreateProspect;
 import RRMMS.TestData.ExcelData;
+import RRMMS.TestData.RRMMS_Urls;
 import RRMMS.locators.AssociationLocator;
 import RRMMS.locators.CreateProspectLocator;
 import RRMMS.locators.LeaseLocator;
@@ -38,6 +39,7 @@ public class CommonProductionUnit {
 		// Common.waitUntilLoads(driver);
 		WebElement map = driver.findElement(By
 				.xpath("//div[@id='map']/div[2]/canvas"));
+		Common.loader();
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").click();
 		Thread.sleep(2000);
 		try {
@@ -105,7 +107,7 @@ public class CommonProductionUnit {
 	
 	public static WebDriver createLease(WebDriver driver) throws Exception {
 		Thread.sleep(2000);
-		driver.get("https://mmstest.piedrallc.com/index");
+		driver.navigate().to(RRMMS_Urls.baseUrl);
 
 		CommonProductionUnit.location(driver);
 		// -----------ProspectButton------------//
@@ -211,7 +213,7 @@ public class CommonProductionUnit {
 		Common.loader();
 		log.info("Association Start");
 		JavascriptExecutor jse = (JavascriptExecutor) driver;
-		jse.executeScript("window.scrollBy(0,750)", "");
+		jse.executeScript("window.scrollBy(0,950)", "");
 		Thread.sleep(1000);
 		Common.loader();
 		AssociationLocator.AssociationOpenLink(driver).click();
@@ -264,7 +266,7 @@ public class CommonProductionUnit {
 	public static WebDriver ProductionUnit(WebDriver driver) throws Exception {
 		// -----------ProductionUnit button click start------------//
 		Thread.sleep(2000);
-		driver.get("https://mmstest.piedrallc.com/index");
+		driver.navigate().to(RRMMS_Urls.baseUrl);
 		Actions action = new Actions(driver);
 		Thread.sleep(3000);
 		Common.loader();
@@ -356,7 +358,7 @@ public class CommonProductionUnit {
 			//============Temp code End============//
 			// ---------Select Subsection Pop up-----------------//
 			for (int r = 0; r <= num - 1; r++) {
-				Thread.sleep(2000);
+				Common.loader();
 				ProductionUnitLocator.QtrCallClick(driver, i, r+1 ).click();
 				Thread.sleep(2000);
 				ProductionUnitLocator.subsectionSelect(driver,5).click();
@@ -391,6 +393,9 @@ public class CommonProductionUnit {
 		try{
 		ProductionUnitLocator.PuSave(driver).click();
 		}catch(org.openqa.selenium.NoSuchElementException exception)
+		{
+			log.info("Production unit Created Sucessessfully");
+		}catch(org.openqa.selenium.ElementNotVisibleException e)
 		{
 			log.info("Production unit Created Sucessessfully");
 		}

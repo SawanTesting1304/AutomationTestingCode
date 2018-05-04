@@ -77,16 +77,20 @@ public class PostCloseLocator {
 	
 	public static WebElement RecordingDate(WebDriver driver, int i)
 	{
-		WebElement RecordingDate= driver.findElement(By.xpath(".//*[@id='notifyHistoryGridView']/div[2]/table/tbody/tr["+i+"]/td[5]/span/span/input"));
+		WebElement RecordingDate= driver.findElement(By.xpath("//div[@id='notifyHistoryGridView']/div[2]/table/tbody/tr["+i+"]/td[5]/span/span/input"));
 		return RecordingDate;
 	}
 	
 	public static WebElement RecordingDateCalander(WebDriver driver, int i)
 	{
-		WebElement RecordingDate= driver.findElement(By.xpath("html/body/div[1]/div/div[3]/div/ui-view/div[5]/div/div/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr["+i+"]/td[5]/span/span/span/span"));
+		WebElement RecordingDate= driver.findElement(By.xpath("//div[@id='notifyHistoryGridView']/div[2]/table/tbody/tr["+i+"]/td[5]/span/span/span/span"));
 		return RecordingDate;
 	}
-	
+	public static WebElement CloseNotifiactionScreen(WebDriver driver)
+	{
+		WebElement CloseNotifiactionScreen= driver.findElement(By.xpath("//div[@id='notification-modal']/div/div/div[1]/button"));
+		return CloseNotifiactionScreen;
+	}
 	
 	
 	

@@ -15,6 +15,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import RRMMS.Test.CreateProspect;
 import RRMMS.TestData.ExcelData;
+import RRMMS.TestData.RRMMS_Urls;
 import RRMMS.locators.CreateProspectLocator;
 import RRMMS.locators.LeaseLocator;
 import RRMMS.utility.Common;
@@ -53,7 +54,7 @@ public class CommonLeaseFunction {
 
 			// ---------Select Subsection Pop up-----------------//
 			for (int r = 0; r <= num - 1; r++) {
-				Thread.sleep(2000);
+				Common.loader();
 				CreateProspectLocator.QtrCallClick(driver, i, r + 1).click();
 				Thread.sleep(2000);
 				CreateProspectLocator.subsectionSelect(driver,
@@ -122,7 +123,7 @@ public class CommonLeaseFunction {
     for (int k = 1; k <=1; k++) {
 		if(k!=1)
 		{
-			driver.get("http://rrmms.dev.verdico.com/index");
+			driver.navigate().to(RRMMS_Urls.baseUrl);
 		}
 	Robot rb = new Robot();
 	Actions action = new Actions(driver);
@@ -196,10 +197,11 @@ public class CommonLeaseFunction {
 		String LeaseName=LeaseLocator.LesaeName(driver).getText();
 		LeaseName=Common.Trim(LeaseName);
 		Thread.sleep(2000);
-		driver.get("http://rrmms.dev.verdico.com/index");
-		Thread.sleep(2000);
+		driver.navigate().to(RRMMS_Urls.baseUrl);
+		
 		Common.loader();
 		Robot rb = new Robot();
+		Common.loader();
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").click();
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").clear();
 		Thread.sleep(2000);

@@ -22,12 +22,12 @@ public class AssociationLocator {
 	}
 	public static WebElement ProspectCheck(WebDriver driver, int i)
 	{
-		WebElement ProspectCheck= driver.findElement(By.xpath("html/body/div[1]/div/div[3]/div/ui-view/div[2]/div/div/div[2]/div/div/div/div[1]/div[2]/div/div/div/div/div/div[1]/table/tbody/tr["+i+"]/td[1]/div/label"));
+		WebElement ProspectCheck= driver.findElement(By.xpath("//div[1]/table/tbody/tr["+i+"]/td[1]/div/label"));
 		return ProspectCheck;
 	}
 	public static WebElement AssetCheck(WebDriver driver, int i)
 	{
-		WebElement ProspectCheck= driver.findElement(By.xpath(" html/body/div[1]/div/div[3]/div/ui-view/div[2]/div/div/div[2]/div/div/div/div[2]/div[2]/div/div/div/table/tbody/tr["+i+"]/td[1]/div/label"));
+		WebElement ProspectCheck= driver.findElement(By.xpath(" //div[1]/table/tbody/tr["+i+"]/td[1]/div/label"));
 															  
 		return ProspectCheck;
 	}
@@ -35,12 +35,12 @@ public class AssociationLocator {
 	
 	public static WebElement AssetTabClick(WebDriver driver)
 	{
-		WebElement AssetTabClick= driver.findElement(By.xpath("//div[@id='sectionA1']/div[1]/a"));
+		WebElement AssetTabClick= driver.findElement(By.xpath("//div[@id='sectionA11']/div[1]/a"));
 		return AssetTabClick;
 	}
 	public static WebElement ProspectTabClick(WebDriver driver)
 	{
-		WebElement ProspectTabClick= driver.findElement(By.xpath("//div[@id='sectionB1']/div[1]/a"));
+		WebElement ProspectTabClick= driver.findElement(By.xpath("//div[@id='sectionB11']/div[1]/a"));
 		return ProspectTabClick;
 	}
 	public static WebElement SaveButton(WebDriver driver)
@@ -60,7 +60,7 @@ public class AssociationLocator {
 	}
 	public static WebElement LeaseGrossRoyaltySave(WebDriver driver)
 	{
-		WebElement LeaseGrossRoyaltySave= driver.findElement(By.xpath("//div[@id='leaseRoyaltyPopup']//div[2]/div/button[1]"));
+		WebElement LeaseGrossRoyaltySave= driver.findElement(By.xpath("//div[@id='leaseRoyaltyPopupProspect']//div[2]//div[2]/div/button[1]"));
 		return LeaseGrossRoyaltySave;
 	}
 	public static WebElement SplitIntrest(WebDriver driver)
@@ -71,7 +71,7 @@ public class AssociationLocator {
 	
 	public static WebElement TractDecimalIntrest(WebDriver driver)
 	{
-		WebElement TractDecimalIntrest= driver.findElement(By.xpath("//div[@id='leaseRoyaltyPopup']//div[1]/span[1]/span"));
+		WebElement TractDecimalIntrest= driver.findElement(By.xpath("//div[@id='leaseRoyaltyPopupProspect']//div[2]/div[1]/span[1]/span"));
 		return TractDecimalIntrest;
 	}
 	public static WebElement DecimalIntrest(WebDriver driver, int i)

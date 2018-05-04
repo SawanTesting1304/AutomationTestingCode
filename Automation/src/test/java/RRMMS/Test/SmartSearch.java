@@ -67,6 +67,7 @@ public class SmartSearch extends RRMMS.utility.TestBase{
 				Common.loader();
 				log.info("Element Search By Smart Search");
 				Common.loader();
+				Common.loader();
 				CreateProspectLocator.ElementID(driver, "smartsearchbox").click();
 				CreateProspectLocator.ElementID(driver, "smartsearchbox").clear();
 				/*System.out.println("i: "+i);*/

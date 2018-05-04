@@ -2,9 +2,13 @@ package RRMMS.Test;
 
 import java.awt.AWTException;
 import java.io.File;
+import java.io.IOException;
 import java.lang.reflect.Method;
 
 import junit.framework.Assert;
+import jxl.Sheet;
+import jxl.read.biff.BiffException;
+import RRMMS.TestData.ExcelData;
 import RRMMS.locators.LoginLocator;
 //import RRMMS.locators.LoginLocator;
 import RRMMS.start.*;
@@ -33,6 +37,9 @@ import org.testng.annotations.Test;
 
 
 
+
+
+
 //import org.apache.log4j.Logger;
 //import BusinessLib.Articles;
 import com.relevantcodes.extentreports.ExtentReports;
@@ -46,20 +53,20 @@ public class Login extends RRMMS.utility.TestBase{
 	public static ExtentReports extent;
 	public static ExtentTest test;
 	public static ExtentTestInterruptedException testexception;
-	public Login() {
+	public Login(){
 		this.driver = Start.getDriverInstance();
 		this.driver = Start.InitilizeBrowser7();
 	}
 
 	
 	@Test
-	public void logIN() throws AWTException, InterruptedException {
+	public void logIN() throws AWTException, InterruptedException, BiffException, IOException {
 		Thread.sleep(5000);
-		/*LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(
-				"buyerrrm");
-		LoginLocator.txtFld_rrmms(driver, "Password").sendKeys("Password@123");*/
-		LoginLocator.txtFld_rrmms(driver, "Username").sendKeys("hlavergne");
-		LoginLocator.txtFld_rrmms(driver, "Password").sendKeys("Uat@2017");
+		Sheet sheet=ExcelData.GetData("Login");
+		LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(sheet.getCell(2,11).getContents());
+		LoginLocator.txtFld_rrmms(driver, "Password").sendKeys(sheet.getCell(3,11).getContents());
+		/*LoginLocator.txtFld_rrmms(driver, "Username").sendKeys("hlavergne");
+		LoginLocator.txtFld_rrmms(driver, "Password").sendKeys("Uat@2017");*/
 		LoginLocator.Loginbutton(driver).click();
 		log.info("Logged In sucessfully");
 		System.out.println("Login pass");
@@ -68,17 +75,17 @@ public class Login extends RRMMS.utility.TestBase{
 		Common.loader();
 		Common.loader();
 		try{
-			driver.findElement(By.xpath("//form//label[contains(text(),'Rock River Minerals')]")).click();
+			driver.findElement(By.xpath("//form//label[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 		}
 		catch(org.openqa.selenium.NoSuchElementException e)
 		{
 			Common.loader();
 			driver.findElement(By.xpath("//div[@id='main']//header/div[2]/div/button")).click();
 			Thread.sleep(2000);
-			driver.findElement(By.xpath("//a[contains(text(),'Rock River Minerals')]")).click();
+			driver.findElement(By.xpath("//a[contains(text(),'"+RRMMS.TestData.RRMMS_Urls.partnership+"')]")).click();
 			Common.loader();
 			Common.loader();
-		}		
+		}	
 
 	}
 	
