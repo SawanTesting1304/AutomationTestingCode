@@ -876,7 +876,7 @@ public class Common extends Start {
 	}
 	public static int randomNumber() throws AWTException
 	{
-		int randNum = (int) (Math.random() * 9999);
+		int randNum = (int) (Math.random() * 999999);
 		return randNum;
 	}
 	public static float randomDecimalNumber() throws AWTException

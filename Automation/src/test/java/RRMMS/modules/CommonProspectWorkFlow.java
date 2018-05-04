@@ -349,6 +349,7 @@ public class CommonProspectWorkFlow {
 		CreateProspectLocator.ActionListClick(driver, 4).click();
 		}
 		Common.loader();
+		WorkFlowLocator.ElementID(driver, "pInterest").clear();
 		WorkFlowLocator.ElementID(driver, "pInterest").sendKeys(
 				"" + Common.randomDecimalNumber());
 		WorkFlowLocator.WorkFlowDate(driver, 1).click();

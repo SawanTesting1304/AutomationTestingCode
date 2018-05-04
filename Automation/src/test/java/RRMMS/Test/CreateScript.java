@@ -6,6 +6,7 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
+import RRMMS.TestData.RRMMS_Urls;
 import RRMMS.modules.CommonAOIFunction;
 import RRMMS.modules.CommonLeaseFunction;
 import RRMMS.modules.CommonProductionUnit;
@@ -14,8 +15,8 @@ import RRMMS.start.Start;
 import RRMMS.utility.Common;
 import RRMMS.utility.ScreenShots;
 
-public class CreateScript {
-	
+public class CreateScript extends RRMMS.utility.TestBase {
+
 	static WebDriver driver;
 	Login l1 = new Login();
 	String Location;
@@ -31,7 +32,7 @@ public class CreateScript {
 	}
 
 	@Test(priority = 1)
-	public void createAOIDrawPolygon() throws Exception {
+	public void createAOI() throws Exception {
 		// ------------Prospect Create By Draw Polygon method --------------//
 		this.driver = Start.logIN();
 		ScreenShots.screenshots(driver, "AOI");
@@ -39,34 +40,37 @@ public class CreateScript {
 		CommonAOIFunction.location(driver);
 		CommonAOIFunction.AIOpopup(driver);
 	}
-	
-	@Test(priority = 2)
-	public void ProspectSmartSearch() throws Exception {
-		// ------------Prospect Create by using smart search --------------//
 
+	@Test(priority = 2)
+	public void CreateProspect() throws Exception {
+		// ------------Prospect Create by using smart search --------------//
+		driver.navigate().to(RRMMS_Urls.baseUrl);
+		Common.loader();
 		CommonProspectFunctions.searchProspectLocation(driver);
-		
+
 		CommonProspectFunctions.ProspectPopUp(driver);
 		Thread.sleep(1000);
-		//CommonProspectFunctions.ViewProspect(driver);
+		// CommonProspectFunctions.ViewProspect(driver);
 
 	}
-	
-	@Test(priority = 3)
-	public void Createlease() throws Exception {
 
+	@Test(priority = 3)
+	public void CreateLease() throws Exception {
+		driver.navigate().to(RRMMS_Urls.baseUrl);
+		Common.loader();
 		CommonLeaseFunction.SearchLocation(driver);
 		CommonLeaseFunction.LeasePopUp(driver);
 		Thread.sleep(2000);
 		Common.loader();
 
 	}
+
 	@Test(priority = 4)
-	public void ProductionUnitPopup() throws Exception {
+	public void CreateProductionUnit() throws Exception {
+		driver.navigate().to(RRMMS_Urls.baseUrl);
+		Common.loader();
 		CommonProductionUnit.location(driver);
 		CommonProductionUnit.ProductionUnit(driver);
-
 	}
-	
 
 }

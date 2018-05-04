@@ -3,14 +3,14 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="RRMMS.Test.ProductionUnit">
+      <class name="RRMMS.Test.DivisionOrderWorkFlow">
         <methods>
+          <include name="CreateDivisionOrder"/>
           <include name="beforeMethod"/>
-          <include name="ProductionUnitPopup"/>
           <include name="afterMethod"/>
           <include name="endTest"/>
         </methods>
-      </class> <!-- RRMMS.Test.ProductionUnit -->
+      </class> <!-- RRMMS.Test.DivisionOrderWorkFlow -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

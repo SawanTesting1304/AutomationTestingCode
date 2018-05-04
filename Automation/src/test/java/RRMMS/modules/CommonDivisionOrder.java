@@ -184,6 +184,7 @@ public class CommonDivisionOrder {
 	Thread.sleep(1000);
 	Common.loader();
 	log.info("Division Order List Opened");
+	String winHandleBefore = driver.getWindowHandle();
 	//------------- DO Work Flow Start---------------------//
 	DivisionOrderLocators.OpenFirstDOFromList(driver).click();
 	Common.loader();
@@ -193,6 +194,7 @@ public class CommonDivisionOrder {
 	for (String winHandle : driver.getWindowHandles()) {
 		driver.switchTo().window(winHandle);
 	}
+	Common.loader();
 	Common.loader();
 	DivisionOrderLocators.ActionButtonClick(driver).click();
 	Thread.sleep(2000);
@@ -215,6 +217,10 @@ public class CommonDivisionOrder {
 	log.info("Division Order List Opened");
 	
 	DivisionOrderLocators.OpenFirstDOFromList(driver).click();
+	Common.loader();
+	for (String winHandle : driver.getWindowHandles()) {
+		driver.switchTo().window(winHandle);
+	}
 	Common.loader();
 	DivisionOrderLocators.ActionButtonClick(driver).click();
 	Thread.sleep(2000);
@@ -283,15 +289,22 @@ public class CommonDivisionOrder {
 			Common.loader();
 			log.info("Division Order List Opened");
 			
+			//------------- DO Work Flow Start---------------------//
 			DivisionOrderLocators.OpenFirstDOFromList(driver).click();
 			Common.loader();
+			
+			
+			for (String winHandle : driver.getWindowHandles()) {
+				driver.switchTo().window(winHandle);
+			}
 			// --------------Management Approval--------------//
-			if (i == 5) {
+			if (i == 14) {
 				//CreateProspectLocator.NotificationListClick(driver).click();
 				//Thread.sleep(1000);
 				Common.loader();
 				ScreenShots.screenshots(driver, "DO Work Flow");
 				int j = 1;
+				Common.loader();
 				DivisionOrderLocators.ActionButtonClick(driver).click();
 				
 				if (j == 2) {

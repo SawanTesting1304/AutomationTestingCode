@@ -19,6 +19,7 @@ import RRMMS.TestData.ExcelData;
 import RRMMS.TestData.RRMMS_Urls;
 import RRMMS.locators.AssociationLocator;
 import RRMMS.locators.CreateProspectLocator;
+import RRMMS.locators.DivisionOrderLocators;
 import RRMMS.locators.LeaseLocator;
 import RRMMS.locators.WorkFlowLocator;
 import RRMMS.utility.Common;
@@ -27,7 +28,7 @@ import RRMMS.utility.ScreenShots;
 public class CommonAssociation {
 	static WebDriver driver;
 	static Logger log = Logger.getLogger(CreateProspect.class.getClass());
-	static int result, row, num;
+	static int result, row, num, mCount=1;
 	static String ProspectName;
 	
 	public static WebDriver SearchLocation(WebDriver driver) throws Exception
@@ -51,7 +52,11 @@ public class CommonAssociation {
 		rb.keyRelease(KeyEvent.VK_ENTER);
 		Thread.sleep(2000);
 		Sheet sheet = ExcelData.GetData("Location");
-		row = Common.randomNumber2to10();
+		if(mCount==1)
+		{
+			row = Common.randomNumber2to10();
+			mCount++;
+		}
 		System.out.println(row);
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
 				" " + sheet.getCell(2, row).getContents());
@@ -148,7 +153,7 @@ public class CommonAssociation {
 		Thread.sleep(1000);
 		CreateProspectLocator.Header(driver, 3).click();
 		CreateProspectLocator.ElementID(driver, "fullname").sendKeys(
-				"Test " + Common.randomNumber());
+				"Prospect Testing " + Common.randomNumber());
 		CreateProspectLocator.TextBoxName(driver, "Source_input").click();
 		Common.selectFromList();
 		Thread.sleep(1000);
@@ -494,5 +499,153 @@ public class CommonAssociation {
 		return driver;
 		
 	}
-	
+	public static WebDriver CreateDO(WebDriver driver)throws Exception{
+		Robot rb = new Robot();
+		Common.loader();
+		//Thread.sleep(3000);
+		//DivisionOrderLocators.ElementID(driver, "chkSideMenuBar").click();
+		ScreenShots.screenshots(driver, "Division Order");
+		Common.loader();
+		DivisionOrderLocators.DivisionOrderMenuClick(driver).click();
+		DivisionOrderLocators.MenuAddDo(driver).click();
+		Thread.sleep(1000);
+		Common.loader();
+		/*log.info("Division Order List Opened");
+		DivisionOrderLocators.AddDO(driver).click();*/
+		log.info("Creating Division Order Start");
+		Common.loader();
+		//Header Section DO//
+		log.info("Header section Start");
+		Thread.sleep(800);
+		DivisionOrderLocators.IssureInput(driver).click();
+		Common.selectFromList();
+		
+		
+		DivisionOrderLocators.ElementID(driver, "OwnerNumber").sendKeys(""+Common.randomNumber());
+		DivisionOrderLocators.ElementID(driver, "Property").sendKeys(""+Common.randomNumber());
+		DivisionOrderLocators.ElementID(driver, "doDecInt").sendKeys(""+Common.randomDecimalNumber());
+		DivisionOrderLocators.ElementID(driver, "doProdNri").sendKeys(""+Common.randomDecimalNumber());
+		Thread.sleep(800);
+		DivisionOrderLocators.Source(driver).click();
+		Common.selectFirstFromList();
+		Thread.sleep(800);
+		DivisionOrderLocators.Type(driver).click();
+		Common.selectFirstFromList();
+		log.info("Header section completed");
+		//Header Section DO End//
+		
+		
+		
+		
+		//-------Search And Select-------//
+		log.info("Search And Select County");
+		JavascriptExecutor jse = (JavascriptExecutor) driver;
+		jse.executeScript("window.scrollBy(0,200)", "");
+		
+	/*	DivisionOrderLocators.state_input(driver).click();
+		Common.selectFirstFromList();
+		Common.loader();
+		
+		DivisionOrderLocators.County_input(driver).click();
+		Common.selectFirstFromList();
+		Common.loader();
+		
+		DivisionOrderLocators.Block_input(driver).click();
+		Common.selectFirstFromList();
+		Common.loader();
+		
+		DivisionOrderLocators.Section_input(driver).click();
+		Common.selectFirstFromList();
+		Common.loader();*/
+		Common.loader();
+		DivisionOrderLocators.Asset_input(driver).click();
+		Thread.sleep(2000);
+		DivisionOrderLocators.Asset_input(driver).sendKeys(""+ProspectName);
+		Common.loader();
+		
+		/*DivisionOrderLocators.Lease_input(driver).click();
+		Common.selectFirstFromList();
+		Common.loader();*/
+		DivisionOrderLocators.ElementID(driver, "searchBtn").click();
+		Common.loader();
+		log.info("Search and Select County section Completed");
+		try
+		{
+			String text=DivisionOrderLocators.SearchNoResult(driver).getText();
+			if(text.contains("No Records available. Please initiate search."))
+				log.info("No Records available. Please initiate search.");
+			//driver.close();
+				
+		}catch(org.openqa.selenium.InvalidSelectorException e){
+			//DivisionOrderLocators.AppylButtonClick(driver).click();
+			log.info("Division Order created sucessfully");
+			//-------Search And Select End-------//
+			
+			//*[@id='porTable0000']/table/tbody/tr[1]/th[1]/label
+			
+			try {
+				for (int i = 0; i <= 2; i++) {
+					Thread.sleep(500);
+					jse.executeScript("window.scrollBy(0,200)", "");
+					if(i==0 || driver.findElement(By.xpath("//div[@id='collapsemePlus000']/div["+i+1+"]/div[1]/a")).equals(driver.findElement(By.xpath("//div[@id='collapsemePlus000']/div["+i+2+"]/div[1]/a"))))
+						DivisionOrderLocators.CheckBox(driver, i).click();
+					log.info("Tract is Checked");
+				}
+			} catch (org.openqa.selenium.NoSuchElementException exception) {
+				System.out.println("All Tract are checked");
+				log.info("All Tract are checked");
+			} 
+			
+		}catch(org.openqa.selenium.NoSuchElementException e){
+		//	DivisionOrderLocators.AppylButtonClick(driver).click();
+			log.info("Division Order created sucessfully");
+			//-------Search And Select End-------//
+			
+			//*[@id='porTable0000']/table/tbody/tr[1]/th[1]/label
+			
+			try {
+				for (int i = 0; i <= 2; i++) {
+					Thread.sleep(500);
+					jse.executeScript("window.scrollBy(0,200)", "");
+					if(i==0 || driver.findElement(By.xpath("//div[@id='collapsemePlus000']/div["+i+1+"]/div[1]/a")).equals(driver.findElement(By.xpath("//div[@id='collapsemePlus000']/div["+i+2+"]/div[1]/a"))))
+					DivisionOrderLocators.CheckBox(driver, i).click();
+					log.info("Tract is Checked");
+				}
+			} catch (org.openqa.selenium.NoSuchElementException exception) {
+				System.out.println("All Tract are checked");
+				log.info("All Tract are checked");
+			} 
+			
+		}catch (org.openqa.selenium.ElementNotVisibleException exception) {
+			//DivisionOrderLocators.AppylButtonClick(driver).click();
+			log.info("Division Order created sucessfully");
+			//-------Search And Select End-------//
+			
+			//*[@id='porTable0000']/table/tbody/tr[1]/th[1]/label
+			
+			try {
+				for (int i = 0; i <= 2; i++) {
+					Thread.sleep(500);
+					jse.executeScript("window.scrollBy(0,200)", "");
+					if(i==0 || driver.findElement(By.xpath("//div[@id='collapsemePlus000']/div["+i+1+"]/div[1]/a")).equals(driver.findElement(By.xpath("//div[@id='collapsemePlus000']/div["+i+2+"]/div[1]/a"))))
+					DivisionOrderLocators.CheckBox(driver, i).click();
+					log.info("Tract is Checked");
+				}
+			} catch (org.openqa.selenium.NoSuchElementException e) {
+				System.out.println("All Tract are checked");
+				log.info("All Tract are checked");
+			} 
+			}
+			
+			
+			
+			//Apply button Click'//
+			jse.executeScript("window.scrollBy(0,-900)", "");
+			Common.loader();
+			DivisionOrderLocators.AppylButtonClick(driver).click();
+			log.info("Division Order created sucessfully");
+		
+		return driver;
+		
+	}
 }
