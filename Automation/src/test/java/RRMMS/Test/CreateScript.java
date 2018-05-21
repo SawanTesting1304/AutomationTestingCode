@@ -30,7 +30,7 @@ public class CreateScript extends RRMMS.utility.TestBase {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
 	}
-
+/*
 	@Test(priority = 1)
 	public void createAOI() throws Exception {
 		// ------------Prospect Create By Draw Polygon method --------------//
@@ -63,11 +63,13 @@ public class CreateScript extends RRMMS.utility.TestBase {
 		Thread.sleep(2000);
 		Common.loader();
 
-	}
+	}*/
 
-	@Test(priority = 4)
+	@Test(priority = 1)
 	public void CreateProductionUnit() throws Exception {
-		driver.navigate().to(RRMMS_Urls.baseUrl);
+		//driver.navigate().to(RRMMS_Urls.baseUrl);
+		Common.loader();
+		this.driver = Start.logIN();
 		Common.loader();
 		CommonProductionUnit.location(driver);
 		CommonProductionUnit.ProductionUnit(driver);

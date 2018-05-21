@@ -42,7 +42,11 @@ public class WorkFlowLocator {
 		WebElement ProspectDecInt= driver.findElement(By.xpath("//tbody["+f+"]//td[8]//input"));
 		return ProspectDecInt;
 	}
-	
+	public static WebElement ProspectGross(WebDriver driver, int f)
+	{
+		WebElement ProspectDecInt= driver.findElement(By.xpath("//tbody["+f+"]//td[7]//input"));
+		return ProspectDecInt;
+	}
 	public static WebElement UserLoginName(WebDriver driver)
 	{
 		WebElement UserLoginName= driver.findElement(By.xpath("//div[@id='main']/div/div[1]/header/nav[1]/ul/li[2]/a/span[2]"));

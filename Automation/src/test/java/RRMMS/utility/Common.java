@@ -1006,6 +1006,34 @@ public class Common extends Start {
 		}
 		
 	}
+    
+    
+    public static void ClientDataloader() throws InterruptedException
+	{
+		Thread.sleep(5000);
+		try{
+		WebElement load=driver.findElement(By.xpath("html/body/table/tbody/tr[1]/th[1]/a"));
+			if(!load.isDisplayed());
+			System.out.println("Client Data Loading...");
+			Common.waitUntilClientDataLoads(driver);
+		}catch(org.openqa.selenium.NoSuchElementException e)
+		{
+			Common.waitUntilClientDataLoads(driver);
+		}catch(org.openqa.selenium.StaleElementReferenceException e)
+		{
+			Common.waitUntilClientDataLoads(driver);
+		}
+		
+	}
+    
+    public static WebDriver waitUntilClientDataLoads(WebDriver driver) throws InterruptedException{
+		WebDriverWait wait = new WebDriverWait(driver,400);
+		wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("html/body/table/tbody/tr[1]/th[1]/a")));
+		return driver;
+		
+	}
+    
+    
     public static WebDriver logout(WebDriver driver) throws InterruptedException {
 		Common.loader();
 		String UserName = WorkFlowLocator.UserLoginName(driver).getText();
