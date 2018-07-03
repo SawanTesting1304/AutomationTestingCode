@@ -79,8 +79,31 @@ public class AssociationLocator {
 		WebElement DecimalIntrest= driver.findElement(By.id("leaseNMI"+i));
 		return DecimalIntrest;
 	}
+	//--------------------------------------------------------------------------------------------------------------------------------//
+	//Drag and Drop Association Locators
+	//--------------------------------------------------------------------------------------------------------------------------------//
+	public static WebElement MenuAssociationClick(WebDriver driver)
+	{
+		WebElement AssociationClick=driver.findElement(By.xpath("//ul[@id='menu']/li[4]/a/i"));
+		return AssociationClick;
+	}
 	
+	public static WebElement AssetSearchBox(WebDriver driver)
+	{
+		WebElement AssetSearchBox=driver.findElement(By.xpath("//ul[@id='tabs']/li[3]/div/div/div[2]/span[1]/span/input"));
+		return AssetSearchBox;
+	}
 	
+	public static WebElement DragLocation(WebDriver driver, int i)
+	{
+		WebElement DragLocation=driver.findElement(By.xpath("//div[@id='mCSB_4_container']//tr["+i+"]/td[1]/a"));
+		return DragLocation;
+	}
+	public static WebElement DropLocation(WebDriver driver, int i)
+	{
+		WebElement DropLocation=driver.findElement(By.xpath("//div[@id='accordionN0']//tbody["+i+"]/tr[1]//td[9]"));
+		return DropLocation;
+	}
 	
 	
 	

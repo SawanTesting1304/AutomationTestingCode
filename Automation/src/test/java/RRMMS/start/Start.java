@@ -56,6 +56,7 @@ public class Start{
 	public static WebDriver logIN() throws AWTException, InterruptedException, BiffException, IOException
 	{
 			Thread.sleep(5000);
+			Common.loader();
 			Sheet sheet=ExcelData.GetData("Login");
 			LoginLocator.txtFld_rrmms(driver, "Username").sendKeys(sheet.getCell(2,11).getContents());
 			LoginLocator.txtFld_rrmms(driver, "Password").sendKeys(sheet.getCell(3,11).getContents());

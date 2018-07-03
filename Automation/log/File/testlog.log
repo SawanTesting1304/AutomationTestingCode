@@ -1,97 +1,15 @@
-2018-05-18 14:51:18 INFO [main] (CommonClientData.java:166)- Location found
-2018-05-18 14:51:30 INFO [main] (CommonClientData.java:380)- 
-2018-05-18 14:51:30 INFO [main] (CommonClientData.java:398)- Production Unit Well selection Start
-2018-05-18 14:51:50 INFO [main] (CommonClientData.java:423)- 
-2018-05-18 14:51:50 INFO [main] (CommonClientData.java:437)- Tract info popup loaded sucessfully
-2018-05-18 14:51:52 INFO [main] (CommonClientData.java:444)- Total Tract County: 0
-2018-05-18 14:51:52 INFO [main] (CommonClientData.java:475)- Tract Created Sucessessfully
-2018-05-18 14:57:35 INFO [main] (CommonClientData.java:166)- Location found
-2018-05-18 15:06:28 INFO [main] (CommonClientData.java:166)- Location found
-2018-05-18 15:06:40 INFO [main] (CommonClientData.java:380)- 
-2018-05-18 15:06:40 INFO [main] (CommonClientData.java:398)- Production Unit Well selection Start
-2018-05-18 15:06:58 INFO [main] (CommonClientData.java:423)- 
-2018-05-18 15:06:58 INFO [main] (CommonClientData.java:437)- Tract info popup loaded sucessfully
-2018-05-18 15:07:00 INFO [main] (CommonClientData.java:444)- Total Tract County: 0
-2018-05-18 15:07:00 INFO [main] (CommonClientData.java:475)- Tract Created Sucessessfully
-2018-05-18 15:23:18 INFO [main] (CommonClientData.java:166)- Location found
-2018-05-18 15:28:24 INFO [main] (CommonClientData.java:166)- Location found
-2018-05-18 15:34:22 INFO [main] (CommonClientData.java:166)- Location found
-2018-05-18 15:41:22 INFO [main] (CommonClientData.java:168)- Location found
-2018-05-18 15:46:58 INFO [main] (CommonClientData.java:169)- Location found
-2018-05-18 15:52:30 INFO [main] (CommonClientData.java:164)- Location found
-2018-05-18 15:52:41 INFO [main] (CommonClientData.java:378)- 
-2018-05-18 15:52:41 INFO [main] (CommonClientData.java:396)- Production Unit Well selection Start
-2018-05-18 15:53:01 INFO [main] (CommonClientData.java:421)- 
-2018-05-18 15:53:01 INFO [main] (CommonClientData.java:435)- Tract info popup loaded sucessfully
-2018-05-18 16:29:34 INFO [main] (CommonClientData.java:169)- Location found
-2018-05-18 16:29:46 INFO [main] (CommonClientData.java:383)- 
-2018-05-18 16:29:46 INFO [main] (CommonClientData.java:401)- Production Unit Well selection Start
-2018-05-18 16:30:05 INFO [main] (CommonClientData.java:426)- 
-2018-05-18 16:30:05 INFO [main] (CommonClientData.java:440)- Tract info popup loaded sucessfully
-2018-05-18 16:30:07 INFO [main] (CommonClientData.java:447)- Total Tract County: 1
-2018-05-18 16:30:09 INFO [main] (CommonClientData.java:457)- Total Row Found: 1
-2018-05-18 16:30:19 INFO [main] (CommonClientData.java:474)- Tract Subsection Updated
-2018-05-18 16:30:19 INFO [main] (CommonClientData.java:478)- Tract Created Sucessessfully
-2018-05-18 16:35:02 INFO [main] (CommonClientData.java:169)- Location found
-2018-05-18 16:35:13 INFO [main] (CommonClientData.java:383)- 
-2018-05-18 16:35:13 INFO [main] (CommonClientData.java:401)- Production Unit Well selection Start
-2018-05-18 16:35:32 INFO [main] (CommonClientData.java:426)- Production Unit already created!
-2018-05-18 16:35:38 INFO [main] (CommonClientData.java:440)- Tract info popup loaded sucessfully
-2018-05-18 17:33:17 INFO [main] (CommonClientData.java:171)- Location found
-2018-05-18 17:33:29 INFO [main] (CommonClientData.java:385)- 
-2018-05-18 17:33:29 INFO [main] (CommonClientData.java:403)- Production Unit Well selection Start
-2018-05-18 17:33:48 INFO [main] (CommonClientData.java:428)- 
-2018-05-18 17:33:48 INFO [main] (CommonClientData.java:442)- Tract info popup loaded sucessfully
-2018-05-18 17:33:50 INFO [main] (CommonClientData.java:449)- Total Tract County: 0
-2018-05-18 17:33:50 INFO [main] (CommonClientData.java:480)- Tract Created Sucessessfully
-2018-05-18 17:40:01 INFO [main] (CommonClientData.java:171)- Location found
-2018-05-18 17:40:12 INFO [main] (CommonClientData.java:385)- 
-2018-05-18 17:40:12 INFO [main] (CommonClientData.java:403)- Production Unit Well selection Start
-2018-05-18 17:40:31 INFO [main] (CommonClientData.java:428)- 
-2018-05-18 17:40:31 INFO [main] (CommonClientData.java:442)- Tract info popup loaded sucessfully
-2018-05-18 17:40:33 INFO [main] (CommonClientData.java:449)- Total Tract County: 0
-2018-05-18 17:40:33 INFO [main] (CommonClientData.java:480)- Tract Created Sucessessfully
-2018-05-18 18:07:43 INFO [main] (CommonClientData.java:171)- Location found
-2018-05-18 18:07:54 INFO [main] (CommonClientData.java:385)- 
-2018-05-18 18:07:54 INFO [main] (CommonClientData.java:403)- Production Unit Well selection Start
-2018-05-18 18:08:13 INFO [main] (CommonClientData.java:428)- 
-2018-05-18 18:08:13 INFO [main] (CommonClientData.java:442)- Tract info popup loaded sucessfully
-2018-05-18 18:08:15 INFO [main] (CommonClientData.java:449)- Total Tract County: 0
-2018-05-18 18:08:15 INFO [main] (CommonClientData.java:480)- Tract Created Sucessessfully
-2018-05-18 18:38:26 INFO [main] (CommonClientData.java:172)- Location found
-2018-05-18 18:38:38 INFO [main] (CommonClientData.java:386)- 
-2018-05-18 18:38:38 INFO [main] (CommonClientData.java:404)- Production Unit Well selection Start
-2018-05-18 18:38:57 INFO [main] (CommonClientData.java:429)- 
-2018-05-18 18:38:57 INFO [main] (CommonClientData.java:443)- Tract info popup loaded sucessfully
-2018-05-18 18:38:59 INFO [main] (CommonClientData.java:450)- Total Tract County: 0
-2018-05-18 18:38:59 INFO [main] (CommonClientData.java:481)- Tract Created Sucessessfully
-2018-05-18 18:49:01 INFO [main] (CommonClientData.java:172)- Location found
-2018-05-18 18:49:12 INFO [main] (CommonClientData.java:386)- 
-2018-05-18 18:49:12 INFO [main] (CommonClientData.java:404)- Production Unit Well selection Start
-2018-05-18 18:49:31 INFO [main] (CommonClientData.java:429)- 
-2018-05-18 18:49:31 INFO [main] (CommonClientData.java:443)- Tract info popup loaded sucessfully
-2018-05-18 18:49:33 INFO [main] (CommonClientData.java:450)- Total Tract County: 0
-2018-05-18 18:49:33 INFO [main] (CommonClientData.java:481)- Tract Created Sucessessfully
-2018-05-18 18:58:23 INFO [main] (CommonClientData.java:172)- Location found
-2018-05-18 19:03:57 INFO [main] (CommonClientData.java:172)- Location found
-2018-05-18 19:04:09 INFO [main] (CommonClientData.java:386)- 
-2018-05-18 19:04:09 INFO [main] (CommonClientData.java:404)- Production Unit Well selection Start
-2018-05-18 19:10:56 INFO [main] (CommonClientData.java:172)- Location found
-2018-05-18 19:11:07 INFO [main] (CommonClientData.java:386)- 
-2018-05-18 19:11:07 INFO [main] (CommonClientData.java:404)- Production Unit Well selection Start
-2018-05-18 19:11:26 INFO [main] (CommonClientData.java:429)- 
-2018-05-18 19:11:26 INFO [main] (CommonClientData.java:443)- Tract info popup loaded sucessfully
-2018-05-18 19:11:28 INFO [main] (CommonClientData.java:450)- Total Tract County: 1
-2018-05-18 19:11:30 INFO [main] (CommonClientData.java:460)- Total Row Found: 7
-2018-05-18 19:19:03 INFO [main] (CommonClientData.java:172)- Location found
-2018-05-18 19:19:14 INFO [main] (CommonClientData.java:386)- 
-2018-05-18 19:19:14 INFO [main] (CommonClientData.java:404)- Production Unit Well selection Start
-2018-05-18 19:19:33 INFO [main] (CommonClientData.java:429)- 
-2018-05-18 19:19:33 INFO [main] (CommonClientData.java:443)- Tract info popup loaded sucessfully
-2018-05-18 19:19:35 INFO [main] (CommonClientData.java:450)- Total Tract County: 1
-2018-05-18 19:19:37 INFO [main] (CommonClientData.java:460)- Total Row Found: 7
-2018-05-18 19:20:44 INFO [main] (CommonClientData.java:477)- Tract Subsection Updated
-2018-05-18 19:20:44 INFO [main] (CommonClientData.java:481)- Tract Created Sucessessfully
-2018-05-18 19:24:55 INFO [main] (CommonClientData.java:172)- Location found
-2018-05-18 19:25:06 INFO [main] (CommonClientData.java:386)- 
-2018-05-18 19:25:06 INFO [main] (CommonClientData.java:404)- Production Unit Well selection Start
+2018-06-19 15:53:19 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 17:08:03 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 17:16:16 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 17:34:57 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 17:37:18 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 17:42:51 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 18:26:48 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 18:34:10 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 18:41:10 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 18:55:14 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 19:12:44 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 19:12:44 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 19:17:17 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 20:38:07 INFO [main] (Association.java:47)- Logged In sucessfully
+2018-06-19 20:39:56 INFO [main] (Association.java:47)- Logged In sucessfully

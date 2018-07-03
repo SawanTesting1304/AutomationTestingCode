@@ -22,6 +22,7 @@ import RRMMS.locators.CreateProspectLocator;
 import RRMMS.locators.LeaseLocator;
 import RRMMS.locators.WorkFlowLocator;
 import RRMMS.modules.CommonAssociation;
+import RRMMS.modules.CommonDragAndDropAssociation;
 import RRMMS.start.Start;
 import RRMMS.utility.Common;
 import RRMMS.utility.ScreenShots;
@@ -45,7 +46,7 @@ public class Association extends RRMMS.utility.TestBase {
 		this.driver = Start.logIN();
 		log.info("Logged In sucessfully");
 		ScreenShots.screenshots(driver, "Work Flow");
-		CommonAssociation.SearchLocation(driver);
+		/*CommonAssociation.SearchLocation(driver);
 		CommonAssociation.ProspectPopUp(driver);
 		Common.loader();
 		CommonAssociation.createLease(driver);
@@ -56,7 +57,9 @@ public class Association extends RRMMS.utility.TestBase {
 		Thread.sleep(3000);
 		CommonAssociation.Association(driver);
 		Common.loader();
-		CommonAssociation.LeaseRoyality(driver);
+		CommonAssociation.LeaseRoyality(driver);*/
+		
+		CommonDragAndDropAssociation.DragAndDropAssociation(driver);
 	}
 
 }
