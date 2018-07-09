@@ -3,14 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="RRMMS.Test.Association">
+      <class name="RRMMS.Test.EditProductionUnit">
         <methods>
-          <include name="beforeMethod"/>
-          <include name="afterMethod"/>
-          <include name="endTest"/>
-          <include name="AssociationMain"/>
+          <include name="ProductionUnitEdit"/>
         </methods>
-      </class> <!-- RRMMS.Test.Association -->
+      </class> <!-- RRMMS.Test.EditProductionUnit -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

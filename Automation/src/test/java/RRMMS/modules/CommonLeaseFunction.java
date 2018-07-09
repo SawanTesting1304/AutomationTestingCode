@@ -80,22 +80,22 @@ public class CommonLeaseFunction {
 		LeaseLocator.Header(driver, 3).click();
 		// CreateProspectLocator.ElementID(driver,
 		// "fullname").sendKeys("Test "+Common.randomNumber());
-		LeaseLocator.TextBoxName(driver, "Lessor_input").click();
-		Common.selectFromList();
+		LeaseLocator.TextBoxName(driver, "Lessor").sendKeys("Test Lessor "+Common.randomNumber());
+		/*Common.selectFromList();*/
 		Thread.sleep(1000);
 		LeaseLocator.TextBoxName(driver, "Operator_input").click();
 		Common.selectFromList();
-		LeaseLocator.TextBoxName(driver, "Lessee_input").click();
-		Common.selectFromList();
+		LeaseLocator.TextBoxName(driver, "Lessee").sendKeys("Test Lessee "+Common.randomNumber());
+		/*Common.selectFromList();*/
 		LeaseLocator.TextBoxName(driver, "Status_input").click();
 		Common.selectFromList();
-		LeaseLocator.TextBoxName(driver, "TermUnit_input").click();
-		Common.selectFromList();
+		/*LeaseLocator.TextBoxName(driver, "TermUnit_input").click();
+		Common.selectFromList();*/
 		LeaseLocator.ElementID(driver, "Royalty").sendKeys(
 				"" + Common.randomDecimalNumber());
 
-		LeaseLocator.ElementID(driver, "Term").sendKeys(
-				"" + Common.randomNumber2to10());
+		/*LeaseLocator.ElementID(driver, "Term").sendKeys(
+				"" + Common.randomNumber2to10());*/
 		LeaseLocator.ElementID(driver, "LDescription").sendKeys(
 				"Test Description " + Common.randomNumber());
 		ScreenShots.screenshots(driver, "Lease");
@@ -243,7 +243,7 @@ public class CommonLeaseFunction {
 		// Thread.sleep(25000);
 		// LeaseLocator.OpenTract(driver).click();
 		try {
-			for (int j = 0; j <= 3; j++) {
+			for (int j = 1; j <= 4; j++) {
 				try {
 					Thread.sleep(1000);
 					// CreateProspectLocator.OpenCounty(driver, j).click();
@@ -280,6 +280,53 @@ public class CommonLeaseFunction {
 
 	}
     
+    //Clone Lease
+    
+    public static WebDriver CloneLease(WebDriver driver)throws Exception {
+		
+    	Common.loader();
+    	
+    	LeaseLocator.ActionButtonClick(driver).click();
+    	Actions action = new Actions(driver);
+    	WebElement we = LeaseLocator.ActionListClick(driver, 2);
+		action.moveToElement(we).build().perform();
+		// ----------Mouse Hover to Clone option END-----//
+		Thread.sleep(2000);
+		LeaseLocator.CloneOptinoClick(driver).click();
+		Thread.sleep(2000);
+		LeaseLocator.UncheckedCloneOption(driver, 3).click();
+		System.out.println("Lease clone option unchecked sucessfully");
+		Thread.sleep(2000);
+		LeaseLocator.ClickCloneButton(driver).click();
+		try{
+			System.out.println("Try");
+			Common.loader();
+			Thread.sleep(2000);
+			LeaseLocator.Header(driver, 3);
+			Thread.sleep(2000);
+			LeaseLocator.SaveLease(driver).click();
+		}
+		catch(org.openqa.selenium.ElementNotVisibleException e)
+		{
+			Common.loader();
+			Thread.sleep(2000);
+			System.out.println("Save Click");
+			LeaseLocator.SaveLease(driver).click();
+		}
+		
+		
+    	
+		return driver;
+
+	}
+    
+    
+    //Clone Lease End
+    
+    
+    
+    
+    
     public static int CountyCount() {
 		List<WebElement> Table_Row = driver
 				.findElements(By
@@ -288,5 +335,6 @@ public class CommonLeaseFunction {
 		System.out.println("Total County: " + (County - 1));
 		return County - 1;
 	}
+    
 
 }

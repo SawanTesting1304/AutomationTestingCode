@@ -96,7 +96,7 @@ public class AssociationLocator {
 	
 	public static WebElement DragLocation(WebDriver driver, int i)
 	{
-		WebElement DragLocation=driver.findElement(By.xpath("//div[@id='mCSB_4_container']//tr["+i+"]/td[1]/a"));
+		WebElement DragLocation=driver.findElement(By.xpath("//div[@id='mCSB_4_container']//tr["+i+"]/td[5]"));
 		return DragLocation;
 	}
 	public static WebElement DropLocation(WebDriver driver, int i)
@@ -104,8 +104,16 @@ public class AssociationLocator {
 		WebElement DropLocation=driver.findElement(By.xpath("//div[@id='accordionN0']//tbody["+i+"]/tr[1]//td[9]"));
 		return DropLocation;
 	}
-	
-	
+	public static WebElement Filtertoggel(WebDriver driver)
+	{
+		WebElement Filtertoggel=driver.findElement(By.xpath("//div[@id='accordion00a1']//div[1]//div[1]//div/label[@for='myonoffswitch5']"));
+		return Filtertoggel;
+	}
+	public static WebElement ExpandTract(WebDriver driver)
+	{
+		WebElement ExpandTract=driver.findElement(By.xpath("//tr[@id='35206']/td[1]/a"));
+		return ExpandTract;
+	}
 	
 	
 	

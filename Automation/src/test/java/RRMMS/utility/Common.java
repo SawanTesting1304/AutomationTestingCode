@@ -830,9 +830,9 @@ public class Common extends Start {
     public static void selectAnyFromList(int y) throws AWTException, InterruptedException
 	{
 		Robot rb= new Robot();
-		Thread.sleep(500);
+		
 		int num=y;
-		for(int i=y;i<=num;i++)
+		for(int i=1;i<=num;i++)
 		{
 			rb.keyPress(KeyEvent.VK_DOWN);
 			rb.keyRelease(KeyEvent.VK_DOWN);
@@ -1001,6 +1001,9 @@ public class Common extends Start {
 		{
 			Common.waitUntilLoads(driver);
 		}catch(org.openqa.selenium.StaleElementReferenceException e)
+		{
+			Common.waitUntilLoads(driver);
+		}catch(org.openqa.selenium.WebDriverException e)
 		{
 			Common.waitUntilLoads(driver);
 		}

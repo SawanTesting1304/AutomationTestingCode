@@ -20,6 +20,7 @@ import RRMMS.locators.AssociationLocator;
 import RRMMS.locators.CreateProspectLocator;
 import RRMMS.locators.LeaseLocator;
 import RRMMS.locators.ProductionUnitLocator;
+import RRMMS.start.Start;
 import RRMMS.utility.Common;
 import RRMMS.utility.Log;
 import RRMMS.utility.ScreenShots;
@@ -33,19 +34,28 @@ public class CommonProductionUnit {
 	static Logger log = Logger.getLogger(CreateProspect.class.getClass());
 	public static WebDriver location(WebDriver driver) throws Exception
 	{
-		rb = new Robot();
+		/*driver.navigate().to(RRMMS_Urls.baseUrl);*/
+		Robot rb = new Robot();
 		Actions action = new Actions(driver);
+		Thread.sleep(3000);
 		Common.loader();
 		// Common.waitUntilLoads(driver);
+		
 		WebElement map = driver.findElement(By
 				.xpath("//div[@id='map']/div[2]/canvas"));
+		//Thread.sleep(3000);
 		Common.loader();
+		// Common.waitUntilLoads(driver);
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").click();
 		Thread.sleep(2000);
 		try {
 			System.out.println("try");
-			CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
-					"Tract");
+			/*CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
+					"Tract");*/
+			for (int i = 1; i <= 5; i++) {
+				rb.keyPress(KeyEvent.VK_DOWN);
+				rb.keyRelease(KeyEvent.VK_DOWN);
+			}
 
 		} catch (org.openqa.selenium.NoSuchElementException exception) {
 			for (int i = 1; i <= 5; i++) {
@@ -59,12 +69,7 @@ public class CommonProductionUnit {
 		rb.keyRelease(KeyEvent.VK_ENTER);
 		Thread.sleep(2000);
 		Sheet sheet = ExcelData.GetData("Location");
-		
-		if(n==1)
-		{
-			row= Common.randomNumber2to10();
-			n++;
-		}
+		int row = Common.randomNumber2to10();
 		System.out.println(row);
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
 				" " + sheet.getCell(2, row).getContents());
@@ -77,30 +82,32 @@ public class CommonProductionUnit {
 		Common.loader();
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
 				" " + sheet.getCell(4, row).getContents());
-		Common.loader();
-		rb.keyPress(KeyEvent.VK_ENTER);
-		rb.keyRelease(KeyEvent.VK_ENTER);
-		Common.loader();
+		Thread.sleep(1000);
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
 				" " + sheet.getCell(5, row).getContents());
+		Thread.sleep(1000);
+		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
+				"" + sheet.getCell(6, row).getContents());
 		Common.loader();
 		rb.keyPress(KeyEvent.VK_ENTER);
 		rb.keyRelease(KeyEvent.VK_ENTER);
-		
-		for (int i = 0; i <= 1; i++)
-		{
-			action.moveToElement(map, 688, 382).doubleClick().perform();
-		}
-
+		Thread.sleep(1000);
+		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
+				" " + sheet.getCell(7, row).getContents());
 		Common.loader();
-		action.moveToElement(map, 923, 337).click().perform();
+		rb.keyPress(KeyEvent.VK_ENTER);
+		rb.keyRelease(KeyEvent.VK_ENTER);
+		Common.loader();
+		
+		
+		action.moveToElement(map, 675, 268).click().perform();
 
 		log.info("Location found");
 		// ----------Right Click for selected area--------------//
 		Thread.sleep(3000);
-		action.moveToElement(map, 923, 337).contextClick().perform();
+		action.moveToElement(map, 675, 268).contextClick().perform();
 		ScreenShots.screenshots(driver, "Work Flow");
-		// ----------Right Click for selected area end--------------//
+		
 		return driver;
 	}
 
@@ -203,11 +210,11 @@ public class CommonProductionUnit {
 		
 	}
 	
-	public static WebDriver Association(WebDriver driver) throws InterruptedException {
-		/*
+	/*public static WebDriver Association(WebDriver driver) throws InterruptedException {
+		
 		 * ================================Association============================
 		 * ================
-		 */
+		 
 		
 		Thread.sleep(2000);
 		Common.loader();
@@ -219,9 +226,9 @@ public class CommonProductionUnit {
 		AssociationLocator.AssociationOpenLink(driver).click();
 		Thread.sleep(2000);
 		
-		/*  List<WebElement> List_size =
+		  List<WebElement> List_size =
 		  driver.findElements(By.xpath("//li[@id='lientity']/a")); 
-		  int thCount= List_size.size(); System.out.println("Total Tract in List: " +(thCount));*/
+		  int thCount= List_size.size(); System.out.println("Total Tract in List: " +(thCount));
 		 
 		try {
 			for (int i = 1; i <= 5; i++) {
@@ -262,7 +269,7 @@ public class CommonProductionUnit {
 		log.info("Association Completed");
 		Thread.sleep(2000);
 		return driver;
-	}	
+	}*/	
 	public static WebDriver ProductionUnit(WebDriver driver) throws Exception {
 		// -----------ProductionUnit button click start------------//
 		Thread.sleep(2000);
@@ -408,5 +415,96 @@ public class CommonProductionUnit {
 		// ------------Tract --------------//
 		// -----------ProductionUnit button click end------------//
 		
+	}
+	
+	public static WebDriver EditProductionUnit(WebDriver driver)throws Exception
+	{
+		Common.loader();
+		Robot rb=new Robot();
+		// Common.waitUntilLoads(driver);
+		/*WebElement map = driver.findElement(By
+				.xpath("//div[@id='map']/div[2]/canvas"));*/
+		CreateProspectLocator.ElementID(driver, "smartsearchbox").click();
+		Common.loader();
+		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys("ProductionUnit ");
+		
+			/*for (int i = 1; i <= 7; i++) {
+				Thread.sleep(200);
+				rb.keyPress(KeyEvent.VK_DOWN);
+				rb.keyRelease(KeyEvent.VK_DOWN);
+			}*/
+			Thread.sleep(2000);
+			//Start.getDriverInstance();
+			
+			Common.loader();
+			Common.selectAnyFromList(30);
+			//Common.selectFromList();
+			Thread.sleep(2000);
+			rb.keyPress(KeyEvent.VK_ENTER);
+			rb.keyRelease(KeyEvent.VK_ENTER);
+			Common.loader();
+			Common.loader();
+			CreateProspectLocator.ActionButtonClick(driver).click();
+			Actions action = new Actions(driver);
+	    	WebElement we = ProductionUnitLocator.ActionListClick(driver, 1);
+			action.moveToElement(we).build().perform();
+			// ----------Mouse Hover to Clone option END-----//
+			Thread.sleep(2000);
+			ProductionUnitLocator.EditPUOptinoClick(driver).click();
+			Thread.sleep(2000);
+			
+			//Edit production unit pop up
+			
+			Common.loader();
+			ProductionUnitLocator.PuHeader(driver).click();
+			Thread.sleep(2000);
+			ProductionUnitLocator.Putype(driver).click();
+			Thread.sleep(700);
+			rb.keyPress(KeyEvent.VK_DOWN);
+			rb.keyRelease(KeyEvent.VK_DOWN);
+			rb.keyPress(KeyEvent.VK_ENTER);
+			rb.keyRelease(KeyEvent.VK_ENTER);
+			Thread.sleep(2000);
+			ProductionUnitLocator.PuRelationShip(driver).click();
+			Thread.sleep(2000);
+			Common.selectFromPUList();
+			Thread.sleep(2000);
+			Common.loader();
+			Thread.sleep(2000);
+			try{
+			ProductionUnitLocator.PuSave(driver).click();
+			}catch(org.openqa.selenium.NoSuchElementException exception)
+			{
+				log.info("Production unit Updated Sucessessfully");
+			}catch(org.openqa.selenium.ElementNotVisibleException e)
+			{
+				log.info("Production unit Updated Sucessessfully");
+			}
+			
+			log.info("Production unit Updated Sucessessfully");
+			Common.loader();
+		return driver;
+	}
+	
+	public static WebDriver PU_MathDownload(WebDriver driver)throws Exception
+	{
+		Robot rb=new Robot();
+		Common.loader();
+		// Common.waitUntilLoads(driver);
+		Common.loader();
+			CreateProspectLocator.ActionButtonClick(driver).click();
+			Actions action = new Actions(driver);
+			Thread.sleep(2000);
+	    	ProductionUnitLocator.ActionListClick(driver, 2).click();
+			Common.loader();
+			Thread.sleep(2000);
+			rb.keyPress(KeyEvent.VK_ENTER);
+			rb.keyRelease(KeyEvent.VK_ENTER);
+			Thread.sleep(2000);
+			
+			log.info("Production unit math Downloaded Sucessessfully");
+			
+			
+		return driver;
 	}
 }

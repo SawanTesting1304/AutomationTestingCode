@@ -67,12 +67,13 @@ public class CreateProspectLocator {
 	}
 	public static WebElement HeadCount(WebDriver driver, int i)
 	{
-		WebElement HeadCount= driver.findElement(By.xpath("//div[@id='accordion"+i+"']/div/a/h4/span[3]"));
+		WebElement HeadCount= driver.findElement(By.xpath("//div[@id='accordion"+i+"']/div/a/h4/span[2]"));
 		return HeadCount;
 	}
 	public static WebElement QtrCallClick(WebDriver driver,int i, int r)
 	{
 		WebElement QtrCallClick= driver.findElement(By.xpath("//div[@id='accordion"+i+"']//tbody["+r+"]/tr[1]/td[@id='qtrcall']//a/img"));
+		//WebElement QtrCallClick= driver.findElement(By.xpath("//div[2]/div[2]/div[2]/div/div/div/div/div/div/div["+i+1+"]//form/table/tbody["+r+"]/tr/td[4]/div/a/img"));
 		return QtrCallClick;
 	}
 	public static WebElement Map(WebDriver driver)
@@ -199,6 +200,13 @@ public class CreateProspectLocator {
 		return TractInputField;
 	}
 	
+	public static WebElement TractTDField(WebDriver driver, int i, int j, String id)
+	{
+		WebElement TractTDField=driver.findElement(By.xpath("//div[@id='collapseNewND"+i+"']//tbody["+j+"]//td[@id='"+id+"']/span"));
+		return TractTDField;
+	}
+	//div[@id='collapseNewND0']//tbody[1]//td[@id='NRA']/span
+
 	public static WebElement EditTractAddClick(WebDriver driver)
 	{
 		WebElement EditTractAddClick=driver.findElement(By.xpath("//div[@id='createDiv']/button"));
@@ -285,6 +293,23 @@ public class CreateProspectLocator {
 	{
 		WebElement SwitchIntTab=driver.findElement(By.xpath("//div[@id='media']/div/div/div/ul/li["+i+"]/a"));
 		return SwitchIntTab;
+	}
+	
+	/*public static WebElement ActionButtonClick(WebDriver driver)
+	{
+		WebElement ActionButtonClick=driver.findElement(By.xpath("//div[@id='fixed-stat']/h1/div[2]/div/a/i"));
+		return ActionButtonClick;
+	}*/
+	public static WebElement FixedFlotingIconClick(WebDriver driver, int j, int i,String id)
+	{
+		WebElement FixedFlotingIconClick=driver.findElement(By.xpath("//div[@id='collapseNewND"+j+"']//tbody["+i+"]//td[@id='"+id+"']/div/a/i"));
+		return FixedFlotingIconClick;
+	}
+	
+	public static WebElement FixedOrFlotingOptionClick(WebDriver driver, int i, int j, int k, String id)
+	{
+		WebElement FixedOrFlotingOptionClick=driver.findElement(By.xpath("//div[@id='collapseNewND"+j+"']//tbody["+i+"]//td[@id='"+id+"']/div/ul/li["+k+"]/a"));
+		return FixedOrFlotingOptionClick;
 	}
 	
 }

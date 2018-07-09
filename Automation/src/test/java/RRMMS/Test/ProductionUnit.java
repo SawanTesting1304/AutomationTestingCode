@@ -55,7 +55,7 @@ public class ProductionUnit extends RRMMS.utility.TestBase{
 		CommonProductionUnit.location(driver);
 		CommonProspectFunctions.ProspectPopUp(driver);
 		CommonProductionUnit.createLease(driver);
-		CommonProductionUnit.Association(driver);
+		//CommonProductionUnit.Association(driver);
 		CommonProductionUnit.ProductionUnit(driver);
 		
 		//driver.close();

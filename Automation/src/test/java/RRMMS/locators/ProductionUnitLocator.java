@@ -74,6 +74,15 @@ public class ProductionUnitLocator {
 		return PuName;
 	}
 	
-	
+	public static WebElement ActionListClick(WebDriver driver, int i)
+	{
+		WebElement ActionListClick=driver.findElement(By.xpath("//div[@id='fixed-stat']/h1/div[2]/div[1]/ul/li["+i+"]/a"));
+		return ActionListClick;
+	}
+	public static WebElement EditPUOptinoClick(WebDriver driver)
+	{
+		WebElement CloneOptinoClick=driver.findElement(By.xpath("//div[@id='fixed-stat']/h1/div[2]/div/ul/li[1]/ul/li/a"));
+		return CloneOptinoClick;
+	}
 	
 }

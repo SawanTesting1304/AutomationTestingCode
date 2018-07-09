@@ -40,7 +40,20 @@ public class WorkFlowLocator {
 	public static WebElement ProspectDecInt(WebDriver driver, int f)
 	{
 		WebElement ProspectDecInt= driver.findElement(By.xpath("//tbody["+f+"]//td[8]//input"));
+		//WebElement ProspectDecInt= driver.findElement(By.xpath("//div[2]/div[2]/div[2]/div/div/div/div/div/div/div["+i+1+"]//form/table/tbody["+f+"]/tr/td[8]//input"));
+		
 		return ProspectDecInt;
+	}
+	public static WebElement ProspectNRI(WebDriver driver, int f)
+	{
+		WebElement ProspectNRI= driver.findElement(By.xpath("//tbody["+f+"]//td[10]//input"));
+		//WebElement ProspectNRI= driver.findElement(By.xpath("//div[2]/div[2]/div[2]/div/div/div/div/div/div/div["+i+1+"]//form/table/tbody["+f+"]/tr/td[10]//input"));
+		return ProspectNRI;
+	}
+	public static WebElement ProspectNPRI(WebDriver driver, int f)
+	{
+		WebElement ProspectNRI= driver.findElement(By.xpath("//tbody["+f+"]//td[13]//input"));
+		return ProspectNRI;
 	}
 	public static WebElement ProspectGross(WebDriver driver, int f)
 	{

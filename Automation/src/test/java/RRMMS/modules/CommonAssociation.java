@@ -33,30 +33,42 @@ public class CommonAssociation {
 	
 	public static WebDriver SearchLocation(WebDriver driver) throws Exception
 	{
+		/*driver.navigate().to(RRMMS_Urls.baseUrl);*/
 		Robot rb = new Robot();
 		Actions action = new Actions(driver);
-		Thread.sleep(2000);
-		
+		Thread.sleep(3000);
 		Common.loader();
+		// Common.waitUntilLoads(driver);
+		
 		WebElement map = driver.findElement(By
 				.xpath("//div[@id='map']/div[2]/canvas"));
-		Thread.sleep(7000);
-		ScreenShots.screenshots(driver, "Work Flow");
+		//Thread.sleep(3000);
+		Common.loader();
+		// Common.waitUntilLoads(driver);
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").click();
 		Thread.sleep(2000);
-		for (int i = 1; i <= 5; i++) {
-			rb.keyPress(KeyEvent.VK_DOWN);
-			rb.keyRelease(KeyEvent.VK_DOWN);
+		try {
+			System.out.println("try");
+			/*CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
+					"Tract");*/
+			for (int i = 1; i <= 5; i++) {
+				rb.keyPress(KeyEvent.VK_DOWN);
+				rb.keyRelease(KeyEvent.VK_DOWN);
+			}
+
+		} catch (org.openqa.selenium.NoSuchElementException exception) {
+			for (int i = 1; i <= 5; i++) {
+				rb.keyPress(KeyEvent.VK_DOWN);
+				rb.keyRelease(KeyEvent.VK_DOWN);
+			}
+
+			System.out.println("Catch");
 		}
 		rb.keyPress(KeyEvent.VK_ENTER);
 		rb.keyRelease(KeyEvent.VK_ENTER);
 		Thread.sleep(2000);
 		Sheet sheet = ExcelData.GetData("Location");
-		if(mCount==1)
-		{
-			row = Common.randomNumber2to10();
-			mCount++;
-		}
+		int row = Common.randomNumber2to10();
 		System.out.println(row);
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
 				" " + sheet.getCell(2, row).getContents());
@@ -69,30 +81,32 @@ public class CommonAssociation {
 		Common.loader();
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
 				" " + sheet.getCell(4, row).getContents());
-		Common.loader();
-		rb.keyPress(KeyEvent.VK_ENTER);
-		rb.keyRelease(KeyEvent.VK_ENTER);
-		Common.loader();
+		Thread.sleep(1000);
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
 				" " + sheet.getCell(5, row).getContents());
+		Thread.sleep(1000);
+		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
+				"" + sheet.getCell(6, row).getContents());
 		Common.loader();
 		rb.keyPress(KeyEvent.VK_ENTER);
 		rb.keyRelease(KeyEvent.VK_ENTER);
+		Thread.sleep(1000);
+		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
+				" " + sheet.getCell(7, row).getContents());
+		Common.loader();
+		rb.keyPress(KeyEvent.VK_ENTER);
+		rb.keyRelease(KeyEvent.VK_ENTER);
+		Common.loader();
 		
-		for (int i = 0; i <= 1; i++)
-		{
-			action.moveToElement(map, 688, 382).doubleClick().perform();
-		}
-
-		Thread.sleep(7000);
-		action.moveToElement(map, 923, 337).click().perform();
+		
+		action.moveToElement(map, 675, 268).click().perform();
 
 		log.info("Location found");
 		// ----------Right Click for selected area--------------//
 		Thread.sleep(3000);
-		action.moveToElement(map, 923, 337).contextClick().perform();
+		action.moveToElement(map, 675, 268).contextClick().perform();
 		ScreenShots.screenshots(driver, "Work Flow");
-		// ----------Right Click for selected area end--------------//
+		
 		return driver;
 	}
 

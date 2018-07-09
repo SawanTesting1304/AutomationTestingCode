@@ -44,8 +44,12 @@ public class CommonProspectFunctions {
 		Thread.sleep(2000);
 		try {
 			System.out.println("try");
-			CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
-					"Tract");
+			/*CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
+					"Tract");*/
+			for (int i = 1; i <= 5; i++) {
+				rb.keyPress(KeyEvent.VK_DOWN);
+				rb.keyRelease(KeyEvent.VK_DOWN);
+			}
 
 		} catch (org.openqa.selenium.NoSuchElementException exception) {
 			for (int i = 1; i <= 5; i++) {
@@ -72,29 +76,32 @@ public class CommonProspectFunctions {
 		Common.loader();
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
 				" " + sheet.getCell(4, row).getContents());
-		Common.loader();
-		rb.keyPress(KeyEvent.VK_ENTER);
-		rb.keyRelease(KeyEvent.VK_ENTER);
-		Common.loader();
+		Thread.sleep(1000);
 		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
 				" " + sheet.getCell(5, row).getContents());
+		Thread.sleep(1000);
+		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
+				"" + sheet.getCell(6, row).getContents());
+		Common.loader();
+		rb.keyPress(KeyEvent.VK_ENTER);
+		rb.keyRelease(KeyEvent.VK_ENTER);
+		Thread.sleep(1000);
+		CreateProspectLocator.ElementID(driver, "smartsearchbox").sendKeys(
+				" " + sheet.getCell(7, row).getContents());
 		Common.loader();
 		rb.keyPress(KeyEvent.VK_ENTER);
 		rb.keyRelease(KeyEvent.VK_ENTER);
 		Common.loader();
-		for (int i = 0; i <= 1; i++) {
-			action.moveToElement(map, 688, 382).doubleClick().perform();
-		}
-
-		Thread.sleep(7000);
-		action.moveToElement(map, 923, 337).click().perform();
+		
+		
+		action.moveToElement(map, 675, 268).click().perform();
 
 		log.info("Location found");
 		// ----------Right Click for selected area--------------//
 		Thread.sleep(3000);
-		action.moveToElement(map, 923, 337).contextClick().perform();
+		action.moveToElement(map, 675, 268).contextClick().perform();
 		ScreenShots.screenshots(driver, "Work Flow");
-		// ----------Right Click for selected area end--------------//
+		
 		return driver;
 	}
 	
@@ -188,6 +195,96 @@ public class CommonProspectFunctions {
 		return driver;
 	}
 	
+	
+	public static WebDriver ProspectPopUpNRI(WebDriver driver) throws Exception {
+		// -----------ProspectButton------------//
+		Thread.sleep(3000);
+		CreateProspectLocator.CreateProspectButton(driver).click();
+
+		// ------------Tract --------------//
+		log.info("Tract info popup loaded sucessfully");
+		ScreenShots.screenshots(driver, "Work Flow");
+
+		// CreateProspectLocator.HeadCount(driver, i).getText();
+		Thread.sleep(2000);
+		List<WebElement> head_table = driver.findElements(By.xpath("//div/div/div/div/form/table/thead"));
+		int thCount = head_table.size();
+		System.out.println("Total Tract County: " + (thCount));
+		log.info("Total Tract County: " + (thCount));
+		for (int i = 0; i < thCount; i++) {
+			Thread.sleep(2000);
+			try{
+			String TotalRecord = CreateProspectLocator.HeadCount(driver, i)
+					.getText();
+			String Count = Common.Trim(TotalRecord);
+			int num = Integer.parseInt(Count);
+			System.out.println("ROW: " + num);
+			log.info("Total Row Found: " + num);
+
+			// ---------Select Subsection Pop up-----------------//
+			for (int r = 0; r <= num - 1; r++) {
+				Thread.sleep(2000);
+				CreateProspectLocator.QtrCallClick(driver, i , r+1).click();
+				Thread.sleep(2000);
+				CreateProspectLocator.subsectionSelect(driver,
+						(Common.randomNumber2to10() - 1)).click();
+				Thread.sleep(2000);
+				CreateProspectLocator.subsectionOKButton(driver).click();
+				Thread.sleep(2000);
+				/*WorkFlowLocator.ProspectNetRoyAcer(driver, r).sendKeys(
+						"" + Common.randomNumber());*/
+				Thread.sleep(2000);
+				WorkFlowLocator.ProspectNRI(driver, r+1).clear();
+				WorkFlowLocator.ProspectNRI(driver, r+1).sendKeys(
+						"" + Common.randomDecimalNumber());
+				Thread.sleep(2000);
+			}
+			}catch(org.openqa.selenium.NoSuchElementException e)
+			{
+				System.out.println("Catch");
+			}
+			log.info("Tract Subsection Updated");
+			ScreenShots.screenshots(driver, "Prospect");
+			// ---------Select Subsection Pop up End-----------------//
+			ScreenShots.screenshots(driver, "Work Flow");
+		}
+		log.info("Tract Created Sucessessfully");
+		// ------------Tract End--------------//
+
+		// ------------Tract Header--------------//
+		log.info("Switch to Tract header sucessfully");
+		ScreenShots.screenshots(driver, "Work Flow");
+		Thread.sleep(1000);
+		CreateProspectLocator.Header(driver, 3).click();
+		CreateProspectLocator.ElementID(driver, "fullname").sendKeys(
+				"Test " + Common.randomNumber());
+		CreateProspectLocator.TextBoxName(driver, "Source_input").click();
+		Common.selectFromList();
+		Thread.sleep(1000);
+		CreateProspectLocator.TextBoxName(driver, "play_input").click();
+		Common.selectFromList();
+		CreateProspectLocator.TextBoxName(driver, "seller_input").click();
+		Common.selectFromList();
+		CreateProspectLocator.TextBoxName(driver, "buyer_input").click();
+		Common.selectFromList();
+		CreateProspectLocator.TextBoxName(driver, "Landman_input").click();
+		Common.selectFromList();
+		CreateProspectLocator.ElementID(driver, "EstPurchasePrice").sendKeys(
+				"" + Common.randomNumber());
+		CreateProspectLocator.ElementID(driver, "LegalDescription").sendKeys(
+				"Test Description" + Common.randomDecimalNumber());
+
+		ScreenShots.screenshots(driver, "Work Flow");
+		log.info("Tract header filled sucessfully");
+		// ------------Tract Header End--------------//
+
+		CreateProspectLocator.ElementID(driver, "btnSaveProspect").click();
+		Common.loader();
+		log.info("Prospect Created Sucessessfully");
+		// ------------Tract End--------------//
+		return driver;
+	}
+	
 	public static WebDriver ViewProspect(WebDriver driver) throws Exception {
 
 		/*// ---------------View Prospect by Smart Search---------------------//
@@ -224,14 +321,14 @@ public class CommonProspectFunctions {
 		// ---------------View Prospect by Menu List---------------------//
 		Common.loader();
 		CreateProspectLocator.MenuClick(driver).click();
-		Thread.sleep(3000);
 		Common.loader();
-		ScreenShots.screenshots(driver, "Prospect");
+		//ScreenShots.screenshots(driver, "Prospect");
 		//CreateProspectLocator.ViewProspectButtonClick(driver).click();
 		Thread.sleep(1000);
 		CreateProspectLocator.ClickFirstProspect(driver).click();
 		ScreenShots.screenshots(driver, "Prospect");
 		log.info("Prospect Viewed By Menu List");
+		Common.loader();
 		return driver;
 
 		// ---------------View Prospect by Menu List END---------------------//
@@ -738,6 +835,121 @@ public class CommonProspectFunctions {
 		// ------------Tract End--------------//
 		return driver;
 	}
+	public static WebDriver GenerateOfferPackage(WebDriver driver) throws Exception {
+		log.info("Offer package Generation Start");
+		Common.loader();
+		Robot rb = new Robot();
+		Common.loader();
+		
+		CreateProspectLocator.ActionButtonClick(driver).click();
+		Common.loader();
+		try {
+			CreateProspectLocator.ActionListClick(driver, 4).click();
+		} catch (org.openqa.selenium.NoSuchElementException exception) {
+			Thread.sleep(2000);
+			CreateProspectLocator.ActionListClick(driver, 4).click();
+		} catch (org.openqa.selenium.ElementNotVisibleException exception) {
+			Thread.sleep(2000);
+		CreateProspectLocator.ActionListClick(driver, 4).click();
+		}
+		Common.loader();
+		WorkFlowLocator.ElementID(driver, "pInterest").clear();
+		WorkFlowLocator.ElementID(driver, "pInterest").sendKeys(
+				"" + Common.randomDecimalNumber());
+		WorkFlowLocator.WorkFlowDate(driver, 1).click();
+
+		Thread.sleep(2000);
+		Thread.sleep(1000);
+		try {
+			CreateProspectLocator.SelectDate(driver).click();
+		} catch (org.openqa.selenium.NoSuchElementException exception) {
+			Thread.sleep(1000);
+			rb.keyPress(KeyEvent.VK_ENTER);
+			rb.keyRelease(KeyEvent.VK_ENTER);
+		}
+
+		// CreateProspectLocator.SelectDate(driver).click();
+		Thread.sleep(500);
+		/* CreateProspectLocator.SelectDate(driver).click(); */
+
+		log.info("Date Selected Sucessfully");
+		Thread.sleep(2000);
+		WorkFlowLocator.WorkFlowDate(driver, 2).click();
+		Thread.sleep(3000);
+
+		Thread.sleep(1000);
+		try {
+			CreateProspectLocator.SelectDate(driver).click();
+		} catch (org.openqa.selenium.NoSuchElementException exception) {
+			Thread.sleep(1000);
+			rb.keyPress(KeyEvent.VK_ENTER);
+			rb.keyRelease(KeyEvent.VK_ENTER);
+		} catch (org.openqa.selenium.ElementNotVisibleException exception) {
+			Thread.sleep(1000);
+			rb.keyPress(KeyEvent.VK_ENTER);
+			rb.keyRelease(KeyEvent.VK_ENTER);
+		}
+
+		/*
+		 * CreateProspectLocator.SelectDate(driver).click();
+		 * rb.keyPress(KeyEvent.VK_ENTER); rb.keyRelease(KeyEvent.VK_ENTER);
+		 */
+		ScreenShots.screenshots(driver, "Work Flow");
+		Thread.sleep(2000);
+		log.info("Efective Date Selected Sucessfully");
+		Thread.sleep(2000);
+		WorkFlowLocator.offerPackageNextButton(driver).click();
+
+		Thread.sleep(2000);
+		WorkFlowLocator.AttachmentCheckBox(driver, 1).click();
+
+		ScreenShots.screenshots(driver, "Work Flow");
+		WorkFlowLocator.GenerateButton(driver).click();
+		log.info("Offer package Generated Sucessfully");
+		return driver;
+	}
 	
+	
+	public static WebDriver FixedFloating(WebDriver driver)throws Exception
+	{
+		Common.loader();
+		Common.loader();
+		try {
+			for(int j=0;j<=3;j++)
+			{
+				for(int i=1;i<=3;i++)
+				{
+					//CreateProspectLocator.TractInputField(driver, j, i,"NPRIInt00").getText();
+					CreateProspectLocator.TractInputField(driver, j, i,"NPRIInt00").sendKeys(""+Common.randomDecimalNumber());
+					Thread.sleep(1000);
+					CreateProspectLocator.TractTDField(driver, j, i,"NRA").click();
+					System.out.println("NRA Value Before Changeing to Fixed: "+CreateProspectLocator.TractTDField(driver, j, i,"NRA").getText());
+					log.info("NRA Value Before Changeing to Fixed: "+CreateProspectLocator.TractTDField(driver, j, i,"NRA").getText());
+					CreateProspectLocator.FixedFlotingIconClick(driver,j,i,"NPRIInt").click();
+					Thread.sleep(1000);
+					CreateProspectLocator.FixedOrFlotingOptionClick(driver,j, i, 1,"NPRIInt").click();
+					Common.loader();
+					CreateProspectLocator.TractTDField(driver, j, i,"NRA").click();
+					log.info("NRA Value After Changeing to Fixed: "+CreateProspectLocator.TractTDField(driver, j, i,"NRA").getText());
+					System.out.println("NRA Value After Changeing to Fixed: "+CreateProspectLocator.TractTDField(driver, j, i,"NRA").getText());
+					Thread.sleep(2000);
+					CreateProspectLocator.FixedFlotingIconClick(driver,j,i,"NPRIInt").click();
+					Thread.sleep(2000);
+					CreateProspectLocator.FixedOrFlotingOptionClick(driver,j, i, 1,"NPRIInt").click();
+					Thread.sleep(2000);
+					CreateProspectLocator.TractTDField(driver, j, i,"NRA").click();
+					System.out.println("NRA Value After Changeing to Floating: "+CreateProspectLocator.TractTDField(driver, j, i,"NRA").getText());
+					log.info("NRA Value After Changeing to Fixed: "+CreateProspectLocator.TractTDField(driver, j, i,"NRA").getText());
+				
+				}
+				
+			}
+			}catch (org.openqa.selenium.NoSuchElementException e) {
+				log.info("");
+			}	
+						
+		
+		return driver;
+	}
 	
 }
