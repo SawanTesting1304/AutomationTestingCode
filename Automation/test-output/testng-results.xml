@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="124793" started-at="2018-07-09T10:54:56Z" finished-at="2018-07-09T10:57:01Z">
+  <suite name="Default suite" duration-ms="100007" started-at="2018-07-10T16:23:50Z" finished-at="2018-07-10T16:25:30Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="124793" started-at="2018-07-09T10:54:56Z" finished-at="2018-07-09T10:57:01Z">
-      <class name="RRMMS.Test.EditProductionUnit">
-        <test-method status="PASS" signature="ProductionUnitEdit()[pri:0, instance:RRMMS.Test.EditProductionUnit@1e69659]" name="ProductionUnitEdit" duration-ms="103466" started-at="2018-07-09T16:24:56Z" finished-at="2018-07-09T16:26:40Z">
+    <test name="Default test" duration-ms="100007" started-at="2018-07-10T16:23:50Z" finished-at="2018-07-10T16:25:30Z">
+      <class name="RRMMS.Test.Association">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:RRMMS.Test.Association@1a5b54]" name="beforeMethod" is-config="true" duration-ms="12" started-at="2018-07-10T21:53:50Z" finished-at="2018-07-10T21:53:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void RRMMS.Test.Association.AssociationMain() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ProductionUnitEdit -->
-        <test-method status="PASS" signature="ProductionUnitMathDownload()[pri:0, instance:RRMMS.Test.EditProductionUnit@1e69659]" name="ProductionUnitMathDownload" duration-ms="21301" started-at="2018-07-09T16:26:40Z" finished-at="2018-07-09T16:27:01Z">
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AssociationMain()[pri:0, instance:RRMMS.Test.Association@1a5b54]" name="AssociationMain" duration-ms="99658" started-at="2018-07-10T21:53:50Z" finished-at="2018-07-10T21:55:30Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ProductionUnitMathDownload -->
-      </class> <!-- RRMMS.Test.EditProductionUnit -->
+        </test-method> <!-- AssociationMain -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:RRMMS.Test.Association@1a5b54]" name="endTest" is-config="true" duration-ms="315" started-at="2018-07-10T21:55:30Z" finished-at="2018-07-10T21:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:RRMMS.Test.Association@1a5b54]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-07-10T21:55:30Z" finished-at="2018-07-10T21:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AssociationMain status=SUCCESS method=Association.AssociationMain()[pri:0, instance:RRMMS.Test.Association@1a5b54] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- RRMMS.Test.Association -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

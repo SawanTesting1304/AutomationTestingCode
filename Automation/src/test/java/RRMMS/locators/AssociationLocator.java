@@ -101,7 +101,7 @@ public class AssociationLocator {
 	}
 	public static WebElement DropLocation(WebDriver driver, int i)
 	{
-		WebElement DropLocation=driver.findElement(By.xpath("//div[@id='accordionN0']//tbody["+i+"]/tr[1]//td[9]"));
+		WebElement DropLocation=driver.findElement(By.xpath("//div[@id='accordionN0']//tbody["+i+"]/tr[1]//td[9]//span"));
 		return DropLocation;
 	}
 	public static WebElement Filtertoggel(WebDriver driver)
